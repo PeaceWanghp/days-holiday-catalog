@@ -1,8 +1,517 @@
 {
   "schemaVersion": 1,
   "defaultLanguage": "en",
-  "languages": ["en", "zh-Hans"],
+  "languages": [
+    "en",
+    "zh-Hans"
+  ],
   "countries": [
+    {
+      "code": "AF",
+      "names": {
+        "en": "Afghanistan",
+        "zh-Hans": "阿富汗"
+      },
+      "file": "countries/AF.json",
+      "regionHints": [
+        "AF"
+      ]
+    },
+    {
+      "code": "AX",
+      "names": {
+        "en": "Åland Islands",
+        "zh-Hans": "奥兰群岛"
+      },
+      "file": "countries/AX.json",
+      "regionHints": [
+        "AX"
+      ]
+    },
+    {
+      "code": "AL",
+      "names": {
+        "en": "Albania",
+        "zh-Hans": "阿尔巴尼亚"
+      },
+      "file": "countries/AL.json",
+      "regionHints": [
+        "AL"
+      ]
+    },
+    {
+      "code": "DZ",
+      "names": {
+        "en": "Algeria",
+        "zh-Hans": "阿尔及利亚"
+      },
+      "file": "countries/DZ.json",
+      "regionHints": [
+        "DZ"
+      ]
+    },
+    {
+      "code": "AS",
+      "names": {
+        "en": "American Samoa",
+        "zh-Hans": "美属萨摩亚"
+      },
+      "file": "countries/AS.json",
+      "regionHints": [
+        "AS"
+      ]
+    },
+    {
+      "code": "AD",
+      "names": {
+        "en": "Andorra",
+        "zh-Hans": "安道尔"
+      },
+      "file": "countries/AD.json",
+      "regionHints": [
+        "AD"
+      ]
+    },
+    {
+      "code": "AO",
+      "names": {
+        "en": "Angola",
+        "zh-Hans": "安哥拉"
+      },
+      "file": "countries/AO.json",
+      "regionHints": [
+        "AO"
+      ]
+    },
+    {
+      "code": "AI",
+      "names": {
+        "en": "Anguilla",
+        "zh-Hans": "安圭拉"
+      },
+      "file": "countries/AI.json",
+      "regionHints": [
+        "AI"
+      ]
+    },
+    {
+      "code": "AQ",
+      "names": {
+        "en": "Antarctica",
+        "zh-Hans": "南极洲"
+      },
+      "file": "countries/AQ.json",
+      "regionHints": [
+        "AQ"
+      ]
+    },
+    {
+      "code": "AG",
+      "names": {
+        "en": "Antigua & Barbuda",
+        "zh-Hans": "安提瓜和巴布达"
+      },
+      "file": "countries/AG.json",
+      "regionHints": [
+        "AG"
+      ]
+    },
+    {
+      "code": "AR",
+      "names": {
+        "en": "Argentina",
+        "zh-Hans": "阿根廷"
+      },
+      "file": "countries/AR.json",
+      "regionHints": [
+        "AR"
+      ]
+    },
+    {
+      "code": "AM",
+      "names": {
+        "en": "Armenia",
+        "zh-Hans": "亚美尼亚"
+      },
+      "file": "countries/AM.json",
+      "regionHints": [
+        "AM"
+      ]
+    },
+    {
+      "code": "AW",
+      "names": {
+        "en": "Aruba",
+        "zh-Hans": "阿鲁巴"
+      },
+      "file": "countries/AW.json",
+      "regionHints": [
+        "AW"
+      ]
+    },
+    {
+      "code": "AU",
+      "names": {
+        "en": "Australia",
+        "zh-Hans": "澳大利亚"
+      },
+      "file": "countries/AU.json",
+      "regionHints": [
+        "AU"
+      ]
+    },
+    {
+      "code": "AT",
+      "names": {
+        "en": "Austria",
+        "zh-Hans": "奥地利"
+      },
+      "file": "countries/AT.json",
+      "regionHints": [
+        "AT"
+      ]
+    },
+    {
+      "code": "AZ",
+      "names": {
+        "en": "Azerbaijan",
+        "zh-Hans": "阿塞拜疆"
+      },
+      "file": "countries/AZ.json",
+      "regionHints": [
+        "AZ"
+      ]
+    },
+    {
+      "code": "BS",
+      "names": {
+        "en": "Bahamas",
+        "zh-Hans": "巴哈马"
+      },
+      "file": "countries/BS.json",
+      "regionHints": [
+        "BS"
+      ]
+    },
+    {
+      "code": "BH",
+      "names": {
+        "en": "Bahrain",
+        "zh-Hans": "巴林"
+      },
+      "file": "countries/BH.json",
+      "regionHints": [
+        "BH"
+      ]
+    },
+    {
+      "code": "BD",
+      "names": {
+        "en": "Bangladesh",
+        "zh-Hans": "孟加拉国"
+      },
+      "file": "countries/BD.json",
+      "regionHints": [
+        "BD"
+      ]
+    },
+    {
+      "code": "BB",
+      "names": {
+        "en": "Barbados",
+        "zh-Hans": "巴巴多斯"
+      },
+      "file": "countries/BB.json",
+      "regionHints": [
+        "BB"
+      ]
+    },
+    {
+      "code": "BY",
+      "names": {
+        "en": "Belarus",
+        "zh-Hans": "白俄罗斯"
+      },
+      "file": "countries/BY.json",
+      "regionHints": [
+        "BY"
+      ]
+    },
+    {
+      "code": "BE",
+      "names": {
+        "en": "Belgium",
+        "zh-Hans": "比利时"
+      },
+      "file": "countries/BE.json",
+      "regionHints": [
+        "BE"
+      ]
+    },
+    {
+      "code": "BZ",
+      "names": {
+        "en": "Belize",
+        "zh-Hans": "伯利兹"
+      },
+      "file": "countries/BZ.json",
+      "regionHints": [
+        "BZ"
+      ]
+    },
+    {
+      "code": "BJ",
+      "names": {
+        "en": "Benin",
+        "zh-Hans": "贝宁"
+      },
+      "file": "countries/BJ.json",
+      "regionHints": [
+        "BJ"
+      ]
+    },
+    {
+      "code": "BM",
+      "names": {
+        "en": "Bermuda",
+        "zh-Hans": "百慕大"
+      },
+      "file": "countries/BM.json",
+      "regionHints": [
+        "BM"
+      ]
+    },
+    {
+      "code": "BT",
+      "names": {
+        "en": "Bhutan",
+        "zh-Hans": "不丹"
+      },
+      "file": "countries/BT.json",
+      "regionHints": [
+        "BT"
+      ]
+    },
+    {
+      "code": "BO",
+      "names": {
+        "en": "Bolivia",
+        "zh-Hans": "玻利维亚"
+      },
+      "file": "countries/BO.json",
+      "regionHints": [
+        "BO"
+      ]
+    },
+    {
+      "code": "BA",
+      "names": {
+        "en": "Bosnia & Herzegovina",
+        "zh-Hans": "波斯尼亚和黑塞哥维那"
+      },
+      "file": "countries/BA.json",
+      "regionHints": [
+        "BA"
+      ]
+    },
+    {
+      "code": "BW",
+      "names": {
+        "en": "Botswana",
+        "zh-Hans": "博茨瓦纳"
+      },
+      "file": "countries/BW.json",
+      "regionHints": [
+        "BW"
+      ]
+    },
+    {
+      "code": "BV",
+      "names": {
+        "en": "Bouvet Island",
+        "zh-Hans": "布韦岛"
+      },
+      "file": "countries/BV.json",
+      "regionHints": [
+        "BV"
+      ]
+    },
+    {
+      "code": "BR",
+      "names": {
+        "en": "Brazil",
+        "zh-Hans": "巴西"
+      },
+      "file": "countries/BR.json",
+      "regionHints": [
+        "BR"
+      ]
+    },
+    {
+      "code": "VG",
+      "names": {
+        "en": "British Virgin Islands",
+        "zh-Hans": "英属维尔京群岛"
+      },
+      "file": "countries/VG.json",
+      "regionHints": [
+        "VG"
+      ]
+    },
+    {
+      "code": "BN",
+      "names": {
+        "en": "Brunei",
+        "zh-Hans": "文莱"
+      },
+      "file": "countries/BN.json",
+      "regionHints": [
+        "BN"
+      ]
+    },
+    {
+      "code": "BG",
+      "names": {
+        "en": "Bulgaria",
+        "zh-Hans": "保加利亚"
+      },
+      "file": "countries/BG.json",
+      "regionHints": [
+        "BG"
+      ]
+    },
+    {
+      "code": "BF",
+      "names": {
+        "en": "Burkina Faso",
+        "zh-Hans": "布基纳法索"
+      },
+      "file": "countries/BF.json",
+      "regionHints": [
+        "BF"
+      ]
+    },
+    {
+      "code": "BI",
+      "names": {
+        "en": "Burundi",
+        "zh-Hans": "布隆迪"
+      },
+      "file": "countries/BI.json",
+      "regionHints": [
+        "BI"
+      ]
+    },
+    {
+      "code": "KH",
+      "names": {
+        "en": "Cambodia",
+        "zh-Hans": "柬埔寨"
+      },
+      "file": "countries/KH.json",
+      "regionHints": [
+        "KH"
+      ]
+    },
+    {
+      "code": "CM",
+      "names": {
+        "en": "Cameroon",
+        "zh-Hans": "喀麦隆"
+      },
+      "file": "countries/CM.json",
+      "regionHints": [
+        "CM"
+      ]
+    },
+    {
+      "code": "CA",
+      "names": {
+        "en": "Canada",
+        "zh-Hans": "加拿大"
+      },
+      "file": "countries/CA.json",
+      "regionHints": [
+        "CA"
+      ]
+    },
+    {
+      "code": "CV",
+      "names": {
+        "en": "Cape Verde",
+        "zh-Hans": "佛得角"
+      },
+      "file": "countries/CV.json",
+      "regionHints": [
+        "CV"
+      ]
+    },
+    {
+      "code": "BQ",
+      "names": {
+        "en": "Caribbean Netherlands",
+        "zh-Hans": "荷属加勒比区"
+      },
+      "file": "countries/BQ.json",
+      "regionHints": [
+        "BQ"
+      ]
+    },
+    {
+      "code": "KY",
+      "names": {
+        "en": "Cayman Islands",
+        "zh-Hans": "开曼群岛"
+      },
+      "file": "countries/KY.json",
+      "regionHints": [
+        "KY"
+      ]
+    },
+    {
+      "code": "CF",
+      "names": {
+        "en": "Central African Republic",
+        "zh-Hans": "中非共和国"
+      },
+      "file": "countries/CF.json",
+      "regionHints": [
+        "CF"
+      ]
+    },
+    {
+      "code": "TD",
+      "names": {
+        "en": "Chad",
+        "zh-Hans": "乍得"
+      },
+      "file": "countries/TD.json",
+      "regionHints": [
+        "TD"
+      ]
+    },
+    {
+      "code": "IO",
+      "names": {
+        "en": "Chagos Archipelago",
+        "zh-Hans": "查戈斯群岛"
+      },
+      "file": "countries/IO.json",
+      "regionHints": [
+        "IO"
+      ]
+    },
+    {
+      "code": "CL",
+      "names": {
+        "en": "Chile",
+        "zh-Hans": "智利"
+      },
+      "file": "countries/CL.json",
+      "regionHints": [
+        "CL"
+      ]
+    },
     {
       "code": "CN",
       "names": {
@@ -10,16 +519,724 @@
         "zh-Hans": "中国"
       },
       "file": "countries/CN.json",
-      "regionHints": ["CN", "HK", "MO"]
+      "regionHints": [
+        "CN"
+      ]
     },
     {
-      "code": "US",
+      "code": "CX",
       "names": {
-        "en": "United States",
-        "zh-Hans": "美国"
+        "en": "Christmas Island",
+        "zh-Hans": "圣诞岛"
       },
-      "file": "countries/US.json",
-      "regionHints": ["US"]
+      "file": "countries/CX.json",
+      "regionHints": [
+        "CX"
+      ]
+    },
+    {
+      "code": "CC",
+      "names": {
+        "en": "Cocos (Keeling) Islands",
+        "zh-Hans": "科科斯（基林）群岛"
+      },
+      "file": "countries/CC.json",
+      "regionHints": [
+        "CC"
+      ]
+    },
+    {
+      "code": "CO",
+      "names": {
+        "en": "Colombia",
+        "zh-Hans": "哥伦比亚"
+      },
+      "file": "countries/CO.json",
+      "regionHints": [
+        "CO"
+      ]
+    },
+    {
+      "code": "KM",
+      "names": {
+        "en": "Comoros",
+        "zh-Hans": "科摩罗"
+      },
+      "file": "countries/KM.json",
+      "regionHints": [
+        "KM"
+      ]
+    },
+    {
+      "code": "CG",
+      "names": {
+        "en": "Congo - Brazzaville",
+        "zh-Hans": "刚果（布）"
+      },
+      "file": "countries/CG.json",
+      "regionHints": [
+        "CG"
+      ]
+    },
+    {
+      "code": "CD",
+      "names": {
+        "en": "Congo - Kinshasa",
+        "zh-Hans": "刚果（金）"
+      },
+      "file": "countries/CD.json",
+      "regionHints": [
+        "CD"
+      ]
+    },
+    {
+      "code": "CK",
+      "names": {
+        "en": "Cook Islands",
+        "zh-Hans": "库克群岛"
+      },
+      "file": "countries/CK.json",
+      "regionHints": [
+        "CK"
+      ]
+    },
+    {
+      "code": "CR",
+      "names": {
+        "en": "Costa Rica",
+        "zh-Hans": "哥斯达黎加"
+      },
+      "file": "countries/CR.json",
+      "regionHints": [
+        "CR"
+      ]
+    },
+    {
+      "code": "CI",
+      "names": {
+        "en": "Côte d’Ivoire",
+        "zh-Hans": "科特迪瓦"
+      },
+      "file": "countries/CI.json",
+      "regionHints": [
+        "CI"
+      ]
+    },
+    {
+      "code": "HR",
+      "names": {
+        "en": "Croatia",
+        "zh-Hans": "克罗地亚"
+      },
+      "file": "countries/HR.json",
+      "regionHints": [
+        "HR"
+      ]
+    },
+    {
+      "code": "CU",
+      "names": {
+        "en": "Cuba",
+        "zh-Hans": "古巴"
+      },
+      "file": "countries/CU.json",
+      "regionHints": [
+        "CU"
+      ]
+    },
+    {
+      "code": "CW",
+      "names": {
+        "en": "Curaçao",
+        "zh-Hans": "库拉索"
+      },
+      "file": "countries/CW.json",
+      "regionHints": [
+        "CW"
+      ]
+    },
+    {
+      "code": "CY",
+      "names": {
+        "en": "Cyprus",
+        "zh-Hans": "塞浦路斯"
+      },
+      "file": "countries/CY.json",
+      "regionHints": [
+        "CY"
+      ]
+    },
+    {
+      "code": "CZ",
+      "names": {
+        "en": "Czechia",
+        "zh-Hans": "捷克"
+      },
+      "file": "countries/CZ.json",
+      "regionHints": [
+        "CZ"
+      ]
+    },
+    {
+      "code": "DK",
+      "names": {
+        "en": "Denmark",
+        "zh-Hans": "丹麦"
+      },
+      "file": "countries/DK.json",
+      "regionHints": [
+        "DK"
+      ]
+    },
+    {
+      "code": "DJ",
+      "names": {
+        "en": "Djibouti",
+        "zh-Hans": "吉布提"
+      },
+      "file": "countries/DJ.json",
+      "regionHints": [
+        "DJ"
+      ]
+    },
+    {
+      "code": "DM",
+      "names": {
+        "en": "Dominica",
+        "zh-Hans": "多米尼克"
+      },
+      "file": "countries/DM.json",
+      "regionHints": [
+        "DM"
+      ]
+    },
+    {
+      "code": "DO",
+      "names": {
+        "en": "Dominican Republic",
+        "zh-Hans": "多米尼加共和国"
+      },
+      "file": "countries/DO.json",
+      "regionHints": [
+        "DO"
+      ]
+    },
+    {
+      "code": "EC",
+      "names": {
+        "en": "Ecuador",
+        "zh-Hans": "厄瓜多尔"
+      },
+      "file": "countries/EC.json",
+      "regionHints": [
+        "EC"
+      ]
+    },
+    {
+      "code": "EG",
+      "names": {
+        "en": "Egypt",
+        "zh-Hans": "埃及"
+      },
+      "file": "countries/EG.json",
+      "regionHints": [
+        "EG"
+      ]
+    },
+    {
+      "code": "SV",
+      "names": {
+        "en": "El Salvador",
+        "zh-Hans": "萨尔瓦多"
+      },
+      "file": "countries/SV.json",
+      "regionHints": [
+        "SV"
+      ]
+    },
+    {
+      "code": "GQ",
+      "names": {
+        "en": "Equatorial Guinea",
+        "zh-Hans": "赤道几内亚"
+      },
+      "file": "countries/GQ.json",
+      "regionHints": [
+        "GQ"
+      ]
+    },
+    {
+      "code": "ER",
+      "names": {
+        "en": "Eritrea",
+        "zh-Hans": "厄立特里亚"
+      },
+      "file": "countries/ER.json",
+      "regionHints": [
+        "ER"
+      ]
+    },
+    {
+      "code": "EE",
+      "names": {
+        "en": "Estonia",
+        "zh-Hans": "爱沙尼亚"
+      },
+      "file": "countries/EE.json",
+      "regionHints": [
+        "EE"
+      ]
+    },
+    {
+      "code": "SZ",
+      "names": {
+        "en": "Eswatini",
+        "zh-Hans": "斯威士兰"
+      },
+      "file": "countries/SZ.json",
+      "regionHints": [
+        "SZ"
+      ]
+    },
+    {
+      "code": "ET",
+      "names": {
+        "en": "Ethiopia",
+        "zh-Hans": "埃塞俄比亚"
+      },
+      "file": "countries/ET.json",
+      "regionHints": [
+        "ET"
+      ]
+    },
+    {
+      "code": "FK",
+      "names": {
+        "en": "Falkland Islands",
+        "zh-Hans": "福克兰群岛"
+      },
+      "file": "countries/FK.json",
+      "regionHints": [
+        "FK"
+      ]
+    },
+    {
+      "code": "FO",
+      "names": {
+        "en": "Faroe Islands",
+        "zh-Hans": "法罗群岛"
+      },
+      "file": "countries/FO.json",
+      "regionHints": [
+        "FO"
+      ]
+    },
+    {
+      "code": "FJ",
+      "names": {
+        "en": "Fiji",
+        "zh-Hans": "斐济"
+      },
+      "file": "countries/FJ.json",
+      "regionHints": [
+        "FJ"
+      ]
+    },
+    {
+      "code": "FI",
+      "names": {
+        "en": "Finland",
+        "zh-Hans": "芬兰"
+      },
+      "file": "countries/FI.json",
+      "regionHints": [
+        "FI"
+      ]
+    },
+    {
+      "code": "FR",
+      "names": {
+        "en": "France",
+        "zh-Hans": "法国"
+      },
+      "file": "countries/FR.json",
+      "regionHints": [
+        "FR"
+      ]
+    },
+    {
+      "code": "GF",
+      "names": {
+        "en": "French Guiana",
+        "zh-Hans": "法属圭亚那"
+      },
+      "file": "countries/GF.json",
+      "regionHints": [
+        "GF"
+      ]
+    },
+    {
+      "code": "PF",
+      "names": {
+        "en": "French Polynesia",
+        "zh-Hans": "法属波利尼西亚"
+      },
+      "file": "countries/PF.json",
+      "regionHints": [
+        "PF"
+      ]
+    },
+    {
+      "code": "TF",
+      "names": {
+        "en": "French Southern Territories",
+        "zh-Hans": "法属南部领地"
+      },
+      "file": "countries/TF.json",
+      "regionHints": [
+        "TF"
+      ]
+    },
+    {
+      "code": "GA",
+      "names": {
+        "en": "Gabon",
+        "zh-Hans": "加蓬"
+      },
+      "file": "countries/GA.json",
+      "regionHints": [
+        "GA"
+      ]
+    },
+    {
+      "code": "GM",
+      "names": {
+        "en": "Gambia",
+        "zh-Hans": "冈比亚"
+      },
+      "file": "countries/GM.json",
+      "regionHints": [
+        "GM"
+      ]
+    },
+    {
+      "code": "GE",
+      "names": {
+        "en": "Georgia",
+        "zh-Hans": "格鲁吉亚"
+      },
+      "file": "countries/GE.json",
+      "regionHints": [
+        "GE"
+      ]
+    },
+    {
+      "code": "DE",
+      "names": {
+        "en": "Germany",
+        "zh-Hans": "德国"
+      },
+      "file": "countries/DE.json",
+      "regionHints": [
+        "DE"
+      ]
+    },
+    {
+      "code": "GH",
+      "names": {
+        "en": "Ghana",
+        "zh-Hans": "加纳"
+      },
+      "file": "countries/GH.json",
+      "regionHints": [
+        "GH"
+      ]
+    },
+    {
+      "code": "GI",
+      "names": {
+        "en": "Gibraltar",
+        "zh-Hans": "直布罗陀"
+      },
+      "file": "countries/GI.json",
+      "regionHints": [
+        "GI"
+      ]
+    },
+    {
+      "code": "GR",
+      "names": {
+        "en": "Greece",
+        "zh-Hans": "希腊"
+      },
+      "file": "countries/GR.json",
+      "regionHints": [
+        "GR"
+      ]
+    },
+    {
+      "code": "GL",
+      "names": {
+        "en": "Greenland",
+        "zh-Hans": "格陵兰"
+      },
+      "file": "countries/GL.json",
+      "regionHints": [
+        "GL"
+      ]
+    },
+    {
+      "code": "GD",
+      "names": {
+        "en": "Grenada",
+        "zh-Hans": "格林纳达"
+      },
+      "file": "countries/GD.json",
+      "regionHints": [
+        "GD"
+      ]
+    },
+    {
+      "code": "GP",
+      "names": {
+        "en": "Guadeloupe",
+        "zh-Hans": "瓜德罗普"
+      },
+      "file": "countries/GP.json",
+      "regionHints": [
+        "GP"
+      ]
+    },
+    {
+      "code": "GU",
+      "names": {
+        "en": "Guam",
+        "zh-Hans": "关岛"
+      },
+      "file": "countries/GU.json",
+      "regionHints": [
+        "GU"
+      ]
+    },
+    {
+      "code": "GT",
+      "names": {
+        "en": "Guatemala",
+        "zh-Hans": "危地马拉"
+      },
+      "file": "countries/GT.json",
+      "regionHints": [
+        "GT"
+      ]
+    },
+    {
+      "code": "GG",
+      "names": {
+        "en": "Guernsey",
+        "zh-Hans": "根西岛"
+      },
+      "file": "countries/GG.json",
+      "regionHints": [
+        "GG"
+      ]
+    },
+    {
+      "code": "GN",
+      "names": {
+        "en": "Guinea",
+        "zh-Hans": "几内亚"
+      },
+      "file": "countries/GN.json",
+      "regionHints": [
+        "GN"
+      ]
+    },
+    {
+      "code": "GW",
+      "names": {
+        "en": "Guinea-Bissau",
+        "zh-Hans": "几内亚比绍"
+      },
+      "file": "countries/GW.json",
+      "regionHints": [
+        "GW"
+      ]
+    },
+    {
+      "code": "GY",
+      "names": {
+        "en": "Guyana",
+        "zh-Hans": "圭亚那"
+      },
+      "file": "countries/GY.json",
+      "regionHints": [
+        "GY"
+      ]
+    },
+    {
+      "code": "HT",
+      "names": {
+        "en": "Haiti",
+        "zh-Hans": "海地"
+      },
+      "file": "countries/HT.json",
+      "regionHints": [
+        "HT"
+      ]
+    },
+    {
+      "code": "HM",
+      "names": {
+        "en": "Heard & McDonald Islands",
+        "zh-Hans": "赫德岛和麦克唐纳群岛"
+      },
+      "file": "countries/HM.json",
+      "regionHints": [
+        "HM"
+      ]
+    },
+    {
+      "code": "HN",
+      "names": {
+        "en": "Honduras",
+        "zh-Hans": "洪都拉斯"
+      },
+      "file": "countries/HN.json",
+      "regionHints": [
+        "HN"
+      ]
+    },
+    {
+      "code": "HK",
+      "names": {
+        "en": "Hong Kong",
+        "zh-Hans": "香港"
+      },
+      "file": "countries/HK.json",
+      "regionHints": [
+        "HK"
+      ]
+    },
+    {
+      "code": "HU",
+      "names": {
+        "en": "Hungary",
+        "zh-Hans": "匈牙利"
+      },
+      "file": "countries/HU.json",
+      "regionHints": [
+        "HU"
+      ]
+    },
+    {
+      "code": "IS",
+      "names": {
+        "en": "Iceland",
+        "zh-Hans": "冰岛"
+      },
+      "file": "countries/IS.json",
+      "regionHints": [
+        "IS"
+      ]
+    },
+    {
+      "code": "IN",
+      "names": {
+        "en": "India",
+        "zh-Hans": "印度"
+      },
+      "file": "countries/IN.json",
+      "regionHints": [
+        "IN"
+      ]
+    },
+    {
+      "code": "ID",
+      "names": {
+        "en": "Indonesia",
+        "zh-Hans": "印度尼西亚"
+      },
+      "file": "countries/ID.json",
+      "regionHints": [
+        "ID"
+      ]
+    },
+    {
+      "code": "IR",
+      "names": {
+        "en": "Iran",
+        "zh-Hans": "伊朗"
+      },
+      "file": "countries/IR.json",
+      "regionHints": [
+        "IR"
+      ]
+    },
+    {
+      "code": "IQ",
+      "names": {
+        "en": "Iraq",
+        "zh-Hans": "伊拉克"
+      },
+      "file": "countries/IQ.json",
+      "regionHints": [
+        "IQ"
+      ]
+    },
+    {
+      "code": "IE",
+      "names": {
+        "en": "Ireland",
+        "zh-Hans": "爱尔兰"
+      },
+      "file": "countries/IE.json",
+      "regionHints": [
+        "IE"
+      ]
+    },
+    {
+      "code": "IM",
+      "names": {
+        "en": "Isle of Man",
+        "zh-Hans": "马恩岛"
+      },
+      "file": "countries/IM.json",
+      "regionHints": [
+        "IM"
+      ]
+    },
+    {
+      "code": "IL",
+      "names": {
+        "en": "Israel",
+        "zh-Hans": "以色列"
+      },
+      "file": "countries/IL.json",
+      "regionHints": [
+        "IL"
+      ]
+    },
+    {
+      "code": "IT",
+      "names": {
+        "en": "Italy",
+        "zh-Hans": "意大利"
+      },
+      "file": "countries/IT.json",
+      "regionHints": [
+        "IT"
+      ]
+    },
+    {
+      "code": "JM",
+      "names": {
+        "en": "Jamaica",
+        "zh-Hans": "牙买加"
+      },
+      "file": "countries/JM.json",
+      "regionHints": [
+        "JM"
+      ]
     },
     {
       "code": "JP",
@@ -28,7 +1245,1527 @@
         "zh-Hans": "日本"
       },
       "file": "countries/JP.json",
-      "regionHints": ["JP"]
+      "regionHints": [
+        "JP"
+      ]
+    },
+    {
+      "code": "JE",
+      "names": {
+        "en": "Jersey",
+        "zh-Hans": "泽西岛"
+      },
+      "file": "countries/JE.json",
+      "regionHints": [
+        "JE"
+      ]
+    },
+    {
+      "code": "JO",
+      "names": {
+        "en": "Jordan",
+        "zh-Hans": "约旦"
+      },
+      "file": "countries/JO.json",
+      "regionHints": [
+        "JO"
+      ]
+    },
+    {
+      "code": "KZ",
+      "names": {
+        "en": "Kazakhstan",
+        "zh-Hans": "哈萨克斯坦"
+      },
+      "file": "countries/KZ.json",
+      "regionHints": [
+        "KZ"
+      ]
+    },
+    {
+      "code": "KE",
+      "names": {
+        "en": "Kenya",
+        "zh-Hans": "肯尼亚"
+      },
+      "file": "countries/KE.json",
+      "regionHints": [
+        "KE"
+      ]
+    },
+    {
+      "code": "KI",
+      "names": {
+        "en": "Kiribati",
+        "zh-Hans": "基里巴斯"
+      },
+      "file": "countries/KI.json",
+      "regionHints": [
+        "KI"
+      ]
+    },
+    {
+      "code": "XK",
+      "names": {
+        "en": "Kosovo",
+        "zh-Hans": "科索沃"
+      },
+      "file": "countries/XK.json",
+      "regionHints": [
+        "XK"
+      ]
+    },
+    {
+      "code": "KW",
+      "names": {
+        "en": "Kuwait",
+        "zh-Hans": "科威特"
+      },
+      "file": "countries/KW.json",
+      "regionHints": [
+        "KW"
+      ]
+    },
+    {
+      "code": "KG",
+      "names": {
+        "en": "Kyrgyzstan",
+        "zh-Hans": "吉尔吉斯斯坦"
+      },
+      "file": "countries/KG.json",
+      "regionHints": [
+        "KG"
+      ]
+    },
+    {
+      "code": "LA",
+      "names": {
+        "en": "Laos",
+        "zh-Hans": "老挝"
+      },
+      "file": "countries/LA.json",
+      "regionHints": [
+        "LA"
+      ]
+    },
+    {
+      "code": "LV",
+      "names": {
+        "en": "Latvia",
+        "zh-Hans": "拉脱维亚"
+      },
+      "file": "countries/LV.json",
+      "regionHints": [
+        "LV"
+      ]
+    },
+    {
+      "code": "LB",
+      "names": {
+        "en": "Lebanon",
+        "zh-Hans": "黎巴嫩"
+      },
+      "file": "countries/LB.json",
+      "regionHints": [
+        "LB"
+      ]
+    },
+    {
+      "code": "LS",
+      "names": {
+        "en": "Lesotho",
+        "zh-Hans": "莱索托"
+      },
+      "file": "countries/LS.json",
+      "regionHints": [
+        "LS"
+      ]
+    },
+    {
+      "code": "LR",
+      "names": {
+        "en": "Liberia",
+        "zh-Hans": "利比里亚"
+      },
+      "file": "countries/LR.json",
+      "regionHints": [
+        "LR"
+      ]
+    },
+    {
+      "code": "LY",
+      "names": {
+        "en": "Libya",
+        "zh-Hans": "利比亚"
+      },
+      "file": "countries/LY.json",
+      "regionHints": [
+        "LY"
+      ]
+    },
+    {
+      "code": "LI",
+      "names": {
+        "en": "Liechtenstein",
+        "zh-Hans": "列支敦士登"
+      },
+      "file": "countries/LI.json",
+      "regionHints": [
+        "LI"
+      ]
+    },
+    {
+      "code": "LT",
+      "names": {
+        "en": "Lithuania",
+        "zh-Hans": "立陶宛"
+      },
+      "file": "countries/LT.json",
+      "regionHints": [
+        "LT"
+      ]
+    },
+    {
+      "code": "LU",
+      "names": {
+        "en": "Luxembourg",
+        "zh-Hans": "卢森堡"
+      },
+      "file": "countries/LU.json",
+      "regionHints": [
+        "LU"
+      ]
+    },
+    {
+      "code": "MO",
+      "names": {
+        "en": "Macao",
+        "zh-Hans": "澳门"
+      },
+      "file": "countries/MO.json",
+      "regionHints": [
+        "MO"
+      ]
+    },
+    {
+      "code": "MG",
+      "names": {
+        "en": "Madagascar",
+        "zh-Hans": "马达加斯加"
+      },
+      "file": "countries/MG.json",
+      "regionHints": [
+        "MG"
+      ]
+    },
+    {
+      "code": "MW",
+      "names": {
+        "en": "Malawi",
+        "zh-Hans": "马拉维"
+      },
+      "file": "countries/MW.json",
+      "regionHints": [
+        "MW"
+      ]
+    },
+    {
+      "code": "MY",
+      "names": {
+        "en": "Malaysia",
+        "zh-Hans": "马来西亚"
+      },
+      "file": "countries/MY.json",
+      "regionHints": [
+        "MY"
+      ]
+    },
+    {
+      "code": "MV",
+      "names": {
+        "en": "Maldives",
+        "zh-Hans": "马尔代夫"
+      },
+      "file": "countries/MV.json",
+      "regionHints": [
+        "MV"
+      ]
+    },
+    {
+      "code": "ML",
+      "names": {
+        "en": "Mali",
+        "zh-Hans": "马里"
+      },
+      "file": "countries/ML.json",
+      "regionHints": [
+        "ML"
+      ]
+    },
+    {
+      "code": "MT",
+      "names": {
+        "en": "Malta",
+        "zh-Hans": "马耳他"
+      },
+      "file": "countries/MT.json",
+      "regionHints": [
+        "MT"
+      ]
+    },
+    {
+      "code": "MH",
+      "names": {
+        "en": "Marshall Islands",
+        "zh-Hans": "马绍尔群岛"
+      },
+      "file": "countries/MH.json",
+      "regionHints": [
+        "MH"
+      ]
+    },
+    {
+      "code": "MQ",
+      "names": {
+        "en": "Martinique",
+        "zh-Hans": "马提尼克"
+      },
+      "file": "countries/MQ.json",
+      "regionHints": [
+        "MQ"
+      ]
+    },
+    {
+      "code": "MR",
+      "names": {
+        "en": "Mauritania",
+        "zh-Hans": "毛里塔尼亚"
+      },
+      "file": "countries/MR.json",
+      "regionHints": [
+        "MR"
+      ]
+    },
+    {
+      "code": "MU",
+      "names": {
+        "en": "Mauritius",
+        "zh-Hans": "毛里求斯"
+      },
+      "file": "countries/MU.json",
+      "regionHints": [
+        "MU"
+      ]
+    },
+    {
+      "code": "YT",
+      "names": {
+        "en": "Mayotte",
+        "zh-Hans": "马约特"
+      },
+      "file": "countries/YT.json",
+      "regionHints": [
+        "YT"
+      ]
+    },
+    {
+      "code": "MX",
+      "names": {
+        "en": "Mexico",
+        "zh-Hans": "墨西哥"
+      },
+      "file": "countries/MX.json",
+      "regionHints": [
+        "MX"
+      ]
+    },
+    {
+      "code": "FM",
+      "names": {
+        "en": "Micronesia",
+        "zh-Hans": "密克罗尼西亚"
+      },
+      "file": "countries/FM.json",
+      "regionHints": [
+        "FM"
+      ]
+    },
+    {
+      "code": "MD",
+      "names": {
+        "en": "Moldova",
+        "zh-Hans": "摩尔多瓦"
+      },
+      "file": "countries/MD.json",
+      "regionHints": [
+        "MD"
+      ]
+    },
+    {
+      "code": "MC",
+      "names": {
+        "en": "Monaco",
+        "zh-Hans": "摩纳哥"
+      },
+      "file": "countries/MC.json",
+      "regionHints": [
+        "MC"
+      ]
+    },
+    {
+      "code": "MN",
+      "names": {
+        "en": "Mongolia",
+        "zh-Hans": "蒙古"
+      },
+      "file": "countries/MN.json",
+      "regionHints": [
+        "MN"
+      ]
+    },
+    {
+      "code": "ME",
+      "names": {
+        "en": "Montenegro",
+        "zh-Hans": "黑山"
+      },
+      "file": "countries/ME.json",
+      "regionHints": [
+        "ME"
+      ]
+    },
+    {
+      "code": "MS",
+      "names": {
+        "en": "Montserrat",
+        "zh-Hans": "蒙特塞拉特"
+      },
+      "file": "countries/MS.json",
+      "regionHints": [
+        "MS"
+      ]
+    },
+    {
+      "code": "MA",
+      "names": {
+        "en": "Morocco",
+        "zh-Hans": "摩洛哥"
+      },
+      "file": "countries/MA.json",
+      "regionHints": [
+        "MA"
+      ]
+    },
+    {
+      "code": "MZ",
+      "names": {
+        "en": "Mozambique",
+        "zh-Hans": "莫桑比克"
+      },
+      "file": "countries/MZ.json",
+      "regionHints": [
+        "MZ"
+      ]
+    },
+    {
+      "code": "MM",
+      "names": {
+        "en": "Myanmar (Burma)",
+        "zh-Hans": "缅甸"
+      },
+      "file": "countries/MM.json",
+      "regionHints": [
+        "MM"
+      ]
+    },
+    {
+      "code": "NA",
+      "names": {
+        "en": "Namibia",
+        "zh-Hans": "纳米比亚"
+      },
+      "file": "countries/NA.json",
+      "regionHints": [
+        "NA"
+      ]
+    },
+    {
+      "code": "NR",
+      "names": {
+        "en": "Nauru",
+        "zh-Hans": "瑙鲁"
+      },
+      "file": "countries/NR.json",
+      "regionHints": [
+        "NR"
+      ]
+    },
+    {
+      "code": "NP",
+      "names": {
+        "en": "Nepal",
+        "zh-Hans": "尼泊尔"
+      },
+      "file": "countries/NP.json",
+      "regionHints": [
+        "NP"
+      ]
+    },
+    {
+      "code": "NL",
+      "names": {
+        "en": "Netherlands",
+        "zh-Hans": "荷兰"
+      },
+      "file": "countries/NL.json",
+      "regionHints": [
+        "NL"
+      ]
+    },
+    {
+      "code": "NC",
+      "names": {
+        "en": "New Caledonia",
+        "zh-Hans": "新喀里多尼亚"
+      },
+      "file": "countries/NC.json",
+      "regionHints": [
+        "NC"
+      ]
+    },
+    {
+      "code": "NZ",
+      "names": {
+        "en": "New Zealand",
+        "zh-Hans": "新西兰"
+      },
+      "file": "countries/NZ.json",
+      "regionHints": [
+        "NZ"
+      ]
+    },
+    {
+      "code": "NI",
+      "names": {
+        "en": "Nicaragua",
+        "zh-Hans": "尼加拉瓜"
+      },
+      "file": "countries/NI.json",
+      "regionHints": [
+        "NI"
+      ]
+    },
+    {
+      "code": "NE",
+      "names": {
+        "en": "Niger",
+        "zh-Hans": "尼日尔"
+      },
+      "file": "countries/NE.json",
+      "regionHints": [
+        "NE"
+      ]
+    },
+    {
+      "code": "NG",
+      "names": {
+        "en": "Nigeria",
+        "zh-Hans": "尼日利亚"
+      },
+      "file": "countries/NG.json",
+      "regionHints": [
+        "NG"
+      ]
+    },
+    {
+      "code": "NU",
+      "names": {
+        "en": "Niue",
+        "zh-Hans": "纽埃"
+      },
+      "file": "countries/NU.json",
+      "regionHints": [
+        "NU"
+      ]
+    },
+    {
+      "code": "NF",
+      "names": {
+        "en": "Norfolk Island",
+        "zh-Hans": "诺福克岛"
+      },
+      "file": "countries/NF.json",
+      "regionHints": [
+        "NF"
+      ]
+    },
+    {
+      "code": "KP",
+      "names": {
+        "en": "North Korea",
+        "zh-Hans": "朝鲜"
+      },
+      "file": "countries/KP.json",
+      "regionHints": [
+        "KP"
+      ]
+    },
+    {
+      "code": "MK",
+      "names": {
+        "en": "North Macedonia",
+        "zh-Hans": "北马其顿"
+      },
+      "file": "countries/MK.json",
+      "regionHints": [
+        "MK"
+      ]
+    },
+    {
+      "code": "MP",
+      "names": {
+        "en": "Northern Mariana Islands",
+        "zh-Hans": "北马里亚纳群岛"
+      },
+      "file": "countries/MP.json",
+      "regionHints": [
+        "MP"
+      ]
+    },
+    {
+      "code": "NO",
+      "names": {
+        "en": "Norway",
+        "zh-Hans": "挪威"
+      },
+      "file": "countries/NO.json",
+      "regionHints": [
+        "NO"
+      ]
+    },
+    {
+      "code": "OM",
+      "names": {
+        "en": "Oman",
+        "zh-Hans": "阿曼"
+      },
+      "file": "countries/OM.json",
+      "regionHints": [
+        "OM"
+      ]
+    },
+    {
+      "code": "QO",
+      "names": {
+        "en": "Outlying Oceania",
+        "zh-Hans": "大洋洲边远群岛"
+      },
+      "file": "countries/QO.json",
+      "regionHints": [
+        "QO"
+      ]
+    },
+    {
+      "code": "PK",
+      "names": {
+        "en": "Pakistan",
+        "zh-Hans": "巴基斯坦"
+      },
+      "file": "countries/PK.json",
+      "regionHints": [
+        "PK"
+      ]
+    },
+    {
+      "code": "PW",
+      "names": {
+        "en": "Palau",
+        "zh-Hans": "帕劳"
+      },
+      "file": "countries/PW.json",
+      "regionHints": [
+        "PW"
+      ]
+    },
+    {
+      "code": "PS",
+      "names": {
+        "en": "Palestine",
+        "zh-Hans": "巴勒斯坦"
+      },
+      "file": "countries/PS.json",
+      "regionHints": [
+        "PS"
+      ]
+    },
+    {
+      "code": "PA",
+      "names": {
+        "en": "Panama",
+        "zh-Hans": "巴拿马"
+      },
+      "file": "countries/PA.json",
+      "regionHints": [
+        "PA"
+      ]
+    },
+    {
+      "code": "PG",
+      "names": {
+        "en": "Papua New Guinea",
+        "zh-Hans": "巴布亚新几内亚"
+      },
+      "file": "countries/PG.json",
+      "regionHints": [
+        "PG"
+      ]
+    },
+    {
+      "code": "PY",
+      "names": {
+        "en": "Paraguay",
+        "zh-Hans": "巴拉圭"
+      },
+      "file": "countries/PY.json",
+      "regionHints": [
+        "PY"
+      ]
+    },
+    {
+      "code": "PE",
+      "names": {
+        "en": "Peru",
+        "zh-Hans": "秘鲁"
+      },
+      "file": "countries/PE.json",
+      "regionHints": [
+        "PE"
+      ]
+    },
+    {
+      "code": "PH",
+      "names": {
+        "en": "Philippines",
+        "zh-Hans": "菲律宾"
+      },
+      "file": "countries/PH.json",
+      "regionHints": [
+        "PH"
+      ]
+    },
+    {
+      "code": "PN",
+      "names": {
+        "en": "Pitcairn Islands",
+        "zh-Hans": "皮特凯恩群岛"
+      },
+      "file": "countries/PN.json",
+      "regionHints": [
+        "PN"
+      ]
+    },
+    {
+      "code": "PL",
+      "names": {
+        "en": "Poland",
+        "zh-Hans": "波兰"
+      },
+      "file": "countries/PL.json",
+      "regionHints": [
+        "PL"
+      ]
+    },
+    {
+      "code": "PT",
+      "names": {
+        "en": "Portugal",
+        "zh-Hans": "葡萄牙"
+      },
+      "file": "countries/PT.json",
+      "regionHints": [
+        "PT"
+      ]
+    },
+    {
+      "code": "PR",
+      "names": {
+        "en": "Puerto Rico",
+        "zh-Hans": "波多黎各"
+      },
+      "file": "countries/PR.json",
+      "regionHints": [
+        "PR"
+      ]
+    },
+    {
+      "code": "QA",
+      "names": {
+        "en": "Qatar",
+        "zh-Hans": "卡塔尔"
+      },
+      "file": "countries/QA.json",
+      "regionHints": [
+        "QA"
+      ]
+    },
+    {
+      "code": "RE",
+      "names": {
+        "en": "Réunion",
+        "zh-Hans": "留尼汪"
+      },
+      "file": "countries/RE.json",
+      "regionHints": [
+        "RE"
+      ]
+    },
+    {
+      "code": "RO",
+      "names": {
+        "en": "Romania",
+        "zh-Hans": "罗马尼亚"
+      },
+      "file": "countries/RO.json",
+      "regionHints": [
+        "RO"
+      ]
+    },
+    {
+      "code": "RU",
+      "names": {
+        "en": "Russia",
+        "zh-Hans": "俄罗斯"
+      },
+      "file": "countries/RU.json",
+      "regionHints": [
+        "RU"
+      ]
+    },
+    {
+      "code": "RW",
+      "names": {
+        "en": "Rwanda",
+        "zh-Hans": "卢旺达"
+      },
+      "file": "countries/RW.json",
+      "regionHints": [
+        "RW"
+      ]
+    },
+    {
+      "code": "WS",
+      "names": {
+        "en": "Samoa",
+        "zh-Hans": "萨摩亚"
+      },
+      "file": "countries/WS.json",
+      "regionHints": [
+        "WS"
+      ]
+    },
+    {
+      "code": "SM",
+      "names": {
+        "en": "San Marino",
+        "zh-Hans": "圣马力诺"
+      },
+      "file": "countries/SM.json",
+      "regionHints": [
+        "SM"
+      ]
+    },
+    {
+      "code": "ST",
+      "names": {
+        "en": "São Tomé & Príncipe",
+        "zh-Hans": "圣多美和普林西比"
+      },
+      "file": "countries/ST.json",
+      "regionHints": [
+        "ST"
+      ]
+    },
+    {
+      "code": "SA",
+      "names": {
+        "en": "Saudi Arabia",
+        "zh-Hans": "沙特阿拉伯"
+      },
+      "file": "countries/SA.json",
+      "regionHints": [
+        "SA"
+      ]
+    },
+    {
+      "code": "SN",
+      "names": {
+        "en": "Senegal",
+        "zh-Hans": "塞内加尔"
+      },
+      "file": "countries/SN.json",
+      "regionHints": [
+        "SN"
+      ]
+    },
+    {
+      "code": "RS",
+      "names": {
+        "en": "Serbia",
+        "zh-Hans": "塞尔维亚"
+      },
+      "file": "countries/RS.json",
+      "regionHints": [
+        "RS"
+      ]
+    },
+    {
+      "code": "SC",
+      "names": {
+        "en": "Seychelles",
+        "zh-Hans": "塞舌尔"
+      },
+      "file": "countries/SC.json",
+      "regionHints": [
+        "SC"
+      ]
+    },
+    {
+      "code": "SL",
+      "names": {
+        "en": "Sierra Leone",
+        "zh-Hans": "塞拉利昂"
+      },
+      "file": "countries/SL.json",
+      "regionHints": [
+        "SL"
+      ]
+    },
+    {
+      "code": "SG",
+      "names": {
+        "en": "Singapore",
+        "zh-Hans": "新加坡"
+      },
+      "file": "countries/SG.json",
+      "regionHints": [
+        "SG"
+      ]
+    },
+    {
+      "code": "SX",
+      "names": {
+        "en": "Sint Maarten",
+        "zh-Hans": "荷属圣马丁"
+      },
+      "file": "countries/SX.json",
+      "regionHints": [
+        "SX"
+      ]
+    },
+    {
+      "code": "SK",
+      "names": {
+        "en": "Slovakia",
+        "zh-Hans": "斯洛伐克"
+      },
+      "file": "countries/SK.json",
+      "regionHints": [
+        "SK"
+      ]
+    },
+    {
+      "code": "SI",
+      "names": {
+        "en": "Slovenia",
+        "zh-Hans": "斯洛文尼亚"
+      },
+      "file": "countries/SI.json",
+      "regionHints": [
+        "SI"
+      ]
+    },
+    {
+      "code": "GS",
+      "names": {
+        "en": "So. Georgia & So. Sandwich Isl.",
+        "zh-Hans": "南乔治亚和南桑威奇群岛"
+      },
+      "file": "countries/GS.json",
+      "regionHints": [
+        "GS"
+      ]
+    },
+    {
+      "code": "SB",
+      "names": {
+        "en": "Solomon Islands",
+        "zh-Hans": "所罗门群岛"
+      },
+      "file": "countries/SB.json",
+      "regionHints": [
+        "SB"
+      ]
+    },
+    {
+      "code": "SO",
+      "names": {
+        "en": "Somalia",
+        "zh-Hans": "索马里"
+      },
+      "file": "countries/SO.json",
+      "regionHints": [
+        "SO"
+      ]
+    },
+    {
+      "code": "ZA",
+      "names": {
+        "en": "South Africa",
+        "zh-Hans": "南非"
+      },
+      "file": "countries/ZA.json",
+      "regionHints": [
+        "ZA"
+      ]
+    },
+    {
+      "code": "KR",
+      "names": {
+        "en": "South Korea",
+        "zh-Hans": "韩国"
+      },
+      "file": "countries/KR.json",
+      "regionHints": [
+        "KR"
+      ]
+    },
+    {
+      "code": "SS",
+      "names": {
+        "en": "South Sudan",
+        "zh-Hans": "南苏丹"
+      },
+      "file": "countries/SS.json",
+      "regionHints": [
+        "SS"
+      ]
+    },
+    {
+      "code": "ES",
+      "names": {
+        "en": "Spain",
+        "zh-Hans": "西班牙"
+      },
+      "file": "countries/ES.json",
+      "regionHints": [
+        "ES"
+      ]
+    },
+    {
+      "code": "LK",
+      "names": {
+        "en": "Sri Lanka",
+        "zh-Hans": "斯里兰卡"
+      },
+      "file": "countries/LK.json",
+      "regionHints": [
+        "LK"
+      ]
+    },
+    {
+      "code": "BL",
+      "names": {
+        "en": "St. Barthélemy",
+        "zh-Hans": "圣巴泰勒米"
+      },
+      "file": "countries/BL.json",
+      "regionHints": [
+        "BL"
+      ]
+    },
+    {
+      "code": "SH",
+      "names": {
+        "en": "St. Helena",
+        "zh-Hans": "圣赫勒拿"
+      },
+      "file": "countries/SH.json",
+      "regionHints": [
+        "SH"
+      ]
+    },
+    {
+      "code": "KN",
+      "names": {
+        "en": "St. Kitts & Nevis",
+        "zh-Hans": "圣基茨和尼维斯"
+      },
+      "file": "countries/KN.json",
+      "regionHints": [
+        "KN"
+      ]
+    },
+    {
+      "code": "LC",
+      "names": {
+        "en": "St. Lucia",
+        "zh-Hans": "圣卢西亚"
+      },
+      "file": "countries/LC.json",
+      "regionHints": [
+        "LC"
+      ]
+    },
+    {
+      "code": "MF",
+      "names": {
+        "en": "St. Martin",
+        "zh-Hans": "法属圣马丁"
+      },
+      "file": "countries/MF.json",
+      "regionHints": [
+        "MF"
+      ]
+    },
+    {
+      "code": "PM",
+      "names": {
+        "en": "St. Pierre & Miquelon",
+        "zh-Hans": "圣皮埃尔和密克隆群岛"
+      },
+      "file": "countries/PM.json",
+      "regionHints": [
+        "PM"
+      ]
+    },
+    {
+      "code": "VC",
+      "names": {
+        "en": "St. Vincent & Grenadines",
+        "zh-Hans": "圣文森特和格林纳丁斯"
+      },
+      "file": "countries/VC.json",
+      "regionHints": [
+        "VC"
+      ]
+    },
+    {
+      "code": "SD",
+      "names": {
+        "en": "Sudan",
+        "zh-Hans": "苏丹"
+      },
+      "file": "countries/SD.json",
+      "regionHints": [
+        "SD"
+      ]
+    },
+    {
+      "code": "SR",
+      "names": {
+        "en": "Suriname",
+        "zh-Hans": "苏里南"
+      },
+      "file": "countries/SR.json",
+      "regionHints": [
+        "SR"
+      ]
+    },
+    {
+      "code": "SJ",
+      "names": {
+        "en": "Svalbard & Jan Mayen",
+        "zh-Hans": "斯瓦尔巴和扬马延"
+      },
+      "file": "countries/SJ.json",
+      "regionHints": [
+        "SJ"
+      ]
+    },
+    {
+      "code": "SE",
+      "names": {
+        "en": "Sweden",
+        "zh-Hans": "瑞典"
+      },
+      "file": "countries/SE.json",
+      "regionHints": [
+        "SE"
+      ]
+    },
+    {
+      "code": "CH",
+      "names": {
+        "en": "Switzerland",
+        "zh-Hans": "瑞士"
+      },
+      "file": "countries/CH.json",
+      "regionHints": [
+        "CH"
+      ]
+    },
+    {
+      "code": "SY",
+      "names": {
+        "en": "Syria",
+        "zh-Hans": "叙利亚"
+      },
+      "file": "countries/SY.json",
+      "regionHints": [
+        "SY"
+      ]
+    },
+    {
+      "code": "TW",
+      "names": {
+        "en": "Taiwan",
+        "zh-Hans": "台湾"
+      },
+      "file": "countries/TW.json",
+      "regionHints": [
+        "TW"
+      ]
+    },
+    {
+      "code": "TJ",
+      "names": {
+        "en": "Tajikistan",
+        "zh-Hans": "塔吉克斯坦"
+      },
+      "file": "countries/TJ.json",
+      "regionHints": [
+        "TJ"
+      ]
+    },
+    {
+      "code": "TZ",
+      "names": {
+        "en": "Tanzania",
+        "zh-Hans": "坦桑尼亚"
+      },
+      "file": "countries/TZ.json",
+      "regionHints": [
+        "TZ"
+      ]
+    },
+    {
+      "code": "TH",
+      "names": {
+        "en": "Thailand",
+        "zh-Hans": "泰国"
+      },
+      "file": "countries/TH.json",
+      "regionHints": [
+        "TH"
+      ]
+    },
+    {
+      "code": "TL",
+      "names": {
+        "en": "Timor-Leste",
+        "zh-Hans": "东帝汶"
+      },
+      "file": "countries/TL.json",
+      "regionHints": [
+        "TL"
+      ]
+    },
+    {
+      "code": "TG",
+      "names": {
+        "en": "Togo",
+        "zh-Hans": "多哥"
+      },
+      "file": "countries/TG.json",
+      "regionHints": [
+        "TG"
+      ]
+    },
+    {
+      "code": "TK",
+      "names": {
+        "en": "Tokelau",
+        "zh-Hans": "托克劳"
+      },
+      "file": "countries/TK.json",
+      "regionHints": [
+        "TK"
+      ]
+    },
+    {
+      "code": "TO",
+      "names": {
+        "en": "Tonga",
+        "zh-Hans": "汤加"
+      },
+      "file": "countries/TO.json",
+      "regionHints": [
+        "TO"
+      ]
+    },
+    {
+      "code": "TT",
+      "names": {
+        "en": "Trinidad & Tobago",
+        "zh-Hans": "特立尼达和多巴哥"
+      },
+      "file": "countries/TT.json",
+      "regionHints": [
+        "TT"
+      ]
+    },
+    {
+      "code": "TN",
+      "names": {
+        "en": "Tunisia",
+        "zh-Hans": "突尼斯"
+      },
+      "file": "countries/TN.json",
+      "regionHints": [
+        "TN"
+      ]
+    },
+    {
+      "code": "TR",
+      "names": {
+        "en": "Türkiye",
+        "zh-Hans": "土耳其"
+      },
+      "file": "countries/TR.json",
+      "regionHints": [
+        "TR"
+      ]
+    },
+    {
+      "code": "TM",
+      "names": {
+        "en": "Turkmenistan",
+        "zh-Hans": "土库曼斯坦"
+      },
+      "file": "countries/TM.json",
+      "regionHints": [
+        "TM"
+      ]
+    },
+    {
+      "code": "TC",
+      "names": {
+        "en": "Turks & Caicos Islands",
+        "zh-Hans": "特克斯和凯科斯群岛"
+      },
+      "file": "countries/TC.json",
+      "regionHints": [
+        "TC"
+      ]
+    },
+    {
+      "code": "TV",
+      "names": {
+        "en": "Tuvalu",
+        "zh-Hans": "图瓦卢"
+      },
+      "file": "countries/TV.json",
+      "regionHints": [
+        "TV"
+      ]
+    },
+    {
+      "code": "UM",
+      "names": {
+        "en": "U.S. Outlying Islands",
+        "zh-Hans": "美国本土外小岛屿"
+      },
+      "file": "countries/UM.json",
+      "regionHints": [
+        "UM"
+      ]
+    },
+    {
+      "code": "VI",
+      "names": {
+        "en": "U.S. Virgin Islands",
+        "zh-Hans": "美属维尔京群岛"
+      },
+      "file": "countries/VI.json",
+      "regionHints": [
+        "VI"
+      ]
+    },
+    {
+      "code": "UG",
+      "names": {
+        "en": "Uganda",
+        "zh-Hans": "乌干达"
+      },
+      "file": "countries/UG.json",
+      "regionHints": [
+        "UG"
+      ]
+    },
+    {
+      "code": "UA",
+      "names": {
+        "en": "Ukraine",
+        "zh-Hans": "乌克兰"
+      },
+      "file": "countries/UA.json",
+      "regionHints": [
+        "UA"
+      ]
+    },
+    {
+      "code": "AE",
+      "names": {
+        "en": "United Arab Emirates",
+        "zh-Hans": "阿联酋"
+      },
+      "file": "countries/AE.json",
+      "regionHints": [
+        "AE"
+      ]
+    },
+    {
+      "code": "GB",
+      "names": {
+        "en": "United Kingdom",
+        "zh-Hans": "英国"
+      },
+      "file": "countries/GB.json",
+      "regionHints": [
+        "GB"
+      ]
+    },
+    {
+      "code": "US",
+      "names": {
+        "en": "United States",
+        "zh-Hans": "美国"
+      },
+      "file": "countries/US.json",
+      "regionHints": [
+        "US"
+      ]
+    },
+    {
+      "code": "UY",
+      "names": {
+        "en": "Uruguay",
+        "zh-Hans": "乌拉圭"
+      },
+      "file": "countries/UY.json",
+      "regionHints": [
+        "UY"
+      ]
+    },
+    {
+      "code": "UZ",
+      "names": {
+        "en": "Uzbekistan",
+        "zh-Hans": "乌兹别克斯坦"
+      },
+      "file": "countries/UZ.json",
+      "regionHints": [
+        "UZ"
+      ]
+    },
+    {
+      "code": "VU",
+      "names": {
+        "en": "Vanuatu",
+        "zh-Hans": "瓦努阿图"
+      },
+      "file": "countries/VU.json",
+      "regionHints": [
+        "VU"
+      ]
+    },
+    {
+      "code": "VA",
+      "names": {
+        "en": "Vatican City",
+        "zh-Hans": "梵蒂冈"
+      },
+      "file": "countries/VA.json",
+      "regionHints": [
+        "VA"
+      ]
+    },
+    {
+      "code": "VE",
+      "names": {
+        "en": "Venezuela",
+        "zh-Hans": "委内瑞拉"
+      },
+      "file": "countries/VE.json",
+      "regionHints": [
+        "VE"
+      ]
+    },
+    {
+      "code": "VN",
+      "names": {
+        "en": "Vietnam",
+        "zh-Hans": "越南"
+      },
+      "file": "countries/VN.json",
+      "regionHints": [
+        "VN"
+      ]
+    },
+    {
+      "code": "WF",
+      "names": {
+        "en": "Wallis & Futuna",
+        "zh-Hans": "瓦利斯和富图纳"
+      },
+      "file": "countries/WF.json",
+      "regionHints": [
+        "WF"
+      ]
+    },
+    {
+      "code": "EH",
+      "names": {
+        "en": "Western Sahara",
+        "zh-Hans": "西撒哈拉"
+      },
+      "file": "countries/EH.json",
+      "regionHints": [
+        "EH"
+      ]
+    },
+    {
+      "code": "YE",
+      "names": {
+        "en": "Yemen",
+        "zh-Hans": "也门"
+      },
+      "file": "countries/YE.json",
+      "regionHints": [
+        "YE"
+      ]
+    },
+    {
+      "code": "ZM",
+      "names": {
+        "en": "Zambia",
+        "zh-Hans": "赞比亚"
+      },
+      "file": "countries/ZM.json",
+      "regionHints": [
+        "ZM"
+      ]
+    },
+    {
+      "code": "ZW",
+      "names": {
+        "en": "Zimbabwe",
+        "zh-Hans": "津巴布韦"
+      },
+      "file": "countries/ZW.json",
+      "regionHints": [
+        "ZW"
+      ]
     }
   ]
 }
