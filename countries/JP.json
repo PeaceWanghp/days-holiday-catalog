@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "code": "JP",
+  "names": {
+    "en": "Japan",
+    "zh-Hans": "日本"
+  },
+  "sections": [
+    {
+      "id": "publicHoliday",
+      "names": {
+        "en": "Public Holidays",
+        "zh-Hans": "假日"
+      },
+      "items": [
+        {
+          "id": "jp-new-year",
+          "names": { "en": "New Year's Day", "zh-Hans": "元日" },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "jp-childrens-day",
+          "names": { "en": "Children's Day", "zh-Hans": "こどもの日" },
+          "calendar": "gregorian",
+          "month": 5,
+          "day": 5,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "jp-culture-day",
+          "names": { "en": "Culture Day", "zh-Hans": "文化の日" },
+          "calendar": "gregorian",
+          "month": 11,
+          "day": 3,
+          "recurrence": "yearly"
+        }
+      ]
+    }
+  ]
+}

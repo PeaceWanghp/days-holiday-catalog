@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "code": "US",
+  "names": {
+    "en": "United States",
+    "zh-Hans": "美国"
+  },
+  "sections": [
+    {
+      "id": "festival",
+      "names": {
+        "en": "Holidays",
+        "zh-Hans": "节日"
+      },
+      "items": [
+        {
+          "id": "us-new-year",
+          "names": { "en": "New Year's Day", "zh-Hans": "元旦" },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "us-independence",
+          "names": { "en": "Independence Day", "zh-Hans": "独立日" },
+          "calendar": "gregorian",
+          "month": 7,
+          "day": 4,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "us-halloween",
+          "names": { "en": "Halloween", "zh-Hans": "万圣节" },
+          "calendar": "gregorian",
+          "month": 10,
+          "day": 31,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "us-christmas",
+          "names": { "en": "Christmas Day", "zh-Hans": "圣诞节" },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 25,
+          "recurrence": "yearly"
+        }
+      ]
+    }
+  ]
+}

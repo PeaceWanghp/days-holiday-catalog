@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "code": "CN",
+  "names": {
+    "en": "China",
+    "zh-Hans": "中国"
+  },
+  "sections": [
+    {
+      "id": "festival",
+      "names": {
+        "en": "Festivals",
+        "zh-Hans": "节日"
+      },
+      "items": [
+        {
+          "id": "cn-new-year",
+          "names": { "en": "New Year's Day", "zh-Hans": "元旦" },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-spring-festival",
+          "names": { "en": "Spring Festival", "zh-Hans": "春节" },
+          "calendar": "lunar",
+          "month": 1,
+          "day": 1,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-lantern",
+          "names": { "en": "Lantern Festival", "zh-Hans": "元宵节" },
+          "calendar": "lunar",
+          "month": 1,
+          "day": 15,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-womens-day",
+          "names": { "en": "Women's Day", "zh-Hans": "妇女节" },
+          "calendar": "gregorian",
+          "month": 3,
+          "day": 8,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-labor-day",
+          "names": { "en": "Labor Day", "zh-Hans": "劳动节" },
+          "calendar": "gregorian",
+          "month": 5,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-youth-day",
+          "names": { "en": "Youth Day", "zh-Hans": "青年节" },
+          "calendar": "gregorian",
+          "month": 5,
+          "day": 4,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-dragon-boat",
+          "names": { "en": "Dragon Boat Festival", "zh-Hans": "端午节" },
+          "calendar": "lunar",
+          "month": 5,
+          "day": 5,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-mid-autumn",
+          "names": { "en": "Mid-Autumn Festival", "zh-Hans": "中秋节" },
+          "calendar": "lunar",
+          "month": 8,
+          "day": 15,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-national-day",
+          "names": { "en": "National Day", "zh-Hans": "国庆节" },
+          "calendar": "gregorian",
+          "month": 10,
+          "day": 1,
+          "recurrence": "yearly"
+        }
+      ]
+    },
+    {
+      "id": "solarTerm",
+      "names": {
+        "en": "Solar Terms",
+        "zh-Hans": "节气"
+      },
+      "items": [
+        {
+          "id": "cn-jingzhe",
+          "names": { "en": "Awakening of Insects", "zh-Hans": "惊蛰" },
+          "calendar": "gregorian",
+          "month": 3,
+          "day": 6,
+          "recurrence": "yearly",
+          "datesByYear": {
+            "2025": "03-05",
+            "2026": "03-06",
+            "2027": "03-06"
+          }
+        },
+        {
+          "id": "cn-chunfen",
+          "names": { "en": "Spring Equinox", "zh-Hans": "春分" },
+          "calendar": "gregorian",
+          "month": 3,
+          "day": 21,
+          "recurrence": "yearly",
+          "datesByYear": {
+            "2025": "03-20",
+            "2026": "03-21",
+            "2027": "03-21"
+          }
+        },
+        {
+          "id": "cn-qingming",
+          "names": { "en": "Qingming", "zh-Hans": "清明" },
+          "calendar": "gregorian",
+          "month": 4,
+          "day": 5,
+          "recurrence": "yearly",
+          "datesByYear": {
+            "2025": "04-04",
+            "2026": "04-05",
+            "2027": "04-05"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publicHoliday",
+      "names": {
+        "en": "Public Holidays",
+        "zh-Hans": "假日"
+      },
+      "items": [
+        {
+          "id": "cn-holiday-2026-national-break-start",
+          "names": { "en": "National Day Holiday (start)", "zh-Hans": "国庆假期（开始）" },
+          "calendar": "gregorian",
+          "recurrence": "none",
+          "date": "2026-10-01",
+          "notes": {
+            "en": "Example one-off public holiday entry.",
+            "zh-Hans": "一次性假日示例，可按国务院安排逐年维护。"
+          }
+        }
+      ]
+    }
+  ]
+}
