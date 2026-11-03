@@ -3,7 +3,12 @@
   "code": "VE",
   "names": {
     "en": "Venezuela",
-    "zh-Hans": "委内瑞拉"
+    "zh-Hans": "委内瑞拉",
+    "zh-Hant": "委內瑞拉",
+    "ja": "ベネズエラ",
+    "ko": "베네수엘라",
+    "de": "Venezuela",
+    "fr": "Venezuela"
   },
   "sections": []
 }

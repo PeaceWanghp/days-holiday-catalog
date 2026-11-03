@@ -3,7 +3,12 @@
   "code": "GE",
   "names": {
     "en": "Georgia",
-    "zh-Hans": "格鲁吉亚"
+    "zh-Hans": "格鲁吉亚",
+    "zh-Hant": "喬治亞",
+    "ja": "ジョージア",
+    "ko": "조지아",
+    "de": "Georgien",
+    "fr": "Géorgie"
   },
   "sections": []
 }

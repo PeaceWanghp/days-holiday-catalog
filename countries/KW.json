@@ -3,7 +3,12 @@
   "code": "KW",
   "names": {
     "en": "Kuwait",
-    "zh-Hans": "科威特"
+    "zh-Hans": "科威特",
+    "zh-Hant": "科威特",
+    "ja": "クウェート",
+    "ko": "쿠웨이트",
+    "de": "Kuwait",
+    "fr": "Koweït"
   },
   "sections": []
 }

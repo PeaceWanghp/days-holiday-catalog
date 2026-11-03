@@ -3,7 +3,12 @@
   "code": "BY",
   "names": {
     "en": "Belarus",
-    "zh-Hans": "白俄罗斯"
+    "zh-Hans": "白俄罗斯",
+    "zh-Hant": "白俄羅斯",
+    "ja": "ベラルーシ",
+    "ko": "벨라루스",
+    "de": "Belarus",
+    "fr": "Biélorussie"
   },
   "sections": []
 }

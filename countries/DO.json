@@ -3,7 +3,12 @@
   "code": "DO",
   "names": {
     "en": "Dominican Republic",
-    "zh-Hans": "多米尼加共和国"
+    "zh-Hans": "多米尼加共和国",
+    "zh-Hant": "多明尼加共和國",
+    "ja": "ドミニカ共和国",
+    "ko": "도미니카 공화국",
+    "de": "Dominikanische Republik",
+    "fr": "République dominicaine"
   },
   "sections": []
 }

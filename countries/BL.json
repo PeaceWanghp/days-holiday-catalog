@@ -3,7 +3,12 @@
   "code": "BL",
   "names": {
     "en": "St. Barthélemy",
-    "zh-Hans": "圣巴泰勒米"
+    "zh-Hans": "圣巴泰勒米",
+    "zh-Hant": "聖巴瑟米",
+    "ja": "サン・バルテルミー",
+    "ko": "생바르텔레미",
+    "de": "St. Barthélemy",
+    "fr": "Saint-Barthélemy"
   },
   "sections": []
 }

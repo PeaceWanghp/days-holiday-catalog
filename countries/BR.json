@@ -3,7 +3,12 @@
   "code": "BR",
   "names": {
     "en": "Brazil",
-    "zh-Hans": "巴西"
+    "zh-Hans": "巴西",
+    "zh-Hant": "巴西",
+    "ja": "ブラジル",
+    "ko": "브라질",
+    "de": "Brasilien",
+    "fr": "Brésil"
   },
   "sections": []
 }

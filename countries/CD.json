@@ -3,7 +3,12 @@
   "code": "CD",
   "names": {
     "en": "Congo - Kinshasa",
-    "zh-Hans": "刚果（金）"
+    "zh-Hans": "刚果（金）",
+    "zh-Hant": "剛果（金夏沙）",
+    "ja": "コンゴ民主共和国(キンシャサ)",
+    "ko": "콩고-킨샤사",
+    "de": "Kongo-Kinshasa",
+    "fr": "Congo-Kinshasa"
   },
   "sections": []
 }

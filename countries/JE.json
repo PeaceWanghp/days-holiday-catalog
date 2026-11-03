@@ -3,7 +3,12 @@
   "code": "JE",
   "names": {
     "en": "Jersey",
-    "zh-Hans": "泽西岛"
+    "zh-Hans": "泽西岛",
+    "zh-Hant": "澤西島",
+    "ja": "ジャージー",
+    "ko": "저지",
+    "de": "Jersey",
+    "fr": "Jersey"
   },
   "sections": []
 }

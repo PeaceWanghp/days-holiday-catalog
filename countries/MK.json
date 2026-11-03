@@ -3,7 +3,12 @@
   "code": "MK",
   "names": {
     "en": "North Macedonia",
-    "zh-Hans": "北马其顿"
+    "zh-Hans": "北马其顿",
+    "zh-Hant": "北馬其頓",
+    "ja": "北マケドニア",
+    "ko": "북마케도니아",
+    "de": "Nordmazedonien",
+    "fr": "Macédoine du Nord"
   },
   "sections": []
 }

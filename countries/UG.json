@@ -3,7 +3,12 @@
   "code": "UG",
   "names": {
     "en": "Uganda",
-    "zh-Hans": "乌干达"
+    "zh-Hans": "乌干达",
+    "zh-Hant": "烏干達",
+    "ja": "ウガンダ",
+    "ko": "우간다",
+    "de": "Uganda",
+    "fr": "Ouganda"
   },
   "sections": []
 }

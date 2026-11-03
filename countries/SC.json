@@ -3,7 +3,12 @@
   "code": "SC",
   "names": {
     "en": "Seychelles",
-    "zh-Hans": "塞舌尔"
+    "zh-Hans": "塞舌尔",
+    "zh-Hant": "塞席爾",
+    "ja": "セーシェル",
+    "ko": "세이셸",
+    "de": "Seychellen",
+    "fr": "Seychelles"
   },
   "sections": []
 }

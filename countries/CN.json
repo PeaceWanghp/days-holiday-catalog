@@ -3,7 +3,12 @@
   "code": "CN",
   "names": {
     "en": "China",
-    "zh-Hans": "中国"
+    "zh-Hans": "中国",
+    "zh-Hant": "中國",
+    "ja": "中国",
+    "ko": "중국",
+    "de": "China",
+    "fr": "Chine"
   },
   "sections": [
     {

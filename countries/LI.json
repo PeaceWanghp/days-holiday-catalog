@@ -3,7 +3,12 @@
   "code": "LI",
   "names": {
     "en": "Liechtenstein",
-    "zh-Hans": "列支敦士登"
+    "zh-Hans": "列支敦士登",
+    "zh-Hant": "列支敦斯登",
+    "ja": "リヒテンシュタイン",
+    "ko": "리히텐슈타인",
+    "de": "Liechtenstein",
+    "fr": "Liechtenstein"
   },
   "sections": []
 }

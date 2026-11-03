@@ -3,7 +3,12 @@
   "code": "CK",
   "names": {
     "en": "Cook Islands",
-    "zh-Hans": "库克群岛"
+    "zh-Hans": "库克群岛",
+    "zh-Hant": "庫克群島",
+    "ja": "クック諸島",
+    "ko": "쿡 제도",
+    "de": "Cookinseln",
+    "fr": "Îles Cook"
   },
   "sections": []
 }

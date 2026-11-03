@@ -3,7 +3,12 @@
   "code": "SG",
   "names": {
     "en": "Singapore",
-    "zh-Hans": "新加坡"
+    "zh-Hans": "新加坡",
+    "zh-Hant": "新加坡",
+    "ja": "シンガポール",
+    "ko": "싱가포르",
+    "de": "Singapur",
+    "fr": "Singapour"
   },
   "sections": []
 }

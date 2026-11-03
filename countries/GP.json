@@ -3,7 +3,12 @@
   "code": "GP",
   "names": {
     "en": "Guadeloupe",
-    "zh-Hans": "瓜德罗普"
+    "zh-Hans": "瓜德罗普",
+    "zh-Hant": "瓜地洛普",
+    "ja": "グアドループ",
+    "ko": "과들루프",
+    "de": "Guadeloupe",
+    "fr": "Guadeloupe"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "LY",
   "names": {
     "en": "Libya",
-    "zh-Hans": "利比亚"
+    "zh-Hans": "利比亚",
+    "zh-Hant": "利比亞",
+    "ja": "リビア",
+    "ko": "리비아",
+    "de": "Libyen",
+    "fr": "Libye"
   },
   "sections": []
 }

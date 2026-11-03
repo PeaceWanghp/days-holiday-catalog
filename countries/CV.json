@@ -3,7 +3,12 @@
   "code": "CV",
   "names": {
     "en": "Cape Verde",
-    "zh-Hans": "佛得角"
+    "zh-Hans": "佛得角",
+    "zh-Hant": "維德角",
+    "ja": "カーボベルデ",
+    "ko": "카보베르데",
+    "de": "Cabo Verde",
+    "fr": "Cap-Vert"
   },
   "sections": []
 }

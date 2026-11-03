@@ -3,7 +3,12 @@
   "code": "SN",
   "names": {
     "en": "Senegal",
-    "zh-Hans": "塞内加尔"
+    "zh-Hans": "塞内加尔",
+    "zh-Hant": "塞內加爾",
+    "ja": "セネガル",
+    "ko": "세네갈",
+    "de": "Senegal",
+    "fr": "Sénégal"
   },
   "sections": []
 }

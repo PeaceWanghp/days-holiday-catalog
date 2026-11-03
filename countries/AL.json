@@ -3,7 +3,12 @@
   "code": "AL",
   "names": {
     "en": "Albania",
-    "zh-Hans": "阿尔巴尼亚"
+    "zh-Hans": "阿尔巴尼亚",
+    "zh-Hant": "阿爾巴尼亞",
+    "ja": "アルバニア",
+    "ko": "알바니아",
+    "de": "Albanien",
+    "fr": "Albanie"
   },
   "sections": []
 }

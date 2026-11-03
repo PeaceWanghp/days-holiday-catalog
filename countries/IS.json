@@ -3,7 +3,12 @@
   "code": "IS",
   "names": {
     "en": "Iceland",
-    "zh-Hans": "冰岛"
+    "zh-Hans": "冰岛",
+    "zh-Hant": "冰島",
+    "ja": "アイスランド",
+    "ko": "아이슬란드",
+    "de": "Island",
+    "fr": "Islande"
   },
   "sections": []
 }

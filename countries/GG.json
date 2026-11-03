@@ -3,7 +3,12 @@
   "code": "GG",
   "names": {
     "en": "Guernsey",
-    "zh-Hans": "根西岛"
+    "zh-Hans": "根西岛",
+    "zh-Hant": "根息",
+    "ja": "ガーンジー",
+    "ko": "건지",
+    "de": "Guernsey",
+    "fr": "Guernesey"
   },
   "sections": []
 }

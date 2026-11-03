@@ -3,7 +3,12 @@
   "code": "TL",
   "names": {
     "en": "Timor-Leste",
-    "zh-Hans": "东帝汶"
+    "zh-Hans": "东帝汶",
+    "zh-Hant": "東帝汶",
+    "ja": "東ティモール",
+    "ko": "동티모르",
+    "de": "Timor-Leste",
+    "fr": "Timor oriental"
   },
   "sections": []
 }

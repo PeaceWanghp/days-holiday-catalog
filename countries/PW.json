@@ -3,7 +3,12 @@
   "code": "PW",
   "names": {
     "en": "Palau",
-    "zh-Hans": "帕劳"
+    "zh-Hans": "帕劳",
+    "zh-Hant": "帛琉",
+    "ja": "パラオ",
+    "ko": "팔라우",
+    "de": "Palau",
+    "fr": "Palaos"
   },
   "sections": []
 }

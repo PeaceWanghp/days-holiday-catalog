@@ -3,7 +3,12 @@
   "code": "CM",
   "names": {
     "en": "Cameroon",
-    "zh-Hans": "喀麦隆"
+    "zh-Hans": "喀麦隆",
+    "zh-Hant": "喀麥隆",
+    "ja": "カメルーン",
+    "ko": "카메룬",
+    "de": "Kamerun",
+    "fr": "Cameroun"
   },
   "sections": []
 }

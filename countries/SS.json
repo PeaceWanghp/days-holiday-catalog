@@ -3,7 +3,12 @@
   "code": "SS",
   "names": {
     "en": "South Sudan",
-    "zh-Hans": "南苏丹"
+    "zh-Hans": "南苏丹",
+    "zh-Hant": "南蘇丹",
+    "ja": "南スーダン",
+    "ko": "남수단",
+    "de": "Südsudan",
+    "fr": "Soudan du Sud"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "LB",
   "names": {
     "en": "Lebanon",
-    "zh-Hans": "黎巴嫩"
+    "zh-Hans": "黎巴嫩",
+    "zh-Hant": "黎巴嫩",
+    "ja": "レバノン",
+    "ko": "레바논",
+    "de": "Libanon",
+    "fr": "Liban"
   },
   "sections": []
 }

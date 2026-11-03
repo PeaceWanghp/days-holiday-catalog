@@ -3,7 +3,12 @@
   "code": "DE",
   "names": {
     "en": "Germany",
-    "zh-Hans": "德国"
+    "zh-Hans": "德国",
+    "zh-Hant": "德國",
+    "ja": "ドイツ",
+    "ko": "독일",
+    "de": "Deutschland",
+    "fr": "Allemagne"
   },
   "sections": []
 }

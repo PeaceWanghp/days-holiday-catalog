@@ -3,7 +3,12 @@
   "code": "CH",
   "names": {
     "en": "Switzerland",
-    "zh-Hans": "瑞士"
+    "zh-Hans": "瑞士",
+    "zh-Hant": "瑞士",
+    "ja": "スイス",
+    "ko": "스위스",
+    "de": "Schweiz",
+    "fr": "Suisse"
   },
   "sections": []
 }

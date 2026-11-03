@@ -3,7 +3,12 @@
   "code": "ID",
   "names": {
     "en": "Indonesia",
-    "zh-Hans": "印度尼西亚"
+    "zh-Hans": "印度尼西亚",
+    "zh-Hant": "印尼",
+    "ja": "インドネシア",
+    "ko": "인도네시아",
+    "de": "Indonesien",
+    "fr": "Indonésie"
   },
   "sections": []
 }

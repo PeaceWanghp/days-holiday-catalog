@@ -3,7 +3,12 @@
   "code": "AS",
   "names": {
     "en": "American Samoa",
-    "zh-Hans": "美属萨摩亚"
+    "zh-Hans": "美属萨摩亚",
+    "zh-Hant": "美屬薩摩亞",
+    "ja": "米領サモア",
+    "ko": "아메리칸 사모아",
+    "de": "Amerikanisch-Samoa",
+    "fr": "Samoa américaines"
   },
   "sections": []
 }

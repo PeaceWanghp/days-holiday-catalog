@@ -3,7 +3,12 @@
   "code": "TC",
   "names": {
     "en": "Turks & Caicos Islands",
-    "zh-Hans": "特克斯和凯科斯群岛"
+    "zh-Hans": "特克斯和凯科斯群岛",
+    "zh-Hant": "土克斯及開科斯群島",
+    "ja": "タークス・カイコス諸島",
+    "ko": "터크스 케이커스 제도",
+    "de": "Turks- und Caicosinseln",
+    "fr": "Îles Turques-et-Caïques"
   },
   "sections": []
 }

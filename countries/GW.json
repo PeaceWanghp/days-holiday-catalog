@@ -3,7 +3,12 @@
   "code": "GW",
   "names": {
     "en": "Guinea-Bissau",
-    "zh-Hans": "几内亚比绍"
+    "zh-Hans": "几内亚比绍",
+    "zh-Hant": "幾內亞比索",
+    "ja": "ギニアビサウ",
+    "ko": "기니비사우",
+    "de": "Guinea-Bissau",
+    "fr": "Guinée-Bissau"
   },
   "sections": []
 }

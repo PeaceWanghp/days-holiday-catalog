@@ -3,7 +3,12 @@
   "code": "VI",
   "names": {
     "en": "U.S. Virgin Islands",
-    "zh-Hans": "美属维尔京群岛"
+    "zh-Hans": "美属维尔京群岛",
+    "zh-Hant": "美屬維京群島",
+    "ja": "米領ヴァージン諸島",
+    "ko": "미국령 버진아일랜드",
+    "de": "Amerikanische Jungferninseln",
+    "fr": "Îles Vierges des États-Unis"
   },
   "sections": []
 }

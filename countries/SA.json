@@ -3,7 +3,12 @@
   "code": "SA",
   "names": {
     "en": "Saudi Arabia",
-    "zh-Hans": "沙特阿拉伯"
+    "zh-Hans": "沙特阿拉伯",
+    "zh-Hant": "沙烏地阿拉伯",
+    "ja": "サウジアラビア",
+    "ko": "사우디아라비아",
+    "de": "Saudi-Arabien",
+    "fr": "Arabie saoudite"
   },
   "sections": []
 }

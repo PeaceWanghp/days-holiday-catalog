@@ -3,7 +3,12 @@
   "code": "JM",
   "names": {
     "en": "Jamaica",
-    "zh-Hans": "牙买加"
+    "zh-Hans": "牙买加",
+    "zh-Hant": "牙買加",
+    "ja": "ジャマイカ",
+    "ko": "자메이카",
+    "de": "Jamaika",
+    "fr": "Jamaïque"
   },
   "sections": []
 }

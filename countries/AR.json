@@ -3,7 +3,12 @@
   "code": "AR",
   "names": {
     "en": "Argentina",
-    "zh-Hans": "阿根廷"
+    "zh-Hans": "阿根廷",
+    "zh-Hant": "阿根廷",
+    "ja": "アルゼンチン",
+    "ko": "아르헨티나",
+    "de": "Argentinien",
+    "fr": "Argentine"
   },
   "sections": []
 }

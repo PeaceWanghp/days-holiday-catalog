@@ -3,7 +3,12 @@
   "code": "AM",
   "names": {
     "en": "Armenia",
-    "zh-Hans": "亚美尼亚"
+    "zh-Hans": "亚美尼亚",
+    "zh-Hant": "亞美尼亞",
+    "ja": "アルメニア",
+    "ko": "아르메니아",
+    "de": "Armenien",
+    "fr": "Arménie"
   },
   "sections": []
 }

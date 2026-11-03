@@ -3,7 +3,12 @@
   "code": "PT",
   "names": {
     "en": "Portugal",
-    "zh-Hans": "葡萄牙"
+    "zh-Hans": "葡萄牙",
+    "zh-Hant": "葡萄牙",
+    "ja": "ポルトガル",
+    "ko": "포르투갈",
+    "de": "Portugal",
+    "fr": "Portugal"
   },
   "sections": []
 }

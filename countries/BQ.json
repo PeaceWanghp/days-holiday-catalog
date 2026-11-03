@@ -3,7 +3,12 @@
   "code": "BQ",
   "names": {
     "en": "Caribbean Netherlands",
-    "zh-Hans": "荷属加勒比区"
+    "zh-Hans": "荷属加勒比区",
+    "zh-Hant": "荷蘭加勒比區",
+    "ja": "オランダ領カリブ",
+    "ko": "네덜란드령 카리브",
+    "de": "Karibische Niederlande",
+    "fr": "Pays-Bas caribéens"
   },
   "sections": []
 }

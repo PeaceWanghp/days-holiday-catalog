@@ -3,7 +3,12 @@
   "code": "SE",
   "names": {
     "en": "Sweden",
-    "zh-Hans": "瑞典"
+    "zh-Hans": "瑞典",
+    "zh-Hant": "瑞典",
+    "ja": "スウェーデン",
+    "ko": "스웨덴",
+    "de": "Schweden",
+    "fr": "Suède"
   },
   "sections": []
 }

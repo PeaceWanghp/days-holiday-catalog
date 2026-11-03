@@ -3,7 +3,12 @@
   "code": "MZ",
   "names": {
     "en": "Mozambique",
-    "zh-Hans": "莫桑比克"
+    "zh-Hans": "莫桑比克",
+    "zh-Hant": "莫三比克",
+    "ja": "モザンビーク",
+    "ko": "모잠비크",
+    "de": "Mosambik",
+    "fr": "Mozambique"
   },
   "sections": []
 }

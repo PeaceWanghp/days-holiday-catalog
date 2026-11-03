@@ -3,7 +3,12 @@
   "code": "KY",
   "names": {
     "en": "Cayman Islands",
-    "zh-Hans": "开曼群岛"
+    "zh-Hans": "开曼群岛",
+    "zh-Hant": "開曼群島",
+    "ja": "ケイマン諸島",
+    "ko": "케이맨 제도",
+    "de": "Kaimaninseln",
+    "fr": "Îles Caïmans"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "TM",
   "names": {
     "en": "Turkmenistan",
-    "zh-Hans": "土库曼斯坦"
+    "zh-Hans": "土库曼斯坦",
+    "zh-Hant": "土庫曼",
+    "ja": "トルクメニスタン",
+    "ko": "투르크메니스탄",
+    "de": "Turkmenistan",
+    "fr": "Turkménistan"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "FI",
   "names": {
     "en": "Finland",
-    "zh-Hans": "芬兰"
+    "zh-Hans": "芬兰",
+    "zh-Hant": "芬蘭",
+    "ja": "フィンランド",
+    "ko": "핀란드",
+    "de": "Finnland",
+    "fr": "Finlande"
   },
   "sections": []
 }

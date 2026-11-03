@@ -3,7 +3,12 @@
   "code": "MF",
   "names": {
     "en": "St. Martin",
-    "zh-Hans": "法属圣马丁"
+    "zh-Hans": "法属圣马丁",
+    "zh-Hant": "法屬聖馬丁",
+    "ja": "サン・マルタン",
+    "ko": "생마르탱",
+    "de": "St. Martin",
+    "fr": "Saint-Martin"
   },
   "sections": []
 }

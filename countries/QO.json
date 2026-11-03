@@ -3,7 +3,12 @@
   "code": "QO",
   "names": {
     "en": "Outlying Oceania",
-    "zh-Hans": "大洋洲边远群岛"
+    "zh-Hans": "大洋洲边远群岛",
+    "zh-Hant": "大洋洲邊疆群島",
+    "ja": "オセアニア周辺地域",
+    "ko": "오세아니아 외곽",
+    "de": "Äußeres Ozeanien",
+    "fr": "Régions éloignées de l’Océanie"
   },
   "sections": []
 }

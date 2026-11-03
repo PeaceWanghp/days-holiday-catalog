@@ -3,7 +3,12 @@
   "code": "DM",
   "names": {
     "en": "Dominica",
-    "zh-Hans": "多米尼克"
+    "zh-Hans": "多米尼克",
+    "zh-Hant": "多米尼克",
+    "ja": "ドミニカ国",
+    "ko": "도미니카",
+    "de": "Dominica",
+    "fr": "Dominique"
   },
   "sections": []
 }

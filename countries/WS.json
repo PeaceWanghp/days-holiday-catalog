@@ -3,7 +3,12 @@
   "code": "WS",
   "names": {
     "en": "Samoa",
-    "zh-Hans": "萨摩亚"
+    "zh-Hans": "萨摩亚",
+    "zh-Hant": "薩摩亞",
+    "ja": "サモア",
+    "ko": "사모아",
+    "de": "Samoa",
+    "fr": "Samoa"
   },
   "sections": []
 }

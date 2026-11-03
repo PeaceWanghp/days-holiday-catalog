@@ -3,7 +3,12 @@
   "code": "VA",
   "names": {
     "en": "Vatican City",
-    "zh-Hans": "梵蒂冈"
+    "zh-Hans": "梵蒂冈",
+    "zh-Hant": "梵蒂岡",
+    "ja": "バチカン市国",
+    "ko": "바티칸 시국",
+    "de": "Vatikanstadt",
+    "fr": "État de la Cité du Vatican"
   },
   "sections": []
 }

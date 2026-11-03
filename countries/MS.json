@@ -3,7 +3,12 @@
   "code": "MS",
   "names": {
     "en": "Montserrat",
-    "zh-Hans": "蒙特塞拉特"
+    "zh-Hans": "蒙特塞拉特",
+    "zh-Hant": "蒙哲臘",
+    "ja": "モントセラト",
+    "ko": "몬트세라트",
+    "de": "Montserrat",
+    "fr": "Montserrat"
   },
   "sections": []
 }

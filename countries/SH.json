@@ -3,7 +3,12 @@
   "code": "SH",
   "names": {
     "en": "St. Helena",
-    "zh-Hans": "圣赫勒拿"
+    "zh-Hans": "圣赫勒拿",
+    "zh-Hant": "聖赫勒拿島",
+    "ja": "セントヘレナ",
+    "ko": "세인트헬레나",
+    "de": "St. Helena",
+    "fr": "Sainte-Hélène"
   },
   "sections": []
 }

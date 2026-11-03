@@ -3,7 +3,12 @@
   "code": "CA",
   "names": {
     "en": "Canada",
-    "zh-Hans": "加拿大"
+    "zh-Hans": "加拿大",
+    "zh-Hant": "加拿大",
+    "ja": "カナダ",
+    "ko": "캐나다",
+    "de": "Kanada",
+    "fr": "Canada"
   },
   "sections": []
 }

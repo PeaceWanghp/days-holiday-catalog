@@ -3,7 +3,12 @@
   "code": "TJ",
   "names": {
     "en": "Tajikistan",
-    "zh-Hans": "塔吉克斯坦"
+    "zh-Hans": "塔吉克斯坦",
+    "zh-Hant": "塔吉克",
+    "ja": "タジキスタン",
+    "ko": "타지키스탄",
+    "de": "Tadschikistan",
+    "fr": "Tadjikistan"
   },
   "sections": []
 }

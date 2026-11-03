@@ -3,7 +3,12 @@
   "code": "MO",
   "names": {
     "en": "Macao",
-    "zh-Hans": "澳门"
+    "zh-Hans": "澳门",
+    "zh-Hant": "澳門",
+    "ja": "マカオ",
+    "ko": "마카오",
+    "de": "Macau",
+    "fr": "Macao"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "PM",
   "names": {
     "en": "St. Pierre & Miquelon",
-    "zh-Hans": "圣皮埃尔和密克隆群岛"
+    "zh-Hans": "圣皮埃尔和密克隆群岛",
+    "zh-Hant": "聖皮埃與密克隆群島",
+    "ja": "サンピエール島・ミクロン島",
+    "ko": "생피에르 미클롱",
+    "de": "St. Pierre und Miquelon",
+    "fr": "Saint-Pierre-et-Miquelon"
   },
   "sections": []
 }

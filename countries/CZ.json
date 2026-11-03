@@ -3,7 +3,12 @@
   "code": "CZ",
   "names": {
     "en": "Czechia",
-    "zh-Hans": "捷克"
+    "zh-Hans": "捷克",
+    "zh-Hant": "捷克",
+    "ja": "チェコ",
+    "ko": "체코",
+    "de": "Tschechien",
+    "fr": "Tchéquie"
   },
   "sections": []
 }

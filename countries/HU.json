@@ -3,7 +3,12 @@
   "code": "HU",
   "names": {
     "en": "Hungary",
-    "zh-Hans": "匈牙利"
+    "zh-Hans": "匈牙利",
+    "zh-Hant": "匈牙利",
+    "ja": "ハンガリー",
+    "ko": "헝가리",
+    "de": "Ungarn",
+    "fr": "Hongrie"
   },
   "sections": []
 }

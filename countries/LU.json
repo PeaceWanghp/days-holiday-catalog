@@ -3,7 +3,12 @@
   "code": "LU",
   "names": {
     "en": "Luxembourg",
-    "zh-Hans": "卢森堡"
+    "zh-Hans": "卢森堡",
+    "zh-Hant": "盧森堡",
+    "ja": "ルクセンブルク",
+    "ko": "룩셈부르크",
+    "de": "Luxemburg",
+    "fr": "Luxembourg"
   },
   "sections": []
 }

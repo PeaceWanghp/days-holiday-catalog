@@ -3,7 +3,12 @@
   "code": "AF",
   "names": {
     "en": "Afghanistan",
-    "zh-Hans": "阿富汗"
+    "zh-Hans": "阿富汗",
+    "zh-Hant": "阿富汗",
+    "ja": "アフガニスタン",
+    "ko": "아프가니스탄",
+    "de": "Afghanistan",
+    "fr": "Afghanistan"
   },
   "sections": []
 }

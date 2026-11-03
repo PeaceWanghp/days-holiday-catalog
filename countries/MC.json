@@ -3,7 +3,12 @@
   "code": "MC",
   "names": {
     "en": "Monaco",
-    "zh-Hans": "摩纳哥"
+    "zh-Hans": "摩纳哥",
+    "zh-Hant": "摩納哥",
+    "ja": "モナコ",
+    "ko": "모나코",
+    "de": "Monaco",
+    "fr": "Monaco"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "JO",
   "names": {
     "en": "Jordan",
-    "zh-Hans": "约旦"
+    "zh-Hans": "约旦",
+    "zh-Hant": "約旦",
+    "ja": "ヨルダン",
+    "ko": "요르단",
+    "de": "Jordanien",
+    "fr": "Jordanie"
   },
   "sections": []
 }

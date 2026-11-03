@@ -3,7 +3,12 @@
   "code": "BZ",
   "names": {
     "en": "Belize",
-    "zh-Hans": "伯利兹"
+    "zh-Hans": "伯利兹",
+    "zh-Hant": "貝里斯",
+    "ja": "ベリーズ",
+    "ko": "벨리즈",
+    "de": "Belize",
+    "fr": "Belize"
   },
   "sections": []
 }

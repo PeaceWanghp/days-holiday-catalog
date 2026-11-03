@@ -3,7 +3,12 @@
   "code": "KI",
   "names": {
     "en": "Kiribati",
-    "zh-Hans": "基里巴斯"
+    "zh-Hans": "基里巴斯",
+    "zh-Hant": "吉里巴斯",
+    "ja": "キリバス",
+    "ko": "키리바시",
+    "de": "Kiribati",
+    "fr": "Kiribati"
   },
   "sections": []
 }

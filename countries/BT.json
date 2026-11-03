@@ -3,7 +3,12 @@
   "code": "BT",
   "names": {
     "en": "Bhutan",
-    "zh-Hans": "不丹"
+    "zh-Hans": "不丹",
+    "zh-Hant": "不丹",
+    "ja": "ブータン",
+    "ko": "부탄",
+    "de": "Bhutan",
+    "fr": "Bhoutan"
   },
   "sections": []
 }

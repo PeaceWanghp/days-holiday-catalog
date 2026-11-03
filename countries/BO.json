@@ -3,7 +3,12 @@
   "code": "BO",
   "names": {
     "en": "Bolivia",
-    "zh-Hans": "玻利维亚"
+    "zh-Hans": "玻利维亚",
+    "zh-Hant": "玻利維亞",
+    "ja": "ボリビア",
+    "ko": "볼리비아",
+    "de": "Bolivien",
+    "fr": "Bolivie"
   },
   "sections": []
 }

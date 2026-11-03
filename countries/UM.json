@@ -3,7 +3,12 @@
   "code": "UM",
   "names": {
     "en": "U.S. Outlying Islands",
-    "zh-Hans": "美国本土外小岛屿"
+    "zh-Hans": "美国本土外小岛屿",
+    "zh-Hant": "美國本土外小島嶼",
+    "ja": "合衆国領有小離島",
+    "ko": "미국령 해외 제도",
+    "de": "Amerikanische Überseeinseln",
+    "fr": "Îles mineures éloignées des États-Unis"
   },
   "sections": []
 }

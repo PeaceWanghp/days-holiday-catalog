@@ -3,7 +3,12 @@
   "code": "TO",
   "names": {
     "en": "Tonga",
-    "zh-Hans": "汤加"
+    "zh-Hans": "汤加",
+    "zh-Hant": "東加",
+    "ja": "トンガ",
+    "ko": "통가",
+    "de": "Tonga",
+    "fr": "Tonga"
   },
   "sections": []
 }

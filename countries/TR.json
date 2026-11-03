@@ -3,7 +3,12 @@
   "code": "TR",
   "names": {
     "en": "Türkiye",
-    "zh-Hans": "土耳其"
+    "zh-Hans": "土耳其",
+    "zh-Hant": "土耳其",
+    "ja": "トルコ",
+    "ko": "튀르키예",
+    "de": "Türkei",
+    "fr": "Turquie"
   },
   "sections": []
 }

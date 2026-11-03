@@ -3,7 +3,12 @@
   "code": "FR",
   "names": {
     "en": "France",
-    "zh-Hans": "法国"
+    "zh-Hans": "法国",
+    "zh-Hant": "法國",
+    "ja": "フランス",
+    "ko": "프랑스",
+    "de": "Frankreich",
+    "fr": "France"
   },
   "sections": []
 }

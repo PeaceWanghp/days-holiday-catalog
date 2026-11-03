@@ -3,7 +3,12 @@
   "code": "TW",
   "names": {
     "en": "Taiwan",
-    "zh-Hans": "台湾"
+    "zh-Hans": "台湾",
+    "zh-Hant": "台灣",
+    "ja": "台湾",
+    "ko": "대만",
+    "de": "Taiwan",
+    "fr": "Taïwan"
   },
   "sections": []
 }

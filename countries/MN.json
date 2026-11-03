@@ -3,7 +3,12 @@
   "code": "MN",
   "names": {
     "en": "Mongolia",
-    "zh-Hans": "蒙古"
+    "zh-Hans": "蒙古",
+    "zh-Hant": "蒙古",
+    "ja": "モンゴル",
+    "ko": "몽골",
+    "de": "Mongolei",
+    "fr": "Mongolie"
   },
   "sections": []
 }

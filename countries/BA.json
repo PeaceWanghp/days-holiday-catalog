@@ -3,7 +3,12 @@
   "code": "BA",
   "names": {
     "en": "Bosnia & Herzegovina",
-    "zh-Hans": "波斯尼亚和黑塞哥维那"
+    "zh-Hans": "波斯尼亚和黑塞哥维那",
+    "zh-Hant": "波士尼亞與赫塞哥維納",
+    "ja": "ボスニア・ヘルツェゴビナ",
+    "ko": "보스니아 헤르체고비나",
+    "de": "Bosnien und Herzegowina",
+    "fr": "Bosnie-Herzégovine"
   },
   "sections": []
 }

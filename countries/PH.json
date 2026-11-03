@@ -3,7 +3,12 @@
   "code": "PH",
   "names": {
     "en": "Philippines",
-    "zh-Hans": "菲律宾"
+    "zh-Hans": "菲律宾",
+    "zh-Hant": "菲律賓",
+    "ja": "フィリピン",
+    "ko": "필리핀",
+    "de": "Philippinen",
+    "fr": "Philippines"
   },
   "sections": []
 }

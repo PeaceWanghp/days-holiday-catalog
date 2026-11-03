@@ -3,7 +3,12 @@
   "code": "BN",
   "names": {
     "en": "Brunei",
-    "zh-Hans": "文莱"
+    "zh-Hans": "文莱",
+    "zh-Hant": "汶萊",
+    "ja": "ブルネイ",
+    "ko": "브루나이",
+    "de": "Brunei Darussalam",
+    "fr": "Brunei"
   },
   "sections": []
 }

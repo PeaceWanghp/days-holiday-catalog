@@ -3,7 +3,12 @@
   "code": "LV",
   "names": {
     "en": "Latvia",
-    "zh-Hans": "拉脱维亚"
+    "zh-Hans": "拉脱维亚",
+    "zh-Hant": "拉脫維亞",
+    "ja": "ラトビア",
+    "ko": "라트비아",
+    "de": "Lettland",
+    "fr": "Lettonie"
   },
   "sections": []
 }

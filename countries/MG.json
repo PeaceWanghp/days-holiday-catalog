@@ -3,7 +3,12 @@
   "code": "MG",
   "names": {
     "en": "Madagascar",
-    "zh-Hans": "马达加斯加"
+    "zh-Hans": "马达加斯加",
+    "zh-Hant": "馬達加斯加",
+    "ja": "マダガスカル",
+    "ko": "마다가스카르",
+    "de": "Madagaskar",
+    "fr": "Madagascar"
   },
   "sections": []
 }

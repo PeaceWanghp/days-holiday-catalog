@@ -3,7 +3,12 @@
   "code": "LA",
   "names": {
     "en": "Laos",
-    "zh-Hans": "老挝"
+    "zh-Hans": "老挝",
+    "zh-Hant": "寮國",
+    "ja": "ラオス",
+    "ko": "라오스",
+    "de": "Laos",
+    "fr": "Laos"
   },
   "sections": []
 }

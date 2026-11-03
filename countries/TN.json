@@ -3,7 +3,12 @@
   "code": "TN",
   "names": {
     "en": "Tunisia",
-    "zh-Hans": "突尼斯"
+    "zh-Hans": "突尼斯",
+    "zh-Hant": "突尼西亞",
+    "ja": "チュニジア",
+    "ko": "튀니지",
+    "de": "Tunesien",
+    "fr": "Tunisie"
   },
   "sections": []
 }

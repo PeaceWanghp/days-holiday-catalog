@@ -3,7 +3,12 @@
   "code": "MX",
   "names": {
     "en": "Mexico",
-    "zh-Hans": "墨西哥"
+    "zh-Hans": "墨西哥",
+    "zh-Hant": "墨西哥",
+    "ja": "メキシコ",
+    "ko": "멕시코",
+    "de": "Mexiko",
+    "fr": "Mexique"
   },
   "sections": []
 }

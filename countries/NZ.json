@@ -3,7 +3,12 @@
   "code": "NZ",
   "names": {
     "en": "New Zealand",
-    "zh-Hans": "新西兰"
+    "zh-Hans": "新西兰",
+    "zh-Hant": "紐西蘭",
+    "ja": "ニュージーランド",
+    "ko": "뉴질랜드",
+    "de": "Neuseeland",
+    "fr": "Nouvelle-Zélande"
   },
   "sections": []
 }

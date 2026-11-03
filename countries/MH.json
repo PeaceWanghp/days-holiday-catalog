@@ -3,7 +3,12 @@
   "code": "MH",
   "names": {
     "en": "Marshall Islands",
-    "zh-Hans": "马绍尔群岛"
+    "zh-Hans": "马绍尔群岛",
+    "zh-Hant": "馬紹爾群島",
+    "ja": "マーシャル諸島",
+    "ko": "마셜 제도",
+    "de": "Marshallinseln",
+    "fr": "Îles Marshall"
   },
   "sections": []
 }

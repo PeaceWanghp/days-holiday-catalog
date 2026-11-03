@@ -3,7 +3,12 @@
   "code": "AT",
   "names": {
     "en": "Austria",
-    "zh-Hans": "奥地利"
+    "zh-Hans": "奥地利",
+    "zh-Hant": "奧地利",
+    "ja": "オーストリア",
+    "ko": "오스트리아",
+    "de": "Österreich",
+    "fr": "Autriche"
   },
   "sections": []
 }

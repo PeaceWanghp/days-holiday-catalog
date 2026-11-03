@@ -3,7 +3,12 @@
   "code": "CC",
   "names": {
     "en": "Cocos (Keeling) Islands",
-    "zh-Hans": "科科斯（基林）群岛"
+    "zh-Hans": "科科斯（基林）群岛",
+    "zh-Hant": "科克斯（基靈）群島",
+    "ja": "ココス(キーリング)諸島",
+    "ko": "코코스 제도",
+    "de": "Kokosinseln",
+    "fr": "Îles Cocos"
   },
   "sections": []
 }

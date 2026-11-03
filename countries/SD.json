@@ -3,7 +3,12 @@
   "code": "SD",
   "names": {
     "en": "Sudan",
-    "zh-Hans": "苏丹"
+    "zh-Hans": "苏丹",
+    "zh-Hant": "蘇丹",
+    "ja": "スーダン",
+    "ko": "수단",
+    "de": "Sudan",
+    "fr": "Soudan"
   },
   "sections": []
 }

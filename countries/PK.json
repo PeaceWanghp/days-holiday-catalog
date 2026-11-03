@@ -3,7 +3,12 @@
   "code": "PK",
   "names": {
     "en": "Pakistan",
-    "zh-Hans": "巴基斯坦"
+    "zh-Hans": "巴基斯坦",
+    "zh-Hant": "巴基斯坦",
+    "ja": "パキスタン",
+    "ko": "파키스탄",
+    "de": "Pakistan",
+    "fr": "Pakistan"
   },
   "sections": []
 }

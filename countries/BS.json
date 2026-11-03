@@ -3,7 +3,12 @@
   "code": "BS",
   "names": {
     "en": "Bahamas",
-    "zh-Hans": "巴哈马"
+    "zh-Hans": "巴哈马",
+    "zh-Hant": "巴哈馬",
+    "ja": "バハマ",
+    "ko": "바하마",
+    "de": "Bahamas",
+    "fr": "Bahamas"
   },
   "sections": []
 }

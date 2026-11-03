@@ -3,7 +3,12 @@
   "code": "UA",
   "names": {
     "en": "Ukraine",
-    "zh-Hans": "乌克兰"
+    "zh-Hans": "乌克兰",
+    "zh-Hant": "烏克蘭",
+    "ja": "ウクライナ",
+    "ko": "우크라이나",
+    "de": "Ukraine",
+    "fr": "Ukraine"
   },
   "sections": []
 }

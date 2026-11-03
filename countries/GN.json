@@ -3,7 +3,12 @@
   "code": "GN",
   "names": {
     "en": "Guinea",
-    "zh-Hans": "几内亚"
+    "zh-Hans": "几内亚",
+    "zh-Hant": "幾內亞",
+    "ja": "ギニア",
+    "ko": "기니",
+    "de": "Guinea",
+    "fr": "Guinée"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "SR",
   "names": {
     "en": "Suriname",
-    "zh-Hans": "苏里南"
+    "zh-Hans": "苏里南",
+    "zh-Hant": "蘇利南",
+    "ja": "スリナム",
+    "ko": "수리남",
+    "de": "Suriname",
+    "fr": "Suriname"
   },
   "sections": []
 }

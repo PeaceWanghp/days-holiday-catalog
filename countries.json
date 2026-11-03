@@ -3,14 +3,24 @@
   "defaultLanguage": "en",
   "languages": [
     "en",
-    "zh-Hans"
+    "zh-Hans",
+    "zh-Hant",
+    "ja",
+    "ko",
+    "de",
+    "fr"
   ],
   "countries": [
     {
       "code": "AF",
       "names": {
         "en": "Afghanistan",
-        "zh-Hans": "阿富汗"
+        "zh-Hans": "阿富汗",
+        "zh-Hant": "阿富汗",
+        "ja": "アフガニスタン",
+        "ko": "아프가니스탄",
+        "de": "Afghanistan",
+        "fr": "Afghanistan"
       },
       "file": "countries/AF.json",
       "regionHints": [
@@ -21,7 +31,12 @@
       "code": "AX",
       "names": {
         "en": "Åland Islands",
-        "zh-Hans": "奥兰群岛"
+        "zh-Hans": "奥兰群岛",
+        "zh-Hant": "奧蘭群島",
+        "ja": "オーランド諸島",
+        "ko": "올란드 제도",
+        "de": "Ålandinseln",
+        "fr": "Îles Åland"
       },
       "file": "countries/AX.json",
       "regionHints": [
@@ -32,7 +47,12 @@
       "code": "AL",
       "names": {
         "en": "Albania",
-        "zh-Hans": "阿尔巴尼亚"
+        "zh-Hans": "阿尔巴尼亚",
+        "zh-Hant": "阿爾巴尼亞",
+        "ja": "アルバニア",
+        "ko": "알바니아",
+        "de": "Albanien",
+        "fr": "Albanie"
       },
       "file": "countries/AL.json",
       "regionHints": [
@@ -43,7 +63,12 @@
       "code": "DZ",
       "names": {
         "en": "Algeria",
-        "zh-Hans": "阿尔及利亚"
+        "zh-Hans": "阿尔及利亚",
+        "zh-Hant": "阿爾及利亞",
+        "ja": "アルジェリア",
+        "ko": "알제리",
+        "de": "Algerien",
+        "fr": "Algérie"
       },
       "file": "countries/DZ.json",
       "regionHints": [
@@ -54,7 +79,12 @@
       "code": "AS",
       "names": {
         "en": "American Samoa",
-        "zh-Hans": "美属萨摩亚"
+        "zh-Hans": "美属萨摩亚",
+        "zh-Hant": "美屬薩摩亞",
+        "ja": "米領サモア",
+        "ko": "아메리칸 사모아",
+        "de": "Amerikanisch-Samoa",
+        "fr": "Samoa américaines"
       },
       "file": "countries/AS.json",
       "regionHints": [
@@ -65,7 +95,12 @@
       "code": "AD",
       "names": {
         "en": "Andorra",
-        "zh-Hans": "安道尔"
+        "zh-Hans": "安道尔",
+        "zh-Hant": "安道爾",
+        "ja": "アンドラ",
+        "ko": "안도라",
+        "de": "Andorra",
+        "fr": "Andorre"
       },
       "file": "countries/AD.json",
       "regionHints": [
@@ -76,7 +111,12 @@
       "code": "AO",
       "names": {
         "en": "Angola",
-        "zh-Hans": "安哥拉"
+        "zh-Hans": "安哥拉",
+        "zh-Hant": "安哥拉",
+        "ja": "アンゴラ",
+        "ko": "앙골라",
+        "de": "Angola",
+        "fr": "Angola"
       },
       "file": "countries/AO.json",
       "regionHints": [
@@ -87,7 +127,12 @@
       "code": "AI",
       "names": {
         "en": "Anguilla",
-        "zh-Hans": "安圭拉"
+        "zh-Hans": "安圭拉",
+        "zh-Hant": "安奎拉",
+        "ja": "アンギラ",
+        "ko": "앵귈라",
+        "de": "Anguilla",
+        "fr": "Anguilla"
       },
       "file": "countries/AI.json",
       "regionHints": [
@@ -98,7 +143,12 @@
       "code": "AQ",
       "names": {
         "en": "Antarctica",
-        "zh-Hans": "南极洲"
+        "zh-Hans": "南极洲",
+        "zh-Hant": "南極洲",
+        "ja": "南極",
+        "ko": "남극 대륙",
+        "de": "Antarktis",
+        "fr": "Antarctique"
       },
       "file": "countries/AQ.json",
       "regionHints": [
@@ -109,7 +159,12 @@
       "code": "AG",
       "names": {
         "en": "Antigua & Barbuda",
-        "zh-Hans": "安提瓜和巴布达"
+        "zh-Hans": "安提瓜和巴布达",
+        "zh-Hant": "安地卡及巴布達",
+        "ja": "アンティグア・バーブーダ",
+        "ko": "앤티가 바부다",
+        "de": "Antigua und Barbuda",
+        "fr": "Antigua-et-Barbuda"
       },
       "file": "countries/AG.json",
       "regionHints": [
@@ -120,7 +175,12 @@
       "code": "AR",
       "names": {
         "en": "Argentina",
-        "zh-Hans": "阿根廷"
+        "zh-Hans": "阿根廷",
+        "zh-Hant": "阿根廷",
+        "ja": "アルゼンチン",
+        "ko": "아르헨티나",
+        "de": "Argentinien",
+        "fr": "Argentine"
       },
       "file": "countries/AR.json",
       "regionHints": [
@@ -131,7 +191,12 @@
       "code": "AM",
       "names": {
         "en": "Armenia",
-        "zh-Hans": "亚美尼亚"
+        "zh-Hans": "亚美尼亚",
+        "zh-Hant": "亞美尼亞",
+        "ja": "アルメニア",
+        "ko": "아르메니아",
+        "de": "Armenien",
+        "fr": "Arménie"
       },
       "file": "countries/AM.json",
       "regionHints": [
@@ -142,7 +207,12 @@
       "code": "AW",
       "names": {
         "en": "Aruba",
-        "zh-Hans": "阿鲁巴"
+        "zh-Hans": "阿鲁巴",
+        "zh-Hant": "荷屬阿魯巴",
+        "ja": "アルバ",
+        "ko": "아루바",
+        "de": "Aruba",
+        "fr": "Aruba"
       },
       "file": "countries/AW.json",
       "regionHints": [
@@ -153,7 +223,12 @@
       "code": "AU",
       "names": {
         "en": "Australia",
-        "zh-Hans": "澳大利亚"
+        "zh-Hans": "澳大利亚",
+        "zh-Hant": "澳洲",
+        "ja": "オーストラリア",
+        "ko": "오스트레일리아",
+        "de": "Australien",
+        "fr": "Australie"
       },
       "file": "countries/AU.json",
       "regionHints": [
@@ -164,7 +239,12 @@
       "code": "AT",
       "names": {
         "en": "Austria",
-        "zh-Hans": "奥地利"
+        "zh-Hans": "奥地利",
+        "zh-Hant": "奧地利",
+        "ja": "オーストリア",
+        "ko": "오스트리아",
+        "de": "Österreich",
+        "fr": "Autriche"
       },
       "file": "countries/AT.json",
       "regionHints": [
@@ -175,7 +255,12 @@
       "code": "AZ",
       "names": {
         "en": "Azerbaijan",
-        "zh-Hans": "阿塞拜疆"
+        "zh-Hans": "阿塞拜疆",
+        "zh-Hant": "亞塞拜然",
+        "ja": "アゼルバイジャン",
+        "ko": "아제르바이잔",
+        "de": "Aserbaidschan",
+        "fr": "Azerbaïdjan"
       },
       "file": "countries/AZ.json",
       "regionHints": [
@@ -186,7 +271,12 @@
       "code": "BS",
       "names": {
         "en": "Bahamas",
-        "zh-Hans": "巴哈马"
+        "zh-Hans": "巴哈马",
+        "zh-Hant": "巴哈馬",
+        "ja": "バハマ",
+        "ko": "바하마",
+        "de": "Bahamas",
+        "fr": "Bahamas"
       },
       "file": "countries/BS.json",
       "regionHints": [
@@ -197,7 +287,12 @@
       "code": "BH",
       "names": {
         "en": "Bahrain",
-        "zh-Hans": "巴林"
+        "zh-Hans": "巴林",
+        "zh-Hant": "巴林",
+        "ja": "バーレーン",
+        "ko": "바레인",
+        "de": "Bahrain",
+        "fr": "Bahreïn"
       },
       "file": "countries/BH.json",
       "regionHints": [
@@ -208,7 +303,12 @@
       "code": "BD",
       "names": {
         "en": "Bangladesh",
-        "zh-Hans": "孟加拉国"
+        "zh-Hans": "孟加拉国",
+        "zh-Hant": "孟加拉",
+        "ja": "バングラデシュ",
+        "ko": "방글라데시",
+        "de": "Bangladesch",
+        "fr": "Bangladesh"
       },
       "file": "countries/BD.json",
       "regionHints": [
@@ -219,7 +319,12 @@
       "code": "BB",
       "names": {
         "en": "Barbados",
-        "zh-Hans": "巴巴多斯"
+        "zh-Hans": "巴巴多斯",
+        "zh-Hant": "巴貝多",
+        "ja": "バルバドス",
+        "ko": "바베이도스",
+        "de": "Barbados",
+        "fr": "Barbade"
       },
       "file": "countries/BB.json",
       "regionHints": [
@@ -230,7 +335,12 @@
       "code": "BY",
       "names": {
         "en": "Belarus",
-        "zh-Hans": "白俄罗斯"
+        "zh-Hans": "白俄罗斯",
+        "zh-Hant": "白俄羅斯",
+        "ja": "ベラルーシ",
+        "ko": "벨라루스",
+        "de": "Belarus",
+        "fr": "Biélorussie"
       },
       "file": "countries/BY.json",
       "regionHints": [
@@ -241,7 +351,12 @@
       "code": "BE",
       "names": {
         "en": "Belgium",
-        "zh-Hans": "比利时"
+        "zh-Hans": "比利时",
+        "zh-Hant": "比利時",
+        "ja": "ベルギー",
+        "ko": "벨기에",
+        "de": "Belgien",
+        "fr": "Belgique"
       },
       "file": "countries/BE.json",
       "regionHints": [
@@ -252,7 +367,12 @@
       "code": "BZ",
       "names": {
         "en": "Belize",
-        "zh-Hans": "伯利兹"
+        "zh-Hans": "伯利兹",
+        "zh-Hant": "貝里斯",
+        "ja": "ベリーズ",
+        "ko": "벨리즈",
+        "de": "Belize",
+        "fr": "Belize"
       },
       "file": "countries/BZ.json",
       "regionHints": [
@@ -263,7 +383,12 @@
       "code": "BJ",
       "names": {
         "en": "Benin",
-        "zh-Hans": "贝宁"
+        "zh-Hans": "贝宁",
+        "zh-Hant": "貝南",
+        "ja": "ベナン",
+        "ko": "베냉",
+        "de": "Benin",
+        "fr": "Bénin"
       },
       "file": "countries/BJ.json",
       "regionHints": [
@@ -274,7 +399,12 @@
       "code": "BM",
       "names": {
         "en": "Bermuda",
-        "zh-Hans": "百慕大"
+        "zh-Hans": "百慕大",
+        "zh-Hant": "百慕達",
+        "ja": "バミューダ",
+        "ko": "버뮤다",
+        "de": "Bermuda",
+        "fr": "Bermudes"
       },
       "file": "countries/BM.json",
       "regionHints": [
@@ -285,7 +415,12 @@
       "code": "BT",
       "names": {
         "en": "Bhutan",
-        "zh-Hans": "不丹"
+        "zh-Hans": "不丹",
+        "zh-Hant": "不丹",
+        "ja": "ブータン",
+        "ko": "부탄",
+        "de": "Bhutan",
+        "fr": "Bhoutan"
       },
       "file": "countries/BT.json",
       "regionHints": [
@@ -296,7 +431,12 @@
       "code": "BO",
       "names": {
         "en": "Bolivia",
-        "zh-Hans": "玻利维亚"
+        "zh-Hans": "玻利维亚",
+        "zh-Hant": "玻利維亞",
+        "ja": "ボリビア",
+        "ko": "볼리비아",
+        "de": "Bolivien",
+        "fr": "Bolivie"
       },
       "file": "countries/BO.json",
       "regionHints": [
@@ -307,7 +447,12 @@
       "code": "BA",
       "names": {
         "en": "Bosnia & Herzegovina",
-        "zh-Hans": "波斯尼亚和黑塞哥维那"
+        "zh-Hans": "波斯尼亚和黑塞哥维那",
+        "zh-Hant": "波士尼亞與赫塞哥維納",
+        "ja": "ボスニア・ヘルツェゴビナ",
+        "ko": "보스니아 헤르체고비나",
+        "de": "Bosnien und Herzegowina",
+        "fr": "Bosnie-Herzégovine"
       },
       "file": "countries/BA.json",
       "regionHints": [
@@ -318,7 +463,12 @@
       "code": "BW",
       "names": {
         "en": "Botswana",
-        "zh-Hans": "博茨瓦纳"
+        "zh-Hans": "博茨瓦纳",
+        "zh-Hant": "波札那",
+        "ja": "ボツワナ",
+        "ko": "보츠와나",
+        "de": "Botsuana",
+        "fr": "Botswana"
       },
       "file": "countries/BW.json",
       "regionHints": [
@@ -329,7 +479,12 @@
       "code": "BV",
       "names": {
         "en": "Bouvet Island",
-        "zh-Hans": "布韦岛"
+        "zh-Hans": "布韦岛",
+        "zh-Hant": "布威島",
+        "ja": "ブーベ島",
+        "ko": "부베섬",
+        "de": "Bouvetinsel",
+        "fr": "Île Bouvet"
       },
       "file": "countries/BV.json",
       "regionHints": [
@@ -340,7 +495,12 @@
       "code": "BR",
       "names": {
         "en": "Brazil",
-        "zh-Hans": "巴西"
+        "zh-Hans": "巴西",
+        "zh-Hant": "巴西",
+        "ja": "ブラジル",
+        "ko": "브라질",
+        "de": "Brasilien",
+        "fr": "Brésil"
       },
       "file": "countries/BR.json",
       "regionHints": [
@@ -351,7 +511,12 @@
       "code": "VG",
       "names": {
         "en": "British Virgin Islands",
-        "zh-Hans": "英属维尔京群岛"
+        "zh-Hans": "英属维尔京群岛",
+        "zh-Hant": "英屬維京群島",
+        "ja": "英領ヴァージン諸島",
+        "ko": "영국령 버진아일랜드",
+        "de": "Britische Jungferninseln",
+        "fr": "Îles Vierges britanniques"
       },
       "file": "countries/VG.json",
       "regionHints": [
@@ -362,7 +527,12 @@
       "code": "BN",
       "names": {
         "en": "Brunei",
-        "zh-Hans": "文莱"
+        "zh-Hans": "文莱",
+        "zh-Hant": "汶萊",
+        "ja": "ブルネイ",
+        "ko": "브루나이",
+        "de": "Brunei Darussalam",
+        "fr": "Brunei"
       },
       "file": "countries/BN.json",
       "regionHints": [
@@ -373,7 +543,12 @@
       "code": "BG",
       "names": {
         "en": "Bulgaria",
-        "zh-Hans": "保加利亚"
+        "zh-Hans": "保加利亚",
+        "zh-Hant": "保加利亞",
+        "ja": "ブルガリア",
+        "ko": "불가리아",
+        "de": "Bulgarien",
+        "fr": "Bulgarie"
       },
       "file": "countries/BG.json",
       "regionHints": [
@@ -384,7 +559,12 @@
       "code": "BF",
       "names": {
         "en": "Burkina Faso",
-        "zh-Hans": "布基纳法索"
+        "zh-Hans": "布基纳法索",
+        "zh-Hant": "布吉納法索",
+        "ja": "ブルキナファソ",
+        "ko": "부르키나파소",
+        "de": "Burkina Faso",
+        "fr": "Burkina Faso"
       },
       "file": "countries/BF.json",
       "regionHints": [
@@ -395,7 +575,12 @@
       "code": "BI",
       "names": {
         "en": "Burundi",
-        "zh-Hans": "布隆迪"
+        "zh-Hans": "布隆迪",
+        "zh-Hant": "蒲隆地",
+        "ja": "ブルンジ",
+        "ko": "부룬디",
+        "de": "Burundi",
+        "fr": "Burundi"
       },
       "file": "countries/BI.json",
       "regionHints": [
@@ -406,7 +591,12 @@
       "code": "KH",
       "names": {
         "en": "Cambodia",
-        "zh-Hans": "柬埔寨"
+        "zh-Hans": "柬埔寨",
+        "zh-Hant": "柬埔寨",
+        "ja": "カンボジア",
+        "ko": "캄보디아",
+        "de": "Kambodscha",
+        "fr": "Cambodge"
       },
       "file": "countries/KH.json",
       "regionHints": [
@@ -417,7 +607,12 @@
       "code": "CM",
       "names": {
         "en": "Cameroon",
-        "zh-Hans": "喀麦隆"
+        "zh-Hans": "喀麦隆",
+        "zh-Hant": "喀麥隆",
+        "ja": "カメルーン",
+        "ko": "카메룬",
+        "de": "Kamerun",
+        "fr": "Cameroun"
       },
       "file": "countries/CM.json",
       "regionHints": [
@@ -428,7 +623,12 @@
       "code": "CA",
       "names": {
         "en": "Canada",
-        "zh-Hans": "加拿大"
+        "zh-Hans": "加拿大",
+        "zh-Hant": "加拿大",
+        "ja": "カナダ",
+        "ko": "캐나다",
+        "de": "Kanada",
+        "fr": "Canada"
       },
       "file": "countries/CA.json",
       "regionHints": [
@@ -439,7 +639,12 @@
       "code": "CV",
       "names": {
         "en": "Cape Verde",
-        "zh-Hans": "佛得角"
+        "zh-Hans": "佛得角",
+        "zh-Hant": "維德角",
+        "ja": "カーボベルデ",
+        "ko": "카보베르데",
+        "de": "Cabo Verde",
+        "fr": "Cap-Vert"
       },
       "file": "countries/CV.json",
       "regionHints": [
@@ -450,7 +655,12 @@
       "code": "BQ",
       "names": {
         "en": "Caribbean Netherlands",
-        "zh-Hans": "荷属加勒比区"
+        "zh-Hans": "荷属加勒比区",
+        "zh-Hant": "荷蘭加勒比區",
+        "ja": "オランダ領カリブ",
+        "ko": "네덜란드령 카리브",
+        "de": "Karibische Niederlande",
+        "fr": "Pays-Bas caribéens"
       },
       "file": "countries/BQ.json",
       "regionHints": [
@@ -461,7 +671,12 @@
       "code": "KY",
       "names": {
         "en": "Cayman Islands",
-        "zh-Hans": "开曼群岛"
+        "zh-Hans": "开曼群岛",
+        "zh-Hant": "開曼群島",
+        "ja": "ケイマン諸島",
+        "ko": "케이맨 제도",
+        "de": "Kaimaninseln",
+        "fr": "Îles Caïmans"
       },
       "file": "countries/KY.json",
       "regionHints": [
@@ -472,7 +687,12 @@
       "code": "CF",
       "names": {
         "en": "Central African Republic",
-        "zh-Hans": "中非共和国"
+        "zh-Hans": "中非共和国",
+        "zh-Hant": "中非共和國",
+        "ja": "中央アフリカ共和国",
+        "ko": "중앙 아프리카 공화국",
+        "de": "Zentralafrikanische Republik",
+        "fr": "République centrafricaine"
       },
       "file": "countries/CF.json",
       "regionHints": [
@@ -483,7 +703,12 @@
       "code": "TD",
       "names": {
         "en": "Chad",
-        "zh-Hans": "乍得"
+        "zh-Hans": "乍得",
+        "zh-Hant": "查德",
+        "ja": "チャド",
+        "ko": "차드",
+        "de": "Tschad",
+        "fr": "Tchad"
       },
       "file": "countries/TD.json",
       "regionHints": [
@@ -494,7 +719,12 @@
       "code": "IO",
       "names": {
         "en": "Chagos Archipelago",
-        "zh-Hans": "查戈斯群岛"
+        "zh-Hans": "查戈斯群岛",
+        "zh-Hant": "查哥斯群島",
+        "ja": "チャゴス諸島",
+        "ko": "차고스 제도",
+        "de": "Chagos-Archipel",
+        "fr": "Archipel des Chagos"
       },
       "file": "countries/IO.json",
       "regionHints": [
@@ -505,7 +735,12 @@
       "code": "CL",
       "names": {
         "en": "Chile",
-        "zh-Hans": "智利"
+        "zh-Hans": "智利",
+        "zh-Hant": "智利",
+        "ja": "チリ",
+        "ko": "칠레",
+        "de": "Chile",
+        "fr": "Chili"
       },
       "file": "countries/CL.json",
       "regionHints": [
@@ -516,7 +751,12 @@
       "code": "CN",
       "names": {
         "en": "China",
-        "zh-Hans": "中国"
+        "zh-Hans": "中国",
+        "zh-Hant": "中國",
+        "ja": "中国",
+        "ko": "중국",
+        "de": "China",
+        "fr": "Chine"
       },
       "file": "countries/CN.json",
       "regionHints": [
@@ -527,7 +767,12 @@
       "code": "CX",
       "names": {
         "en": "Christmas Island",
-        "zh-Hans": "圣诞岛"
+        "zh-Hans": "圣诞岛",
+        "zh-Hant": "聖誕島",
+        "ja": "クリスマス島",
+        "ko": "크리스마스섬",
+        "de": "Weihnachtsinsel",
+        "fr": "Île Christmas"
       },
       "file": "countries/CX.json",
       "regionHints": [
@@ -538,7 +783,12 @@
       "code": "CC",
       "names": {
         "en": "Cocos (Keeling) Islands",
-        "zh-Hans": "科科斯（基林）群岛"
+        "zh-Hans": "科科斯（基林）群岛",
+        "zh-Hant": "科克斯（基靈）群島",
+        "ja": "ココス(キーリング)諸島",
+        "ko": "코코스 제도",
+        "de": "Kokosinseln",
+        "fr": "Îles Cocos"
       },
       "file": "countries/CC.json",
       "regionHints": [
@@ -549,7 +799,12 @@
       "code": "CO",
       "names": {
         "en": "Colombia",
-        "zh-Hans": "哥伦比亚"
+        "zh-Hans": "哥伦比亚",
+        "zh-Hant": "哥倫比亞",
+        "ja": "コロンビア",
+        "ko": "콜롬비아",
+        "de": "Kolumbien",
+        "fr": "Colombie"
       },
       "file": "countries/CO.json",
       "regionHints": [
@@ -560,7 +815,12 @@
       "code": "KM",
       "names": {
         "en": "Comoros",
-        "zh-Hans": "科摩罗"
+        "zh-Hans": "科摩罗",
+        "zh-Hant": "葛摩",
+        "ja": "コモロ",
+        "ko": "코모로",
+        "de": "Komoren",
+        "fr": "Comores"
       },
       "file": "countries/KM.json",
       "regionHints": [
@@ -571,7 +831,12 @@
       "code": "CG",
       "names": {
         "en": "Congo - Brazzaville",
-        "zh-Hans": "刚果（布）"
+        "zh-Hans": "刚果（布）",
+        "zh-Hant": "剛果（布拉薩）",
+        "ja": "コンゴ共和国(ブラザビル)",
+        "ko": "콩고-브라자빌",
+        "de": "Kongo-Brazzaville",
+        "fr": "Congo-Brazzaville"
       },
       "file": "countries/CG.json",
       "regionHints": [
@@ -582,7 +847,12 @@
       "code": "CD",
       "names": {
         "en": "Congo - Kinshasa",
-        "zh-Hans": "刚果（金）"
+        "zh-Hans": "刚果（金）",
+        "zh-Hant": "剛果（金夏沙）",
+        "ja": "コンゴ民主共和国(キンシャサ)",
+        "ko": "콩고-킨샤사",
+        "de": "Kongo-Kinshasa",
+        "fr": "Congo-Kinshasa"
       },
       "file": "countries/CD.json",
       "regionHints": [
@@ -593,7 +863,12 @@
       "code": "CK",
       "names": {
         "en": "Cook Islands",
-        "zh-Hans": "库克群岛"
+        "zh-Hans": "库克群岛",
+        "zh-Hant": "庫克群島",
+        "ja": "クック諸島",
+        "ko": "쿡 제도",
+        "de": "Cookinseln",
+        "fr": "Îles Cook"
       },
       "file": "countries/CK.json",
       "regionHints": [
@@ -604,7 +879,12 @@
       "code": "CR",
       "names": {
         "en": "Costa Rica",
-        "zh-Hans": "哥斯达黎加"
+        "zh-Hans": "哥斯达黎加",
+        "zh-Hant": "哥斯大黎加",
+        "ja": "コスタリカ",
+        "ko": "코스타리카",
+        "de": "Costa Rica",
+        "fr": "Costa Rica"
       },
       "file": "countries/CR.json",
       "regionHints": [
@@ -615,7 +895,12 @@
       "code": "CI",
       "names": {
         "en": "Côte d’Ivoire",
-        "zh-Hans": "科特迪瓦"
+        "zh-Hans": "科特迪瓦",
+        "zh-Hant": "象牙海岸",
+        "ja": "コートジボワール",
+        "ko": "코트디부아르",
+        "de": "Côte d’Ivoire",
+        "fr": "Côte d’Ivoire"
       },
       "file": "countries/CI.json",
       "regionHints": [
@@ -626,7 +911,12 @@
       "code": "HR",
       "names": {
         "en": "Croatia",
-        "zh-Hans": "克罗地亚"
+        "zh-Hans": "克罗地亚",
+        "zh-Hant": "克羅埃西亞",
+        "ja": "クロアチア",
+        "ko": "크로아티아",
+        "de": "Kroatien",
+        "fr": "Croatie"
       },
       "file": "countries/HR.json",
       "regionHints": [
@@ -637,7 +927,12 @@
       "code": "CU",
       "names": {
         "en": "Cuba",
-        "zh-Hans": "古巴"
+        "zh-Hans": "古巴",
+        "zh-Hant": "古巴",
+        "ja": "キューバ",
+        "ko": "쿠바",
+        "de": "Kuba",
+        "fr": "Cuba"
       },
       "file": "countries/CU.json",
       "regionHints": [
@@ -648,7 +943,12 @@
       "code": "CW",
       "names": {
         "en": "Curaçao",
-        "zh-Hans": "库拉索"
+        "zh-Hans": "库拉索",
+        "zh-Hant": "庫拉索",
+        "ja": "キュラソー",
+        "ko": "퀴라소",
+        "de": "Curaçao",
+        "fr": "Curaçao"
       },
       "file": "countries/CW.json",
       "regionHints": [
@@ -659,7 +959,12 @@
       "code": "CY",
       "names": {
         "en": "Cyprus",
-        "zh-Hans": "塞浦路斯"
+        "zh-Hans": "塞浦路斯",
+        "zh-Hant": "賽普勒斯",
+        "ja": "キプロス",
+        "ko": "키프로스",
+        "de": "Zypern",
+        "fr": "Chypre"
       },
       "file": "countries/CY.json",
       "regionHints": [
@@ -670,7 +975,12 @@
       "code": "CZ",
       "names": {
         "en": "Czechia",
-        "zh-Hans": "捷克"
+        "zh-Hans": "捷克",
+        "zh-Hant": "捷克",
+        "ja": "チェコ",
+        "ko": "체코",
+        "de": "Tschechien",
+        "fr": "Tchéquie"
       },
       "file": "countries/CZ.json",
       "regionHints": [
@@ -681,7 +991,12 @@
       "code": "DK",
       "names": {
         "en": "Denmark",
-        "zh-Hans": "丹麦"
+        "zh-Hans": "丹麦",
+        "zh-Hant": "丹麥",
+        "ja": "デンマーク",
+        "ko": "덴마크",
+        "de": "Dänemark",
+        "fr": "Danemark"
       },
       "file": "countries/DK.json",
       "regionHints": [
@@ -692,7 +1007,12 @@
       "code": "DJ",
       "names": {
         "en": "Djibouti",
-        "zh-Hans": "吉布提"
+        "zh-Hans": "吉布提",
+        "zh-Hant": "吉布地",
+        "ja": "ジブチ",
+        "ko": "지부티",
+        "de": "Dschibuti",
+        "fr": "Djibouti"
       },
       "file": "countries/DJ.json",
       "regionHints": [
@@ -703,7 +1023,12 @@
       "code": "DM",
       "names": {
         "en": "Dominica",
-        "zh-Hans": "多米尼克"
+        "zh-Hans": "多米尼克",
+        "zh-Hant": "多米尼克",
+        "ja": "ドミニカ国",
+        "ko": "도미니카",
+        "de": "Dominica",
+        "fr": "Dominique"
       },
       "file": "countries/DM.json",
       "regionHints": [
@@ -714,7 +1039,12 @@
       "code": "DO",
       "names": {
         "en": "Dominican Republic",
-        "zh-Hans": "多米尼加共和国"
+        "zh-Hans": "多米尼加共和国",
+        "zh-Hant": "多明尼加共和國",
+        "ja": "ドミニカ共和国",
+        "ko": "도미니카 공화국",
+        "de": "Dominikanische Republik",
+        "fr": "République dominicaine"
       },
       "file": "countries/DO.json",
       "regionHints": [
@@ -725,7 +1055,12 @@
       "code": "EC",
       "names": {
         "en": "Ecuador",
-        "zh-Hans": "厄瓜多尔"
+        "zh-Hans": "厄瓜多尔",
+        "zh-Hant": "厄瓜多",
+        "ja": "エクアドル",
+        "ko": "에콰도르",
+        "de": "Ecuador",
+        "fr": "Équateur"
       },
       "file": "countries/EC.json",
       "regionHints": [
@@ -736,7 +1071,12 @@
       "code": "EG",
       "names": {
         "en": "Egypt",
-        "zh-Hans": "埃及"
+        "zh-Hans": "埃及",
+        "zh-Hant": "埃及",
+        "ja": "エジプト",
+        "ko": "이집트",
+        "de": "Ägypten",
+        "fr": "Égypte"
       },
       "file": "countries/EG.json",
       "regionHints": [
@@ -747,7 +1087,12 @@
       "code": "SV",
       "names": {
         "en": "El Salvador",
-        "zh-Hans": "萨尔瓦多"
+        "zh-Hans": "萨尔瓦多",
+        "zh-Hant": "薩爾瓦多",
+        "ja": "エルサルバドル",
+        "ko": "엘살바도르",
+        "de": "El Salvador",
+        "fr": "Salvador"
       },
       "file": "countries/SV.json",
       "regionHints": [
@@ -758,7 +1103,12 @@
       "code": "GQ",
       "names": {
         "en": "Equatorial Guinea",
-        "zh-Hans": "赤道几内亚"
+        "zh-Hans": "赤道几内亚",
+        "zh-Hant": "赤道幾內亞",
+        "ja": "赤道ギニア",
+        "ko": "적도 기니",
+        "de": "Äquatorialguinea",
+        "fr": "Guinée équatoriale"
       },
       "file": "countries/GQ.json",
       "regionHints": [
@@ -769,7 +1119,12 @@
       "code": "ER",
       "names": {
         "en": "Eritrea",
-        "zh-Hans": "厄立特里亚"
+        "zh-Hans": "厄立特里亚",
+        "zh-Hant": "厄利垂亞",
+        "ja": "エリトリア",
+        "ko": "에리트리아",
+        "de": "Eritrea",
+        "fr": "Érythrée"
       },
       "file": "countries/ER.json",
       "regionHints": [
@@ -780,7 +1135,12 @@
       "code": "EE",
       "names": {
         "en": "Estonia",
-        "zh-Hans": "爱沙尼亚"
+        "zh-Hans": "爱沙尼亚",
+        "zh-Hant": "愛沙尼亞",
+        "ja": "エストニア",
+        "ko": "에스토니아",
+        "de": "Estland",
+        "fr": "Estonie"
       },
       "file": "countries/EE.json",
       "regionHints": [
@@ -791,7 +1151,12 @@
       "code": "SZ",
       "names": {
         "en": "Eswatini",
-        "zh-Hans": "斯威士兰"
+        "zh-Hans": "斯威士兰",
+        "zh-Hant": "史瓦帝尼",
+        "ja": "エスワティニ",
+        "ko": "에스와티니",
+        "de": "Eswatini",
+        "fr": "Eswatini"
       },
       "file": "countries/SZ.json",
       "regionHints": [
@@ -802,7 +1167,12 @@
       "code": "ET",
       "names": {
         "en": "Ethiopia",
-        "zh-Hans": "埃塞俄比亚"
+        "zh-Hans": "埃塞俄比亚",
+        "zh-Hant": "衣索比亞",
+        "ja": "エチオピア",
+        "ko": "에티오피아",
+        "de": "Äthiopien",
+        "fr": "Éthiopie"
       },
       "file": "countries/ET.json",
       "regionHints": [
@@ -813,7 +1183,12 @@
       "code": "FK",
       "names": {
         "en": "Falkland Islands",
-        "zh-Hans": "福克兰群岛"
+        "zh-Hans": "福克兰群岛",
+        "zh-Hant": "福克蘭群島",
+        "ja": "フォークランド諸島",
+        "ko": "포클랜드 제도",
+        "de": "Falklandinseln",
+        "fr": "Îles Malouines"
       },
       "file": "countries/FK.json",
       "regionHints": [
@@ -824,7 +1199,12 @@
       "code": "FO",
       "names": {
         "en": "Faroe Islands",
-        "zh-Hans": "法罗群岛"
+        "zh-Hans": "法罗群岛",
+        "zh-Hant": "法羅群島",
+        "ja": "フェロー諸島",
+        "ko": "페로 제도",
+        "de": "Färöer",
+        "fr": "Îles Féroé"
       },
       "file": "countries/FO.json",
       "regionHints": [
@@ -835,7 +1215,12 @@
       "code": "FJ",
       "names": {
         "en": "Fiji",
-        "zh-Hans": "斐济"
+        "zh-Hans": "斐济",
+        "zh-Hant": "斐濟",
+        "ja": "フィジー",
+        "ko": "피지",
+        "de": "Fidschi",
+        "fr": "Fidji"
       },
       "file": "countries/FJ.json",
       "regionHints": [
@@ -846,7 +1231,12 @@
       "code": "FI",
       "names": {
         "en": "Finland",
-        "zh-Hans": "芬兰"
+        "zh-Hans": "芬兰",
+        "zh-Hant": "芬蘭",
+        "ja": "フィンランド",
+        "ko": "핀란드",
+        "de": "Finnland",
+        "fr": "Finlande"
       },
       "file": "countries/FI.json",
       "regionHints": [
@@ -857,7 +1247,12 @@
       "code": "FR",
       "names": {
         "en": "France",
-        "zh-Hans": "法国"
+        "zh-Hans": "法国",
+        "zh-Hant": "法國",
+        "ja": "フランス",
+        "ko": "프랑스",
+        "de": "Frankreich",
+        "fr": "France"
       },
       "file": "countries/FR.json",
       "regionHints": [
@@ -868,7 +1263,12 @@
       "code": "GF",
       "names": {
         "en": "French Guiana",
-        "zh-Hans": "法属圭亚那"
+        "zh-Hans": "法属圭亚那",
+        "zh-Hant": "法屬圭亞那",
+        "ja": "仏領ギアナ",
+        "ko": "프랑스령 기아나",
+        "de": "Französisch-Guayana",
+        "fr": "Guyane française"
       },
       "file": "countries/GF.json",
       "regionHints": [
@@ -879,7 +1279,12 @@
       "code": "PF",
       "names": {
         "en": "French Polynesia",
-        "zh-Hans": "法属波利尼西亚"
+        "zh-Hans": "法属波利尼西亚",
+        "zh-Hant": "法屬玻里尼西亞",
+        "ja": "仏領ポリネシア",
+        "ko": "프랑스령 폴리네시아",
+        "de": "Französisch-Polynesien",
+        "fr": "Polynésie française"
       },
       "file": "countries/PF.json",
       "regionHints": [
@@ -890,7 +1295,12 @@
       "code": "TF",
       "names": {
         "en": "French Southern Territories",
-        "zh-Hans": "法属南部领地"
+        "zh-Hans": "法属南部领地",
+        "zh-Hant": "法屬南部屬地",
+        "ja": "仏領極南諸島",
+        "ko": "프랑스령 남방 지역",
+        "de": "Französische Süd- und Antarktisgebiete",
+        "fr": "Terres australes françaises"
       },
       "file": "countries/TF.json",
       "regionHints": [
@@ -901,7 +1311,12 @@
       "code": "GA",
       "names": {
         "en": "Gabon",
-        "zh-Hans": "加蓬"
+        "zh-Hans": "加蓬",
+        "zh-Hant": "加彭",
+        "ja": "ガボン",
+        "ko": "가봉",
+        "de": "Gabun",
+        "fr": "Gabon"
       },
       "file": "countries/GA.json",
       "regionHints": [
@@ -912,7 +1327,12 @@
       "code": "GM",
       "names": {
         "en": "Gambia",
-        "zh-Hans": "冈比亚"
+        "zh-Hans": "冈比亚",
+        "zh-Hant": "甘比亞",
+        "ja": "ガンビア",
+        "ko": "감비아",
+        "de": "Gambia",
+        "fr": "Gambie"
       },
       "file": "countries/GM.json",
       "regionHints": [
@@ -923,7 +1343,12 @@
       "code": "GE",
       "names": {
         "en": "Georgia",
-        "zh-Hans": "格鲁吉亚"
+        "zh-Hans": "格鲁吉亚",
+        "zh-Hant": "喬治亞",
+        "ja": "ジョージア",
+        "ko": "조지아",
+        "de": "Georgien",
+        "fr": "Géorgie"
       },
       "file": "countries/GE.json",
       "regionHints": [
@@ -934,7 +1359,12 @@
       "code": "DE",
       "names": {
         "en": "Germany",
-        "zh-Hans": "德国"
+        "zh-Hans": "德国",
+        "zh-Hant": "德國",
+        "ja": "ドイツ",
+        "ko": "독일",
+        "de": "Deutschland",
+        "fr": "Allemagne"
       },
       "file": "countries/DE.json",
       "regionHints": [
@@ -945,7 +1375,12 @@
       "code": "GH",
       "names": {
         "en": "Ghana",
-        "zh-Hans": "加纳"
+        "zh-Hans": "加纳",
+        "zh-Hant": "迦納",
+        "ja": "ガーナ",
+        "ko": "가나",
+        "de": "Ghana",
+        "fr": "Ghana"
       },
       "file": "countries/GH.json",
       "regionHints": [
@@ -956,7 +1391,12 @@
       "code": "GI",
       "names": {
         "en": "Gibraltar",
-        "zh-Hans": "直布罗陀"
+        "zh-Hans": "直布罗陀",
+        "zh-Hant": "直布羅陀",
+        "ja": "ジブラルタル",
+        "ko": "지브롤터",
+        "de": "Gibraltar",
+        "fr": "Gibraltar"
       },
       "file": "countries/GI.json",
       "regionHints": [
@@ -967,7 +1407,12 @@
       "code": "GR",
       "names": {
         "en": "Greece",
-        "zh-Hans": "希腊"
+        "zh-Hans": "希腊",
+        "zh-Hant": "希臘",
+        "ja": "ギリシャ",
+        "ko": "그리스",
+        "de": "Griechenland",
+        "fr": "Grèce"
       },
       "file": "countries/GR.json",
       "regionHints": [
@@ -978,7 +1423,12 @@
       "code": "GL",
       "names": {
         "en": "Greenland",
-        "zh-Hans": "格陵兰"
+        "zh-Hans": "格陵兰",
+        "zh-Hant": "格陵蘭",
+        "ja": "グリーンランド",
+        "ko": "그린란드",
+        "de": "Grönland",
+        "fr": "Groenland"
       },
       "file": "countries/GL.json",
       "regionHints": [
@@ -989,7 +1439,12 @@
       "code": "GD",
       "names": {
         "en": "Grenada",
-        "zh-Hans": "格林纳达"
+        "zh-Hans": "格林纳达",
+        "zh-Hant": "格瑞那達",
+        "ja": "グレナダ",
+        "ko": "그레나다",
+        "de": "Grenada",
+        "fr": "Grenade"
       },
       "file": "countries/GD.json",
       "regionHints": [
@@ -1000,7 +1455,12 @@
       "code": "GP",
       "names": {
         "en": "Guadeloupe",
-        "zh-Hans": "瓜德罗普"
+        "zh-Hans": "瓜德罗普",
+        "zh-Hant": "瓜地洛普",
+        "ja": "グアドループ",
+        "ko": "과들루프",
+        "de": "Guadeloupe",
+        "fr": "Guadeloupe"
       },
       "file": "countries/GP.json",
       "regionHints": [
@@ -1011,7 +1471,12 @@
       "code": "GU",
       "names": {
         "en": "Guam",
-        "zh-Hans": "关岛"
+        "zh-Hans": "关岛",
+        "zh-Hant": "關島",
+        "ja": "グアム",
+        "ko": "괌",
+        "de": "Guam",
+        "fr": "Guam"
       },
       "file": "countries/GU.json",
       "regionHints": [
@@ -1022,7 +1487,12 @@
       "code": "GT",
       "names": {
         "en": "Guatemala",
-        "zh-Hans": "危地马拉"
+        "zh-Hans": "危地马拉",
+        "zh-Hant": "瓜地馬拉",
+        "ja": "グアテマラ",
+        "ko": "과테말라",
+        "de": "Guatemala",
+        "fr": "Guatemala"
       },
       "file": "countries/GT.json",
       "regionHints": [
@@ -1033,7 +1503,12 @@
       "code": "GG",
       "names": {
         "en": "Guernsey",
-        "zh-Hans": "根西岛"
+        "zh-Hans": "根西岛",
+        "zh-Hant": "根息",
+        "ja": "ガーンジー",
+        "ko": "건지",
+        "de": "Guernsey",
+        "fr": "Guernesey"
       },
       "file": "countries/GG.json",
       "regionHints": [
@@ -1044,7 +1519,12 @@
       "code": "GN",
       "names": {
         "en": "Guinea",
-        "zh-Hans": "几内亚"
+        "zh-Hans": "几内亚",
+        "zh-Hant": "幾內亞",
+        "ja": "ギニア",
+        "ko": "기니",
+        "de": "Guinea",
+        "fr": "Guinée"
       },
       "file": "countries/GN.json",
       "regionHints": [
@@ -1055,7 +1535,12 @@
       "code": "GW",
       "names": {
         "en": "Guinea-Bissau",
-        "zh-Hans": "几内亚比绍"
+        "zh-Hans": "几内亚比绍",
+        "zh-Hant": "幾內亞比索",
+        "ja": "ギニアビサウ",
+        "ko": "기니비사우",
+        "de": "Guinea-Bissau",
+        "fr": "Guinée-Bissau"
       },
       "file": "countries/GW.json",
       "regionHints": [
@@ -1066,7 +1551,12 @@
       "code": "GY",
       "names": {
         "en": "Guyana",
-        "zh-Hans": "圭亚那"
+        "zh-Hans": "圭亚那",
+        "zh-Hant": "蓋亞那",
+        "ja": "ガイアナ",
+        "ko": "가이아나",
+        "de": "Guyana",
+        "fr": "Guyana"
       },
       "file": "countries/GY.json",
       "regionHints": [
@@ -1077,7 +1567,12 @@
       "code": "HT",
       "names": {
         "en": "Haiti",
-        "zh-Hans": "海地"
+        "zh-Hans": "海地",
+        "zh-Hant": "海地",
+        "ja": "ハイチ",
+        "ko": "아이티",
+        "de": "Haiti",
+        "fr": "Haïti"
       },
       "file": "countries/HT.json",
       "regionHints": [
@@ -1088,7 +1583,12 @@
       "code": "HM",
       "names": {
         "en": "Heard & McDonald Islands",
-        "zh-Hans": "赫德岛和麦克唐纳群岛"
+        "zh-Hans": "赫德岛和麦克唐纳群岛",
+        "zh-Hant": "赫德島及麥唐納群島",
+        "ja": "ハード島・マクドナルド諸島",
+        "ko": "허드 맥도널드 제도",
+        "de": "Heard und McDonaldinseln",
+        "fr": "Îles Heard-et-MacDonald"
       },
       "file": "countries/HM.json",
       "regionHints": [
@@ -1099,7 +1599,12 @@
       "code": "HN",
       "names": {
         "en": "Honduras",
-        "zh-Hans": "洪都拉斯"
+        "zh-Hans": "洪都拉斯",
+        "zh-Hant": "宏都拉斯",
+        "ja": "ホンジュラス",
+        "ko": "온두라스",
+        "de": "Honduras",
+        "fr": "Honduras"
       },
       "file": "countries/HN.json",
       "regionHints": [
@@ -1110,7 +1615,12 @@
       "code": "HK",
       "names": {
         "en": "Hong Kong",
-        "zh-Hans": "香港"
+        "zh-Hans": "香港",
+        "zh-Hant": "香港",
+        "ja": "香港",
+        "ko": "홍콩",
+        "de": "Hongkong",
+        "fr": "Hong Kong"
       },
       "file": "countries/HK.json",
       "regionHints": [
@@ -1121,7 +1631,12 @@
       "code": "HU",
       "names": {
         "en": "Hungary",
-        "zh-Hans": "匈牙利"
+        "zh-Hans": "匈牙利",
+        "zh-Hant": "匈牙利",
+        "ja": "ハンガリー",
+        "ko": "헝가리",
+        "de": "Ungarn",
+        "fr": "Hongrie"
       },
       "file": "countries/HU.json",
       "regionHints": [
@@ -1132,7 +1647,12 @@
       "code": "IS",
       "names": {
         "en": "Iceland",
-        "zh-Hans": "冰岛"
+        "zh-Hans": "冰岛",
+        "zh-Hant": "冰島",
+        "ja": "アイスランド",
+        "ko": "아이슬란드",
+        "de": "Island",
+        "fr": "Islande"
       },
       "file": "countries/IS.json",
       "regionHints": [
@@ -1143,7 +1663,12 @@
       "code": "IN",
       "names": {
         "en": "India",
-        "zh-Hans": "印度"
+        "zh-Hans": "印度",
+        "zh-Hant": "印度",
+        "ja": "インド",
+        "ko": "인도",
+        "de": "Indien",
+        "fr": "Inde"
       },
       "file": "countries/IN.json",
       "regionHints": [
@@ -1154,7 +1679,12 @@
       "code": "ID",
       "names": {
         "en": "Indonesia",
-        "zh-Hans": "印度尼西亚"
+        "zh-Hans": "印度尼西亚",
+        "zh-Hant": "印尼",
+        "ja": "インドネシア",
+        "ko": "인도네시아",
+        "de": "Indonesien",
+        "fr": "Indonésie"
       },
       "file": "countries/ID.json",
       "regionHints": [
@@ -1165,7 +1695,12 @@
       "code": "IR",
       "names": {
         "en": "Iran",
-        "zh-Hans": "伊朗"
+        "zh-Hans": "伊朗",
+        "zh-Hant": "伊朗",
+        "ja": "イラン",
+        "ko": "이란",
+        "de": "Iran",
+        "fr": "Iran"
       },
       "file": "countries/IR.json",
       "regionHints": [
@@ -1176,7 +1711,12 @@
       "code": "IQ",
       "names": {
         "en": "Iraq",
-        "zh-Hans": "伊拉克"
+        "zh-Hans": "伊拉克",
+        "zh-Hant": "伊拉克",
+        "ja": "イラク",
+        "ko": "이라크",
+        "de": "Irak",
+        "fr": "Irak"
       },
       "file": "countries/IQ.json",
       "regionHints": [
@@ -1187,7 +1727,12 @@
       "code": "IE",
       "names": {
         "en": "Ireland",
-        "zh-Hans": "爱尔兰"
+        "zh-Hans": "爱尔兰",
+        "zh-Hant": "愛爾蘭",
+        "ja": "アイルランド",
+        "ko": "아일랜드",
+        "de": "Irland",
+        "fr": "Irlande"
       },
       "file": "countries/IE.json",
       "regionHints": [
@@ -1198,7 +1743,12 @@
       "code": "IM",
       "names": {
         "en": "Isle of Man",
-        "zh-Hans": "马恩岛"
+        "zh-Hans": "马恩岛",
+        "zh-Hant": "曼島",
+        "ja": "マン島",
+        "ko": "맨섬",
+        "de": "Isle of Man",
+        "fr": "Île de Man"
       },
       "file": "countries/IM.json",
       "regionHints": [
@@ -1209,7 +1759,12 @@
       "code": "IL",
       "names": {
         "en": "Israel",
-        "zh-Hans": "以色列"
+        "zh-Hans": "以色列",
+        "zh-Hant": "以色列",
+        "ja": "イスラエル",
+        "ko": "이스라엘",
+        "de": "Israel",
+        "fr": "Israël"
       },
       "file": "countries/IL.json",
       "regionHints": [
@@ -1220,7 +1775,12 @@
       "code": "IT",
       "names": {
         "en": "Italy",
-        "zh-Hans": "意大利"
+        "zh-Hans": "意大利",
+        "zh-Hant": "義大利",
+        "ja": "イタリア",
+        "ko": "이탈리아",
+        "de": "Italien",
+        "fr": "Italie"
       },
       "file": "countries/IT.json",
       "regionHints": [
@@ -1231,7 +1791,12 @@
       "code": "JM",
       "names": {
         "en": "Jamaica",
-        "zh-Hans": "牙买加"
+        "zh-Hans": "牙买加",
+        "zh-Hant": "牙買加",
+        "ja": "ジャマイカ",
+        "ko": "자메이카",
+        "de": "Jamaika",
+        "fr": "Jamaïque"
       },
       "file": "countries/JM.json",
       "regionHints": [
@@ -1242,7 +1807,12 @@
       "code": "JP",
       "names": {
         "en": "Japan",
-        "zh-Hans": "日本"
+        "zh-Hans": "日本",
+        "zh-Hant": "日本",
+        "ja": "日本",
+        "ko": "일본",
+        "de": "Japan",
+        "fr": "Japon"
       },
       "file": "countries/JP.json",
       "regionHints": [
@@ -1253,7 +1823,12 @@
       "code": "JE",
       "names": {
         "en": "Jersey",
-        "zh-Hans": "泽西岛"
+        "zh-Hans": "泽西岛",
+        "zh-Hant": "澤西島",
+        "ja": "ジャージー",
+        "ko": "저지",
+        "de": "Jersey",
+        "fr": "Jersey"
       },
       "file": "countries/JE.json",
       "regionHints": [
@@ -1264,7 +1839,12 @@
       "code": "JO",
       "names": {
         "en": "Jordan",
-        "zh-Hans": "约旦"
+        "zh-Hans": "约旦",
+        "zh-Hant": "約旦",
+        "ja": "ヨルダン",
+        "ko": "요르단",
+        "de": "Jordanien",
+        "fr": "Jordanie"
       },
       "file": "countries/JO.json",
       "regionHints": [
@@ -1275,7 +1855,12 @@
       "code": "KZ",
       "names": {
         "en": "Kazakhstan",
-        "zh-Hans": "哈萨克斯坦"
+        "zh-Hans": "哈萨克斯坦",
+        "zh-Hant": "哈薩克",
+        "ja": "カザフスタン",
+        "ko": "카자흐스탄",
+        "de": "Kasachstan",
+        "fr": "Kazakhstan"
       },
       "file": "countries/KZ.json",
       "regionHints": [
@@ -1286,7 +1871,12 @@
       "code": "KE",
       "names": {
         "en": "Kenya",
-        "zh-Hans": "肯尼亚"
+        "zh-Hans": "肯尼亚",
+        "zh-Hant": "肯亞",
+        "ja": "ケニア",
+        "ko": "케냐",
+        "de": "Kenia",
+        "fr": "Kenya"
       },
       "file": "countries/KE.json",
       "regionHints": [
@@ -1297,7 +1887,12 @@
       "code": "KI",
       "names": {
         "en": "Kiribati",
-        "zh-Hans": "基里巴斯"
+        "zh-Hans": "基里巴斯",
+        "zh-Hant": "吉里巴斯",
+        "ja": "キリバス",
+        "ko": "키리바시",
+        "de": "Kiribati",
+        "fr": "Kiribati"
       },
       "file": "countries/KI.json",
       "regionHints": [
@@ -1308,7 +1903,12 @@
       "code": "XK",
       "names": {
         "en": "Kosovo",
-        "zh-Hans": "科索沃"
+        "zh-Hans": "科索沃",
+        "zh-Hant": "科索沃",
+        "ja": "コソボ",
+        "ko": "코소보",
+        "de": "Kosovo",
+        "fr": "Kosovo"
       },
       "file": "countries/XK.json",
       "regionHints": [
@@ -1319,7 +1919,12 @@
       "code": "KW",
       "names": {
         "en": "Kuwait",
-        "zh-Hans": "科威特"
+        "zh-Hans": "科威特",
+        "zh-Hant": "科威特",
+        "ja": "クウェート",
+        "ko": "쿠웨이트",
+        "de": "Kuwait",
+        "fr": "Koweït"
       },
       "file": "countries/KW.json",
       "regionHints": [
@@ -1330,7 +1935,12 @@
       "code": "KG",
       "names": {
         "en": "Kyrgyzstan",
-        "zh-Hans": "吉尔吉斯斯坦"
+        "zh-Hans": "吉尔吉斯斯坦",
+        "zh-Hant": "吉爾吉斯",
+        "ja": "キルギス",
+        "ko": "키르기스스탄",
+        "de": "Kirgisistan",
+        "fr": "Kirghizstan"
       },
       "file": "countries/KG.json",
       "regionHints": [
@@ -1341,7 +1951,12 @@
       "code": "LA",
       "names": {
         "en": "Laos",
-        "zh-Hans": "老挝"
+        "zh-Hans": "老挝",
+        "zh-Hant": "寮國",
+        "ja": "ラオス",
+        "ko": "라오스",
+        "de": "Laos",
+        "fr": "Laos"
       },
       "file": "countries/LA.json",
       "regionHints": [
@@ -1352,7 +1967,12 @@
       "code": "LV",
       "names": {
         "en": "Latvia",
-        "zh-Hans": "拉脱维亚"
+        "zh-Hans": "拉脱维亚",
+        "zh-Hant": "拉脫維亞",
+        "ja": "ラトビア",
+        "ko": "라트비아",
+        "de": "Lettland",
+        "fr": "Lettonie"
       },
       "file": "countries/LV.json",
       "regionHints": [
@@ -1363,7 +1983,12 @@
       "code": "LB",
       "names": {
         "en": "Lebanon",
-        "zh-Hans": "黎巴嫩"
+        "zh-Hans": "黎巴嫩",
+        "zh-Hant": "黎巴嫩",
+        "ja": "レバノン",
+        "ko": "레바논",
+        "de": "Libanon",
+        "fr": "Liban"
       },
       "file": "countries/LB.json",
       "regionHints": [
@@ -1374,7 +1999,12 @@
       "code": "LS",
       "names": {
         "en": "Lesotho",
-        "zh-Hans": "莱索托"
+        "zh-Hans": "莱索托",
+        "zh-Hant": "賴索托",
+        "ja": "レソト",
+        "ko": "레소토",
+        "de": "Lesotho",
+        "fr": "Lesotho"
       },
       "file": "countries/LS.json",
       "regionHints": [
@@ -1385,7 +2015,12 @@
       "code": "LR",
       "names": {
         "en": "Liberia",
-        "zh-Hans": "利比里亚"
+        "zh-Hans": "利比里亚",
+        "zh-Hant": "賴比瑞亞",
+        "ja": "リベリア",
+        "ko": "라이베리아",
+        "de": "Liberia",
+        "fr": "Liberia"
       },
       "file": "countries/LR.json",
       "regionHints": [
@@ -1396,7 +2031,12 @@
       "code": "LY",
       "names": {
         "en": "Libya",
-        "zh-Hans": "利比亚"
+        "zh-Hans": "利比亚",
+        "zh-Hant": "利比亞",
+        "ja": "リビア",
+        "ko": "리비아",
+        "de": "Libyen",
+        "fr": "Libye"
       },
       "file": "countries/LY.json",
       "regionHints": [
@@ -1407,7 +2047,12 @@
       "code": "LI",
       "names": {
         "en": "Liechtenstein",
-        "zh-Hans": "列支敦士登"
+        "zh-Hans": "列支敦士登",
+        "zh-Hant": "列支敦斯登",
+        "ja": "リヒテンシュタイン",
+        "ko": "리히텐슈타인",
+        "de": "Liechtenstein",
+        "fr": "Liechtenstein"
       },
       "file": "countries/LI.json",
       "regionHints": [
@@ -1418,7 +2063,12 @@
       "code": "LT",
       "names": {
         "en": "Lithuania",
-        "zh-Hans": "立陶宛"
+        "zh-Hans": "立陶宛",
+        "zh-Hant": "立陶宛",
+        "ja": "リトアニア",
+        "ko": "리투아니아",
+        "de": "Litauen",
+        "fr": "Lituanie"
       },
       "file": "countries/LT.json",
       "regionHints": [
@@ -1429,7 +2079,12 @@
       "code": "LU",
       "names": {
         "en": "Luxembourg",
-        "zh-Hans": "卢森堡"
+        "zh-Hans": "卢森堡",
+        "zh-Hant": "盧森堡",
+        "ja": "ルクセンブルク",
+        "ko": "룩셈부르크",
+        "de": "Luxemburg",
+        "fr": "Luxembourg"
       },
       "file": "countries/LU.json",
       "regionHints": [
@@ -1440,7 +2095,12 @@
       "code": "MO",
       "names": {
         "en": "Macao",
-        "zh-Hans": "澳门"
+        "zh-Hans": "澳门",
+        "zh-Hant": "澳門",
+        "ja": "マカオ",
+        "ko": "마카오",
+        "de": "Macau",
+        "fr": "Macao"
       },
       "file": "countries/MO.json",
       "regionHints": [
@@ -1451,7 +2111,12 @@
       "code": "MG",
       "names": {
         "en": "Madagascar",
-        "zh-Hans": "马达加斯加"
+        "zh-Hans": "马达加斯加",
+        "zh-Hant": "馬達加斯加",
+        "ja": "マダガスカル",
+        "ko": "마다가스카르",
+        "de": "Madagaskar",
+        "fr": "Madagascar"
       },
       "file": "countries/MG.json",
       "regionHints": [
@@ -1462,7 +2127,12 @@
       "code": "MW",
       "names": {
         "en": "Malawi",
-        "zh-Hans": "马拉维"
+        "zh-Hans": "马拉维",
+        "zh-Hant": "馬拉威",
+        "ja": "マラウイ",
+        "ko": "말라위",
+        "de": "Malawi",
+        "fr": "Malawi"
       },
       "file": "countries/MW.json",
       "regionHints": [
@@ -1473,7 +2143,12 @@
       "code": "MY",
       "names": {
         "en": "Malaysia",
-        "zh-Hans": "马来西亚"
+        "zh-Hans": "马来西亚",
+        "zh-Hant": "馬來西亞",
+        "ja": "マレーシア",
+        "ko": "말레이시아",
+        "de": "Malaysia",
+        "fr": "Malaisie"
       },
       "file": "countries/MY.json",
       "regionHints": [
@@ -1484,7 +2159,12 @@
       "code": "MV",
       "names": {
         "en": "Maldives",
-        "zh-Hans": "马尔代夫"
+        "zh-Hans": "马尔代夫",
+        "zh-Hant": "馬爾地夫",
+        "ja": "モルディブ",
+        "ko": "몰디브",
+        "de": "Malediven",
+        "fr": "Maldives"
       },
       "file": "countries/MV.json",
       "regionHints": [
@@ -1495,7 +2175,12 @@
       "code": "ML",
       "names": {
         "en": "Mali",
-        "zh-Hans": "马里"
+        "zh-Hans": "马里",
+        "zh-Hant": "馬利",
+        "ja": "マリ",
+        "ko": "말리",
+        "de": "Mali",
+        "fr": "Mali"
       },
       "file": "countries/ML.json",
       "regionHints": [
@@ -1506,7 +2191,12 @@
       "code": "MT",
       "names": {
         "en": "Malta",
-        "zh-Hans": "马耳他"
+        "zh-Hans": "马耳他",
+        "zh-Hant": "馬爾他",
+        "ja": "マルタ",
+        "ko": "몰타",
+        "de": "Malta",
+        "fr": "Malte"
       },
       "file": "countries/MT.json",
       "regionHints": [
@@ -1517,7 +2207,12 @@
       "code": "MH",
       "names": {
         "en": "Marshall Islands",
-        "zh-Hans": "马绍尔群岛"
+        "zh-Hans": "马绍尔群岛",
+        "zh-Hant": "馬紹爾群島",
+        "ja": "マーシャル諸島",
+        "ko": "마셜 제도",
+        "de": "Marshallinseln",
+        "fr": "Îles Marshall"
       },
       "file": "countries/MH.json",
       "regionHints": [
@@ -1528,7 +2223,12 @@
       "code": "MQ",
       "names": {
         "en": "Martinique",
-        "zh-Hans": "马提尼克"
+        "zh-Hans": "马提尼克",
+        "zh-Hant": "馬丁尼克",
+        "ja": "マルティニーク",
+        "ko": "마르티니크",
+        "de": "Martinique",
+        "fr": "Martinique"
       },
       "file": "countries/MQ.json",
       "regionHints": [
@@ -1539,7 +2239,12 @@
       "code": "MR",
       "names": {
         "en": "Mauritania",
-        "zh-Hans": "毛里塔尼亚"
+        "zh-Hans": "毛里塔尼亚",
+        "zh-Hant": "茅利塔尼亞",
+        "ja": "モーリタニア",
+        "ko": "모리타니",
+        "de": "Mauretanien",
+        "fr": "Mauritanie"
       },
       "file": "countries/MR.json",
       "regionHints": [
@@ -1550,7 +2255,12 @@
       "code": "MU",
       "names": {
         "en": "Mauritius",
-        "zh-Hans": "毛里求斯"
+        "zh-Hans": "毛里求斯",
+        "zh-Hant": "模里西斯",
+        "ja": "モーリシャス",
+        "ko": "모리셔스",
+        "de": "Mauritius",
+        "fr": "Maurice"
       },
       "file": "countries/MU.json",
       "regionHints": [
@@ -1561,7 +2271,12 @@
       "code": "YT",
       "names": {
         "en": "Mayotte",
-        "zh-Hans": "马约特"
+        "zh-Hans": "马约特",
+        "zh-Hant": "馬約特島",
+        "ja": "マヨット",
+        "ko": "마요트",
+        "de": "Mayotte",
+        "fr": "Mayotte"
       },
       "file": "countries/YT.json",
       "regionHints": [
@@ -1572,7 +2287,12 @@
       "code": "MX",
       "names": {
         "en": "Mexico",
-        "zh-Hans": "墨西哥"
+        "zh-Hans": "墨西哥",
+        "zh-Hant": "墨西哥",
+        "ja": "メキシコ",
+        "ko": "멕시코",
+        "de": "Mexiko",
+        "fr": "Mexique"
       },
       "file": "countries/MX.json",
       "regionHints": [
@@ -1583,7 +2303,12 @@
       "code": "FM",
       "names": {
         "en": "Micronesia",
-        "zh-Hans": "密克罗尼西亚"
+        "zh-Hans": "密克罗尼西亚",
+        "zh-Hant": "密克羅尼西亞",
+        "ja": "ミクロネシア連邦",
+        "ko": "미크로네시아",
+        "de": "Mikronesien",
+        "fr": "Micronésie"
       },
       "file": "countries/FM.json",
       "regionHints": [
@@ -1594,7 +2319,12 @@
       "code": "MD",
       "names": {
         "en": "Moldova",
-        "zh-Hans": "摩尔多瓦"
+        "zh-Hans": "摩尔多瓦",
+        "zh-Hant": "摩爾多瓦",
+        "ja": "モルドバ",
+        "ko": "몰도바",
+        "de": "Republik Moldau",
+        "fr": "Moldavie"
       },
       "file": "countries/MD.json",
       "regionHints": [
@@ -1605,7 +2335,12 @@
       "code": "MC",
       "names": {
         "en": "Monaco",
-        "zh-Hans": "摩纳哥"
+        "zh-Hans": "摩纳哥",
+        "zh-Hant": "摩納哥",
+        "ja": "モナコ",
+        "ko": "모나코",
+        "de": "Monaco",
+        "fr": "Monaco"
       },
       "file": "countries/MC.json",
       "regionHints": [
@@ -1616,7 +2351,12 @@
       "code": "MN",
       "names": {
         "en": "Mongolia",
-        "zh-Hans": "蒙古"
+        "zh-Hans": "蒙古",
+        "zh-Hant": "蒙古",
+        "ja": "モンゴル",
+        "ko": "몽골",
+        "de": "Mongolei",
+        "fr": "Mongolie"
       },
       "file": "countries/MN.json",
       "regionHints": [
@@ -1627,7 +2367,12 @@
       "code": "ME",
       "names": {
         "en": "Montenegro",
-        "zh-Hans": "黑山"
+        "zh-Hans": "黑山",
+        "zh-Hant": "蒙特內哥羅",
+        "ja": "モンテネグロ",
+        "ko": "몬테네그로",
+        "de": "Montenegro",
+        "fr": "Monténégro"
       },
       "file": "countries/ME.json",
       "regionHints": [
@@ -1638,7 +2383,12 @@
       "code": "MS",
       "names": {
         "en": "Montserrat",
-        "zh-Hans": "蒙特塞拉特"
+        "zh-Hans": "蒙特塞拉特",
+        "zh-Hant": "蒙哲臘",
+        "ja": "モントセラト",
+        "ko": "몬트세라트",
+        "de": "Montserrat",
+        "fr": "Montserrat"
       },
       "file": "countries/MS.json",
       "regionHints": [
@@ -1649,7 +2399,12 @@
       "code": "MA",
       "names": {
         "en": "Morocco",
-        "zh-Hans": "摩洛哥"
+        "zh-Hans": "摩洛哥",
+        "zh-Hant": "摩洛哥",
+        "ja": "モロッコ",
+        "ko": "모로코",
+        "de": "Marokko",
+        "fr": "Maroc"
       },
       "file": "countries/MA.json",
       "regionHints": [
@@ -1660,7 +2415,12 @@
       "code": "MZ",
       "names": {
         "en": "Mozambique",
-        "zh-Hans": "莫桑比克"
+        "zh-Hans": "莫桑比克",
+        "zh-Hant": "莫三比克",
+        "ja": "モザンビーク",
+        "ko": "모잠비크",
+        "de": "Mosambik",
+        "fr": "Mozambique"
       },
       "file": "countries/MZ.json",
       "regionHints": [
@@ -1671,7 +2431,12 @@
       "code": "MM",
       "names": {
         "en": "Myanmar (Burma)",
-        "zh-Hans": "缅甸"
+        "zh-Hans": "缅甸",
+        "zh-Hant": "緬甸",
+        "ja": "ミャンマー (ビルマ)",
+        "ko": "미얀마",
+        "de": "Myanmar",
+        "fr": "Myanmar (Birmanie)"
       },
       "file": "countries/MM.json",
       "regionHints": [
@@ -1682,7 +2447,12 @@
       "code": "NA",
       "names": {
         "en": "Namibia",
-        "zh-Hans": "纳米比亚"
+        "zh-Hans": "纳米比亚",
+        "zh-Hant": "納米比亞",
+        "ja": "ナミビア",
+        "ko": "나미비아",
+        "de": "Namibia",
+        "fr": "Namibie"
       },
       "file": "countries/NA.json",
       "regionHints": [
@@ -1693,7 +2463,12 @@
       "code": "NR",
       "names": {
         "en": "Nauru",
-        "zh-Hans": "瑙鲁"
+        "zh-Hans": "瑙鲁",
+        "zh-Hant": "諾魯",
+        "ja": "ナウル",
+        "ko": "나우루",
+        "de": "Nauru",
+        "fr": "Nauru"
       },
       "file": "countries/NR.json",
       "regionHints": [
@@ -1704,7 +2479,12 @@
       "code": "NP",
       "names": {
         "en": "Nepal",
-        "zh-Hans": "尼泊尔"
+        "zh-Hans": "尼泊尔",
+        "zh-Hant": "尼泊爾",
+        "ja": "ネパール",
+        "ko": "네팔",
+        "de": "Nepal",
+        "fr": "Népal"
       },
       "file": "countries/NP.json",
       "regionHints": [
@@ -1715,7 +2495,12 @@
       "code": "NL",
       "names": {
         "en": "Netherlands",
-        "zh-Hans": "荷兰"
+        "zh-Hans": "荷兰",
+        "zh-Hant": "荷蘭",
+        "ja": "オランダ",
+        "ko": "네덜란드",
+        "de": "Niederlande",
+        "fr": "Pays-Bas"
       },
       "file": "countries/NL.json",
       "regionHints": [
@@ -1726,7 +2511,12 @@
       "code": "NC",
       "names": {
         "en": "New Caledonia",
-        "zh-Hans": "新喀里多尼亚"
+        "zh-Hans": "新喀里多尼亚",
+        "zh-Hant": "新喀里多尼亞",
+        "ja": "ニューカレドニア",
+        "ko": "뉴칼레도니아",
+        "de": "Neukaledonien",
+        "fr": "Nouvelle-Calédonie"
       },
       "file": "countries/NC.json",
       "regionHints": [
@@ -1737,7 +2527,12 @@
       "code": "NZ",
       "names": {
         "en": "New Zealand",
-        "zh-Hans": "新西兰"
+        "zh-Hans": "新西兰",
+        "zh-Hant": "紐西蘭",
+        "ja": "ニュージーランド",
+        "ko": "뉴질랜드",
+        "de": "Neuseeland",
+        "fr": "Nouvelle-Zélande"
       },
       "file": "countries/NZ.json",
       "regionHints": [
@@ -1748,7 +2543,12 @@
       "code": "NI",
       "names": {
         "en": "Nicaragua",
-        "zh-Hans": "尼加拉瓜"
+        "zh-Hans": "尼加拉瓜",
+        "zh-Hant": "尼加拉瓜",
+        "ja": "ニカラグア",
+        "ko": "니카라과",
+        "de": "Nicaragua",
+        "fr": "Nicaragua"
       },
       "file": "countries/NI.json",
       "regionHints": [
@@ -1759,7 +2559,12 @@
       "code": "NE",
       "names": {
         "en": "Niger",
-        "zh-Hans": "尼日尔"
+        "zh-Hans": "尼日尔",
+        "zh-Hant": "尼日",
+        "ja": "ニジェール",
+        "ko": "니제르",
+        "de": "Niger",
+        "fr": "Niger"
       },
       "file": "countries/NE.json",
       "regionHints": [
@@ -1770,7 +2575,12 @@
       "code": "NG",
       "names": {
         "en": "Nigeria",
-        "zh-Hans": "尼日利亚"
+        "zh-Hans": "尼日利亚",
+        "zh-Hant": "奈及利亞",
+        "ja": "ナイジェリア",
+        "ko": "나이지리아",
+        "de": "Nigeria",
+        "fr": "Nigeria"
       },
       "file": "countries/NG.json",
       "regionHints": [
@@ -1781,7 +2591,12 @@
       "code": "NU",
       "names": {
         "en": "Niue",
-        "zh-Hans": "纽埃"
+        "zh-Hans": "纽埃",
+        "zh-Hant": "紐埃島",
+        "ja": "ニウエ",
+        "ko": "니우에",
+        "de": "Niue",
+        "fr": "Niue"
       },
       "file": "countries/NU.json",
       "regionHints": [
@@ -1792,7 +2607,12 @@
       "code": "NF",
       "names": {
         "en": "Norfolk Island",
-        "zh-Hans": "诺福克岛"
+        "zh-Hans": "诺福克岛",
+        "zh-Hant": "諾福克島",
+        "ja": "ノーフォーク島",
+        "ko": "노퍽섬",
+        "de": "Norfolkinsel",
+        "fr": "Île Norfolk"
       },
       "file": "countries/NF.json",
       "regionHints": [
@@ -1803,7 +2623,12 @@
       "code": "KP",
       "names": {
         "en": "North Korea",
-        "zh-Hans": "朝鲜"
+        "zh-Hans": "朝鲜",
+        "zh-Hant": "北韓",
+        "ja": "北朝鮮",
+        "ko": "북한",
+        "de": "Nordkorea",
+        "fr": "Corée du Nord"
       },
       "file": "countries/KP.json",
       "regionHints": [
@@ -1814,7 +2639,12 @@
       "code": "MK",
       "names": {
         "en": "North Macedonia",
-        "zh-Hans": "北马其顿"
+        "zh-Hans": "北马其顿",
+        "zh-Hant": "北馬其頓",
+        "ja": "北マケドニア",
+        "ko": "북마케도니아",
+        "de": "Nordmazedonien",
+        "fr": "Macédoine du Nord"
       },
       "file": "countries/MK.json",
       "regionHints": [
@@ -1825,7 +2655,12 @@
       "code": "MP",
       "names": {
         "en": "Northern Mariana Islands",
-        "zh-Hans": "北马里亚纳群岛"
+        "zh-Hans": "北马里亚纳群岛",
+        "zh-Hant": "北馬利安納群島",
+        "ja": "北マリアナ諸島",
+        "ko": "북마리아나제도",
+        "de": "Nördliche Marianen",
+        "fr": "Îles Mariannes du Nord"
       },
       "file": "countries/MP.json",
       "regionHints": [
@@ -1836,7 +2671,12 @@
       "code": "NO",
       "names": {
         "en": "Norway",
-        "zh-Hans": "挪威"
+        "zh-Hans": "挪威",
+        "zh-Hant": "挪威",
+        "ja": "ノルウェー",
+        "ko": "노르웨이",
+        "de": "Norwegen",
+        "fr": "Norvège"
       },
       "file": "countries/NO.json",
       "regionHints": [
@@ -1847,7 +2687,12 @@
       "code": "OM",
       "names": {
         "en": "Oman",
-        "zh-Hans": "阿曼"
+        "zh-Hans": "阿曼",
+        "zh-Hant": "阿曼",
+        "ja": "オマーン",
+        "ko": "오만",
+        "de": "Oman",
+        "fr": "Oman"
       },
       "file": "countries/OM.json",
       "regionHints": [
@@ -1858,7 +2703,12 @@
       "code": "QO",
       "names": {
         "en": "Outlying Oceania",
-        "zh-Hans": "大洋洲边远群岛"
+        "zh-Hans": "大洋洲边远群岛",
+        "zh-Hant": "大洋洲邊疆群島",
+        "ja": "オセアニア周辺地域",
+        "ko": "오세아니아 외곽",
+        "de": "Äußeres Ozeanien",
+        "fr": "Régions éloignées de l’Océanie"
       },
       "file": "countries/QO.json",
       "regionHints": [
@@ -1869,7 +2719,12 @@
       "code": "PK",
       "names": {
         "en": "Pakistan",
-        "zh-Hans": "巴基斯坦"
+        "zh-Hans": "巴基斯坦",
+        "zh-Hant": "巴基斯坦",
+        "ja": "パキスタン",
+        "ko": "파키스탄",
+        "de": "Pakistan",
+        "fr": "Pakistan"
       },
       "file": "countries/PK.json",
       "regionHints": [
@@ -1880,7 +2735,12 @@
       "code": "PW",
       "names": {
         "en": "Palau",
-        "zh-Hans": "帕劳"
+        "zh-Hans": "帕劳",
+        "zh-Hant": "帛琉",
+        "ja": "パラオ",
+        "ko": "팔라우",
+        "de": "Palau",
+        "fr": "Palaos"
       },
       "file": "countries/PW.json",
       "regionHints": [
@@ -1891,7 +2751,12 @@
       "code": "PS",
       "names": {
         "en": "Palestine",
-        "zh-Hans": "巴勒斯坦"
+        "zh-Hans": "巴勒斯坦",
+        "zh-Hant": "巴勒斯坦",
+        "ja": "パレスチナ",
+        "ko": "팔레스타인",
+        "de": "Palästina",
+        "fr": "Palestine"
       },
       "file": "countries/PS.json",
       "regionHints": [
@@ -1902,7 +2767,12 @@
       "code": "PA",
       "names": {
         "en": "Panama",
-        "zh-Hans": "巴拿马"
+        "zh-Hans": "巴拿马",
+        "zh-Hant": "巴拿馬",
+        "ja": "パナマ",
+        "ko": "파나마",
+        "de": "Panama",
+        "fr": "Panama"
       },
       "file": "countries/PA.json",
       "regionHints": [
@@ -1913,7 +2783,12 @@
       "code": "PG",
       "names": {
         "en": "Papua New Guinea",
-        "zh-Hans": "巴布亚新几内亚"
+        "zh-Hans": "巴布亚新几内亚",
+        "zh-Hant": "巴布亞紐幾內亞",
+        "ja": "パプアニューギニア",
+        "ko": "파푸아뉴기니",
+        "de": "Papua-Neuguinea",
+        "fr": "Papouasie-Nouvelle-Guinée"
       },
       "file": "countries/PG.json",
       "regionHints": [
@@ -1924,7 +2799,12 @@
       "code": "PY",
       "names": {
         "en": "Paraguay",
-        "zh-Hans": "巴拉圭"
+        "zh-Hans": "巴拉圭",
+        "zh-Hant": "巴拉圭",
+        "ja": "パラグアイ",
+        "ko": "파라과이",
+        "de": "Paraguay",
+        "fr": "Paraguay"
       },
       "file": "countries/PY.json",
       "regionHints": [
@@ -1935,7 +2815,12 @@
       "code": "PE",
       "names": {
         "en": "Peru",
-        "zh-Hans": "秘鲁"
+        "zh-Hans": "秘鲁",
+        "zh-Hant": "秘魯",
+        "ja": "ペルー",
+        "ko": "페루",
+        "de": "Peru",
+        "fr": "Pérou"
       },
       "file": "countries/PE.json",
       "regionHints": [
@@ -1946,7 +2831,12 @@
       "code": "PH",
       "names": {
         "en": "Philippines",
-        "zh-Hans": "菲律宾"
+        "zh-Hans": "菲律宾",
+        "zh-Hant": "菲律賓",
+        "ja": "フィリピン",
+        "ko": "필리핀",
+        "de": "Philippinen",
+        "fr": "Philippines"
       },
       "file": "countries/PH.json",
       "regionHints": [
@@ -1957,7 +2847,12 @@
       "code": "PN",
       "names": {
         "en": "Pitcairn Islands",
-        "zh-Hans": "皮特凯恩群岛"
+        "zh-Hans": "皮特凯恩群岛",
+        "zh-Hant": "皮特肯群島",
+        "ja": "ピトケアン諸島",
+        "ko": "핏케언 제도",
+        "de": "Pitcairninseln",
+        "fr": "Îles Pitcairn"
       },
       "file": "countries/PN.json",
       "regionHints": [
@@ -1968,7 +2863,12 @@
       "code": "PL",
       "names": {
         "en": "Poland",
-        "zh-Hans": "波兰"
+        "zh-Hans": "波兰",
+        "zh-Hant": "波蘭",
+        "ja": "ポーランド",
+        "ko": "폴란드",
+        "de": "Polen",
+        "fr": "Pologne"
       },
       "file": "countries/PL.json",
       "regionHints": [
@@ -1979,7 +2879,12 @@
       "code": "PT",
       "names": {
         "en": "Portugal",
-        "zh-Hans": "葡萄牙"
+        "zh-Hans": "葡萄牙",
+        "zh-Hant": "葡萄牙",
+        "ja": "ポルトガル",
+        "ko": "포르투갈",
+        "de": "Portugal",
+        "fr": "Portugal"
       },
       "file": "countries/PT.json",
       "regionHints": [
@@ -1990,7 +2895,12 @@
       "code": "PR",
       "names": {
         "en": "Puerto Rico",
-        "zh-Hans": "波多黎各"
+        "zh-Hans": "波多黎各",
+        "zh-Hant": "波多黎各",
+        "ja": "プエルトリコ",
+        "ko": "푸에르토리코",
+        "de": "Puerto Rico",
+        "fr": "Porto Rico"
       },
       "file": "countries/PR.json",
       "regionHints": [
@@ -2001,7 +2911,12 @@
       "code": "QA",
       "names": {
         "en": "Qatar",
-        "zh-Hans": "卡塔尔"
+        "zh-Hans": "卡塔尔",
+        "zh-Hant": "卡達",
+        "ja": "カタール",
+        "ko": "카타르",
+        "de": "Katar",
+        "fr": "Qatar"
       },
       "file": "countries/QA.json",
       "regionHints": [
@@ -2012,7 +2927,12 @@
       "code": "RE",
       "names": {
         "en": "Réunion",
-        "zh-Hans": "留尼汪"
+        "zh-Hans": "留尼汪",
+        "zh-Hant": "留尼旺",
+        "ja": "レユニオン",
+        "ko": "레위니옹",
+        "de": "Réunion",
+        "fr": "La Réunion"
       },
       "file": "countries/RE.json",
       "regionHints": [
@@ -2023,7 +2943,12 @@
       "code": "RO",
       "names": {
         "en": "Romania",
-        "zh-Hans": "罗马尼亚"
+        "zh-Hans": "罗马尼亚",
+        "zh-Hant": "羅馬尼亞",
+        "ja": "ルーマニア",
+        "ko": "루마니아",
+        "de": "Rumänien",
+        "fr": "Roumanie"
       },
       "file": "countries/RO.json",
       "regionHints": [
@@ -2034,7 +2959,12 @@
       "code": "RU",
       "names": {
         "en": "Russia",
-        "zh-Hans": "俄罗斯"
+        "zh-Hans": "俄罗斯",
+        "zh-Hant": "俄羅斯",
+        "ja": "ロシア",
+        "ko": "러시아",
+        "de": "Russland",
+        "fr": "Russie"
       },
       "file": "countries/RU.json",
       "regionHints": [
@@ -2045,7 +2975,12 @@
       "code": "RW",
       "names": {
         "en": "Rwanda",
-        "zh-Hans": "卢旺达"
+        "zh-Hans": "卢旺达",
+        "zh-Hant": "盧安達",
+        "ja": "ルワンダ",
+        "ko": "르완다",
+        "de": "Ruanda",
+        "fr": "Rwanda"
       },
       "file": "countries/RW.json",
       "regionHints": [
@@ -2056,7 +2991,12 @@
       "code": "WS",
       "names": {
         "en": "Samoa",
-        "zh-Hans": "萨摩亚"
+        "zh-Hans": "萨摩亚",
+        "zh-Hant": "薩摩亞",
+        "ja": "サモア",
+        "ko": "사모아",
+        "de": "Samoa",
+        "fr": "Samoa"
       },
       "file": "countries/WS.json",
       "regionHints": [
@@ -2067,7 +3007,12 @@
       "code": "SM",
       "names": {
         "en": "San Marino",
-        "zh-Hans": "圣马力诺"
+        "zh-Hans": "圣马力诺",
+        "zh-Hant": "聖馬利諾",
+        "ja": "サンマリノ",
+        "ko": "산마리노",
+        "de": "San Marino",
+        "fr": "Saint-Marin"
       },
       "file": "countries/SM.json",
       "regionHints": [
@@ -2078,7 +3023,12 @@
       "code": "ST",
       "names": {
         "en": "São Tomé & Príncipe",
-        "zh-Hans": "圣多美和普林西比"
+        "zh-Hans": "圣多美和普林西比",
+        "zh-Hant": "聖多美普林西比",
+        "ja": "サントメ・プリンシペ",
+        "ko": "상투메 프린시페",
+        "de": "São Tomé und Príncipe",
+        "fr": "Sao Tomé-et-Principe"
       },
       "file": "countries/ST.json",
       "regionHints": [
@@ -2089,7 +3039,12 @@
       "code": "SA",
       "names": {
         "en": "Saudi Arabia",
-        "zh-Hans": "沙特阿拉伯"
+        "zh-Hans": "沙特阿拉伯",
+        "zh-Hant": "沙烏地阿拉伯",
+        "ja": "サウジアラビア",
+        "ko": "사우디아라비아",
+        "de": "Saudi-Arabien",
+        "fr": "Arabie saoudite"
       },
       "file": "countries/SA.json",
       "regionHints": [
@@ -2100,7 +3055,12 @@
       "code": "SN",
       "names": {
         "en": "Senegal",
-        "zh-Hans": "塞内加尔"
+        "zh-Hans": "塞内加尔",
+        "zh-Hant": "塞內加爾",
+        "ja": "セネガル",
+        "ko": "세네갈",
+        "de": "Senegal",
+        "fr": "Sénégal"
       },
       "file": "countries/SN.json",
       "regionHints": [
@@ -2111,7 +3071,12 @@
       "code": "RS",
       "names": {
         "en": "Serbia",
-        "zh-Hans": "塞尔维亚"
+        "zh-Hans": "塞尔维亚",
+        "zh-Hant": "塞爾維亞",
+        "ja": "セルビア",
+        "ko": "세르비아",
+        "de": "Serbien",
+        "fr": "Serbie"
       },
       "file": "countries/RS.json",
       "regionHints": [
@@ -2122,7 +3087,12 @@
       "code": "SC",
       "names": {
         "en": "Seychelles",
-        "zh-Hans": "塞舌尔"
+        "zh-Hans": "塞舌尔",
+        "zh-Hant": "塞席爾",
+        "ja": "セーシェル",
+        "ko": "세이셸",
+        "de": "Seychellen",
+        "fr": "Seychelles"
       },
       "file": "countries/SC.json",
       "regionHints": [
@@ -2133,7 +3103,12 @@
       "code": "SL",
       "names": {
         "en": "Sierra Leone",
-        "zh-Hans": "塞拉利昂"
+        "zh-Hans": "塞拉利昂",
+        "zh-Hant": "獅子山",
+        "ja": "シエラレオネ",
+        "ko": "시에라리온",
+        "de": "Sierra Leone",
+        "fr": "Sierra Leone"
       },
       "file": "countries/SL.json",
       "regionHints": [
@@ -2144,7 +3119,12 @@
       "code": "SG",
       "names": {
         "en": "Singapore",
-        "zh-Hans": "新加坡"
+        "zh-Hans": "新加坡",
+        "zh-Hant": "新加坡",
+        "ja": "シンガポール",
+        "ko": "싱가포르",
+        "de": "Singapur",
+        "fr": "Singapour"
       },
       "file": "countries/SG.json",
       "regionHints": [
@@ -2155,7 +3135,12 @@
       "code": "SX",
       "names": {
         "en": "Sint Maarten",
-        "zh-Hans": "荷属圣马丁"
+        "zh-Hans": "荷属圣马丁",
+        "zh-Hant": "荷屬聖馬丁",
+        "ja": "シント・マールテン",
+        "ko": "신트마르턴",
+        "de": "Sint Maarten",
+        "fr": "Saint-Martin (partie néerlandaise)"
       },
       "file": "countries/SX.json",
       "regionHints": [
@@ -2166,7 +3151,12 @@
       "code": "SK",
       "names": {
         "en": "Slovakia",
-        "zh-Hans": "斯洛伐克"
+        "zh-Hans": "斯洛伐克",
+        "zh-Hant": "斯洛伐克",
+        "ja": "スロバキア",
+        "ko": "슬로바키아",
+        "de": "Slowakei",
+        "fr": "Slovaquie"
       },
       "file": "countries/SK.json",
       "regionHints": [
@@ -2177,7 +3167,12 @@
       "code": "SI",
       "names": {
         "en": "Slovenia",
-        "zh-Hans": "斯洛文尼亚"
+        "zh-Hans": "斯洛文尼亚",
+        "zh-Hant": "斯洛維尼亞",
+        "ja": "スロベニア",
+        "ko": "슬로베니아",
+        "de": "Slowenien",
+        "fr": "Slovénie"
       },
       "file": "countries/SI.json",
       "regionHints": [
@@ -2188,7 +3183,12 @@
       "code": "GS",
       "names": {
         "en": "So. Georgia & So. Sandwich Isl.",
-        "zh-Hans": "南乔治亚和南桑威奇群岛"
+        "zh-Hans": "南乔治亚和南桑威奇群岛",
+        "zh-Hant": "南喬治亞與南三明治群島",
+        "ja": "サウスジョージア・サウスサンドウィッチ諸島",
+        "ko": "사우스조지아 사우스샌드위치 제도",
+        "de": "Südgeorgien und die Südlichen Sandwichinseln",
+        "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud"
       },
       "file": "countries/GS.json",
       "regionHints": [
@@ -2199,7 +3199,12 @@
       "code": "SB",
       "names": {
         "en": "Solomon Islands",
-        "zh-Hans": "所罗门群岛"
+        "zh-Hans": "所罗门群岛",
+        "zh-Hant": "索羅門群島",
+        "ja": "ソロモン諸島",
+        "ko": "솔로몬 제도",
+        "de": "Salomonen",
+        "fr": "Îles Salomon"
       },
       "file": "countries/SB.json",
       "regionHints": [
@@ -2210,7 +3215,12 @@
       "code": "SO",
       "names": {
         "en": "Somalia",
-        "zh-Hans": "索马里"
+        "zh-Hans": "索马里",
+        "zh-Hant": "索馬利亞",
+        "ja": "ソマリア",
+        "ko": "소말리아",
+        "de": "Somalia",
+        "fr": "Somalie"
       },
       "file": "countries/SO.json",
       "regionHints": [
@@ -2221,7 +3231,12 @@
       "code": "ZA",
       "names": {
         "en": "South Africa",
-        "zh-Hans": "南非"
+        "zh-Hans": "南非",
+        "zh-Hant": "南非",
+        "ja": "南アフリカ",
+        "ko": "남아프리카",
+        "de": "Südafrika",
+        "fr": "Afrique du Sud"
       },
       "file": "countries/ZA.json",
       "regionHints": [
@@ -2232,7 +3247,12 @@
       "code": "KR",
       "names": {
         "en": "South Korea",
-        "zh-Hans": "韩国"
+        "zh-Hans": "韩国",
+        "zh-Hant": "南韓",
+        "ja": "韓国",
+        "ko": "대한민국",
+        "de": "Südkorea",
+        "fr": "Corée du Sud"
       },
       "file": "countries/KR.json",
       "regionHints": [
@@ -2243,7 +3263,12 @@
       "code": "SS",
       "names": {
         "en": "South Sudan",
-        "zh-Hans": "南苏丹"
+        "zh-Hans": "南苏丹",
+        "zh-Hant": "南蘇丹",
+        "ja": "南スーダン",
+        "ko": "남수단",
+        "de": "Südsudan",
+        "fr": "Soudan du Sud"
       },
       "file": "countries/SS.json",
       "regionHints": [
@@ -2254,7 +3279,12 @@
       "code": "ES",
       "names": {
         "en": "Spain",
-        "zh-Hans": "西班牙"
+        "zh-Hans": "西班牙",
+        "zh-Hant": "西班牙",
+        "ja": "スペイン",
+        "ko": "스페인",
+        "de": "Spanien",
+        "fr": "Espagne"
       },
       "file": "countries/ES.json",
       "regionHints": [
@@ -2265,7 +3295,12 @@
       "code": "LK",
       "names": {
         "en": "Sri Lanka",
-        "zh-Hans": "斯里兰卡"
+        "zh-Hans": "斯里兰卡",
+        "zh-Hant": "斯里蘭卡",
+        "ja": "スリランカ",
+        "ko": "스리랑카",
+        "de": "Sri Lanka",
+        "fr": "Sri Lanka"
       },
       "file": "countries/LK.json",
       "regionHints": [
@@ -2276,7 +3311,12 @@
       "code": "BL",
       "names": {
         "en": "St. Barthélemy",
-        "zh-Hans": "圣巴泰勒米"
+        "zh-Hans": "圣巴泰勒米",
+        "zh-Hant": "聖巴瑟米",
+        "ja": "サン・バルテルミー",
+        "ko": "생바르텔레미",
+        "de": "St. Barthélemy",
+        "fr": "Saint-Barthélemy"
       },
       "file": "countries/BL.json",
       "regionHints": [
@@ -2287,7 +3327,12 @@
       "code": "SH",
       "names": {
         "en": "St. Helena",
-        "zh-Hans": "圣赫勒拿"
+        "zh-Hans": "圣赫勒拿",
+        "zh-Hant": "聖赫勒拿島",
+        "ja": "セントヘレナ",
+        "ko": "세인트헬레나",
+        "de": "St. Helena",
+        "fr": "Sainte-Hélène"
       },
       "file": "countries/SH.json",
       "regionHints": [
@@ -2298,7 +3343,12 @@
       "code": "KN",
       "names": {
         "en": "St. Kitts & Nevis",
-        "zh-Hans": "圣基茨和尼维斯"
+        "zh-Hans": "圣基茨和尼维斯",
+        "zh-Hant": "聖克里斯多福及尼維斯",
+        "ja": "セントクリストファー・ネーヴィス",
+        "ko": "세인트키츠 네비스",
+        "de": "St. Kitts und Nevis",
+        "fr": "Saint-Christophe-et-Niévès"
       },
       "file": "countries/KN.json",
       "regionHints": [
@@ -2309,7 +3359,12 @@
       "code": "LC",
       "names": {
         "en": "St. Lucia",
-        "zh-Hans": "圣卢西亚"
+        "zh-Hans": "圣卢西亚",
+        "zh-Hant": "聖露西亞",
+        "ja": "セントルシア",
+        "ko": "세인트루시아",
+        "de": "St. Lucia",
+        "fr": "Sainte-Lucie"
       },
       "file": "countries/LC.json",
       "regionHints": [
@@ -2320,7 +3375,12 @@
       "code": "MF",
       "names": {
         "en": "St. Martin",
-        "zh-Hans": "法属圣马丁"
+        "zh-Hans": "法属圣马丁",
+        "zh-Hant": "法屬聖馬丁",
+        "ja": "サン・マルタン",
+        "ko": "생마르탱",
+        "de": "St. Martin",
+        "fr": "Saint-Martin"
       },
       "file": "countries/MF.json",
       "regionHints": [
@@ -2331,7 +3391,12 @@
       "code": "PM",
       "names": {
         "en": "St. Pierre & Miquelon",
-        "zh-Hans": "圣皮埃尔和密克隆群岛"
+        "zh-Hans": "圣皮埃尔和密克隆群岛",
+        "zh-Hant": "聖皮埃與密克隆群島",
+        "ja": "サンピエール島・ミクロン島",
+        "ko": "생피에르 미클롱",
+        "de": "St. Pierre und Miquelon",
+        "fr": "Saint-Pierre-et-Miquelon"
       },
       "file": "countries/PM.json",
       "regionHints": [
@@ -2342,7 +3407,12 @@
       "code": "VC",
       "names": {
         "en": "St. Vincent & Grenadines",
-        "zh-Hans": "圣文森特和格林纳丁斯"
+        "zh-Hans": "圣文森特和格林纳丁斯",
+        "zh-Hant": "聖文森及格瑞那丁",
+        "ja": "セントビンセント及びグレナディーン諸島",
+        "ko": "세인트빈센트그레나딘",
+        "de": "St. Vincent und die Grenadinen",
+        "fr": "Saint-Vincent-et-les Grenadines"
       },
       "file": "countries/VC.json",
       "regionHints": [
@@ -2353,7 +3423,12 @@
       "code": "SD",
       "names": {
         "en": "Sudan",
-        "zh-Hans": "苏丹"
+        "zh-Hans": "苏丹",
+        "zh-Hant": "蘇丹",
+        "ja": "スーダン",
+        "ko": "수단",
+        "de": "Sudan",
+        "fr": "Soudan"
       },
       "file": "countries/SD.json",
       "regionHints": [
@@ -2364,7 +3439,12 @@
       "code": "SR",
       "names": {
         "en": "Suriname",
-        "zh-Hans": "苏里南"
+        "zh-Hans": "苏里南",
+        "zh-Hant": "蘇利南",
+        "ja": "スリナム",
+        "ko": "수리남",
+        "de": "Suriname",
+        "fr": "Suriname"
       },
       "file": "countries/SR.json",
       "regionHints": [
@@ -2375,7 +3455,12 @@
       "code": "SJ",
       "names": {
         "en": "Svalbard & Jan Mayen",
-        "zh-Hans": "斯瓦尔巴和扬马延"
+        "zh-Hans": "斯瓦尔巴和扬马延",
+        "zh-Hant": "挪威屬斯瓦巴及尖棉",
+        "ja": "スバールバル諸島・ヤンマイエン島",
+        "ko": "스발바르제도-얀마웬섬",
+        "de": "Spitzbergen und Jan Mayen",
+        "fr": "Svalbard et Jan Mayen"
       },
       "file": "countries/SJ.json",
       "regionHints": [
@@ -2386,7 +3471,12 @@
       "code": "SE",
       "names": {
         "en": "Sweden",
-        "zh-Hans": "瑞典"
+        "zh-Hans": "瑞典",
+        "zh-Hant": "瑞典",
+        "ja": "スウェーデン",
+        "ko": "스웨덴",
+        "de": "Schweden",
+        "fr": "Suède"
       },
       "file": "countries/SE.json",
       "regionHints": [
@@ -2397,7 +3487,12 @@
       "code": "CH",
       "names": {
         "en": "Switzerland",
-        "zh-Hans": "瑞士"
+        "zh-Hans": "瑞士",
+        "zh-Hant": "瑞士",
+        "ja": "スイス",
+        "ko": "스위스",
+        "de": "Schweiz",
+        "fr": "Suisse"
       },
       "file": "countries/CH.json",
       "regionHints": [
@@ -2408,7 +3503,12 @@
       "code": "SY",
       "names": {
         "en": "Syria",
-        "zh-Hans": "叙利亚"
+        "zh-Hans": "叙利亚",
+        "zh-Hant": "敘利亞",
+        "ja": "シリア",
+        "ko": "시리아",
+        "de": "Syrien",
+        "fr": "Syrie"
       },
       "file": "countries/SY.json",
       "regionHints": [
@@ -2419,7 +3519,12 @@
       "code": "TW",
       "names": {
         "en": "Taiwan",
-        "zh-Hans": "台湾"
+        "zh-Hans": "台湾",
+        "zh-Hant": "台灣",
+        "ja": "台湾",
+        "ko": "대만",
+        "de": "Taiwan",
+        "fr": "Taïwan"
       },
       "file": "countries/TW.json",
       "regionHints": [
@@ -2430,7 +3535,12 @@
       "code": "TJ",
       "names": {
         "en": "Tajikistan",
-        "zh-Hans": "塔吉克斯坦"
+        "zh-Hans": "塔吉克斯坦",
+        "zh-Hant": "塔吉克",
+        "ja": "タジキスタン",
+        "ko": "타지키스탄",
+        "de": "Tadschikistan",
+        "fr": "Tadjikistan"
       },
       "file": "countries/TJ.json",
       "regionHints": [
@@ -2441,7 +3551,12 @@
       "code": "TZ",
       "names": {
         "en": "Tanzania",
-        "zh-Hans": "坦桑尼亚"
+        "zh-Hans": "坦桑尼亚",
+        "zh-Hant": "坦尚尼亞",
+        "ja": "タンザニア",
+        "ko": "탄자니아",
+        "de": "Tansania",
+        "fr": "Tanzanie"
       },
       "file": "countries/TZ.json",
       "regionHints": [
@@ -2452,7 +3567,12 @@
       "code": "TH",
       "names": {
         "en": "Thailand",
-        "zh-Hans": "泰国"
+        "zh-Hans": "泰国",
+        "zh-Hant": "泰國",
+        "ja": "タイ",
+        "ko": "태국",
+        "de": "Thailand",
+        "fr": "Thaïlande"
       },
       "file": "countries/TH.json",
       "regionHints": [
@@ -2463,7 +3583,12 @@
       "code": "TL",
       "names": {
         "en": "Timor-Leste",
-        "zh-Hans": "东帝汶"
+        "zh-Hans": "东帝汶",
+        "zh-Hant": "東帝汶",
+        "ja": "東ティモール",
+        "ko": "동티모르",
+        "de": "Timor-Leste",
+        "fr": "Timor oriental"
       },
       "file": "countries/TL.json",
       "regionHints": [
@@ -2474,7 +3599,12 @@
       "code": "TG",
       "names": {
         "en": "Togo",
-        "zh-Hans": "多哥"
+        "zh-Hans": "多哥",
+        "zh-Hant": "多哥",
+        "ja": "トーゴ",
+        "ko": "토고",
+        "de": "Togo",
+        "fr": "Togo"
       },
       "file": "countries/TG.json",
       "regionHints": [
@@ -2485,7 +3615,12 @@
       "code": "TK",
       "names": {
         "en": "Tokelau",
-        "zh-Hans": "托克劳"
+        "zh-Hans": "托克劳",
+        "zh-Hant": "托克勞群島",
+        "ja": "トケラウ",
+        "ko": "토켈라우",
+        "de": "Tokelau",
+        "fr": "Tokelau"
       },
       "file": "countries/TK.json",
       "regionHints": [
@@ -2496,7 +3631,12 @@
       "code": "TO",
       "names": {
         "en": "Tonga",
-        "zh-Hans": "汤加"
+        "zh-Hans": "汤加",
+        "zh-Hant": "東加",
+        "ja": "トンガ",
+        "ko": "통가",
+        "de": "Tonga",
+        "fr": "Tonga"
       },
       "file": "countries/TO.json",
       "regionHints": [
@@ -2507,7 +3647,12 @@
       "code": "TT",
       "names": {
         "en": "Trinidad & Tobago",
-        "zh-Hans": "特立尼达和多巴哥"
+        "zh-Hans": "特立尼达和多巴哥",
+        "zh-Hant": "千里達及托巴哥",
+        "ja": "トリニダード・トバゴ",
+        "ko": "트리니다드 토바고",
+        "de": "Trinidad und Tobago",
+        "fr": "Trinité-et-Tobago"
       },
       "file": "countries/TT.json",
       "regionHints": [
@@ -2518,7 +3663,12 @@
       "code": "TN",
       "names": {
         "en": "Tunisia",
-        "zh-Hans": "突尼斯"
+        "zh-Hans": "突尼斯",
+        "zh-Hant": "突尼西亞",
+        "ja": "チュニジア",
+        "ko": "튀니지",
+        "de": "Tunesien",
+        "fr": "Tunisie"
       },
       "file": "countries/TN.json",
       "regionHints": [
@@ -2529,7 +3679,12 @@
       "code": "TR",
       "names": {
         "en": "Türkiye",
-        "zh-Hans": "土耳其"
+        "zh-Hans": "土耳其",
+        "zh-Hant": "土耳其",
+        "ja": "トルコ",
+        "ko": "튀르키예",
+        "de": "Türkei",
+        "fr": "Turquie"
       },
       "file": "countries/TR.json",
       "regionHints": [
@@ -2540,7 +3695,12 @@
       "code": "TM",
       "names": {
         "en": "Turkmenistan",
-        "zh-Hans": "土库曼斯坦"
+        "zh-Hans": "土库曼斯坦",
+        "zh-Hant": "土庫曼",
+        "ja": "トルクメニスタン",
+        "ko": "투르크메니스탄",
+        "de": "Turkmenistan",
+        "fr": "Turkménistan"
       },
       "file": "countries/TM.json",
       "regionHints": [
@@ -2551,7 +3711,12 @@
       "code": "TC",
       "names": {
         "en": "Turks & Caicos Islands",
-        "zh-Hans": "特克斯和凯科斯群岛"
+        "zh-Hans": "特克斯和凯科斯群岛",
+        "zh-Hant": "土克斯及開科斯群島",
+        "ja": "タークス・カイコス諸島",
+        "ko": "터크스 케이커스 제도",
+        "de": "Turks- und Caicosinseln",
+        "fr": "Îles Turques-et-Caïques"
       },
       "file": "countries/TC.json",
       "regionHints": [
@@ -2562,7 +3727,12 @@
       "code": "TV",
       "names": {
         "en": "Tuvalu",
-        "zh-Hans": "图瓦卢"
+        "zh-Hans": "图瓦卢",
+        "zh-Hant": "吐瓦魯",
+        "ja": "ツバル",
+        "ko": "투발루",
+        "de": "Tuvalu",
+        "fr": "Tuvalu"
       },
       "file": "countries/TV.json",
       "regionHints": [
@@ -2573,7 +3743,12 @@
       "code": "UM",
       "names": {
         "en": "U.S. Outlying Islands",
-        "zh-Hans": "美国本土外小岛屿"
+        "zh-Hans": "美国本土外小岛屿",
+        "zh-Hant": "美國本土外小島嶼",
+        "ja": "合衆国領有小離島",
+        "ko": "미국령 해외 제도",
+        "de": "Amerikanische Überseeinseln",
+        "fr": "Îles mineures éloignées des États-Unis"
       },
       "file": "countries/UM.json",
       "regionHints": [
@@ -2584,7 +3759,12 @@
       "code": "VI",
       "names": {
         "en": "U.S. Virgin Islands",
-        "zh-Hans": "美属维尔京群岛"
+        "zh-Hans": "美属维尔京群岛",
+        "zh-Hant": "美屬維京群島",
+        "ja": "米領ヴァージン諸島",
+        "ko": "미국령 버진아일랜드",
+        "de": "Amerikanische Jungferninseln",
+        "fr": "Îles Vierges des États-Unis"
       },
       "file": "countries/VI.json",
       "regionHints": [
@@ -2595,7 +3775,12 @@
       "code": "UG",
       "names": {
         "en": "Uganda",
-        "zh-Hans": "乌干达"
+        "zh-Hans": "乌干达",
+        "zh-Hant": "烏干達",
+        "ja": "ウガンダ",
+        "ko": "우간다",
+        "de": "Uganda",
+        "fr": "Ouganda"
       },
       "file": "countries/UG.json",
       "regionHints": [
@@ -2606,7 +3791,12 @@
       "code": "UA",
       "names": {
         "en": "Ukraine",
-        "zh-Hans": "乌克兰"
+        "zh-Hans": "乌克兰",
+        "zh-Hant": "烏克蘭",
+        "ja": "ウクライナ",
+        "ko": "우크라이나",
+        "de": "Ukraine",
+        "fr": "Ukraine"
       },
       "file": "countries/UA.json",
       "regionHints": [
@@ -2617,7 +3807,12 @@
       "code": "AE",
       "names": {
         "en": "United Arab Emirates",
-        "zh-Hans": "阿联酋"
+        "zh-Hans": "阿联酋",
+        "zh-Hant": "阿拉伯聯合大公國",
+        "ja": "アラブ首長国連邦",
+        "ko": "아랍에미리트",
+        "de": "Vereinigte Arabische Emirate",
+        "fr": "Émirats arabes unis"
       },
       "file": "countries/AE.json",
       "regionHints": [
@@ -2628,7 +3823,12 @@
       "code": "GB",
       "names": {
         "en": "United Kingdom",
-        "zh-Hans": "英国"
+        "zh-Hans": "英国",
+        "zh-Hant": "英國",
+        "ja": "イギリス",
+        "ko": "영국",
+        "de": "Vereinigtes Königreich",
+        "fr": "Royaume-Uni"
       },
       "file": "countries/GB.json",
       "regionHints": [
@@ -2639,7 +3839,12 @@
       "code": "US",
       "names": {
         "en": "United States",
-        "zh-Hans": "美国"
+        "zh-Hans": "美国",
+        "zh-Hant": "美國",
+        "ja": "アメリカ合衆国",
+        "ko": "미국",
+        "de": "Vereinigte Staaten",
+        "fr": "États-Unis"
       },
       "file": "countries/US.json",
       "regionHints": [
@@ -2650,7 +3855,12 @@
       "code": "UY",
       "names": {
         "en": "Uruguay",
-        "zh-Hans": "乌拉圭"
+        "zh-Hans": "乌拉圭",
+        "zh-Hant": "烏拉圭",
+        "ja": "ウルグアイ",
+        "ko": "우루과이",
+        "de": "Uruguay",
+        "fr": "Uruguay"
       },
       "file": "countries/UY.json",
       "regionHints": [
@@ -2661,7 +3871,12 @@
       "code": "UZ",
       "names": {
         "en": "Uzbekistan",
-        "zh-Hans": "乌兹别克斯坦"
+        "zh-Hans": "乌兹别克斯坦",
+        "zh-Hant": "烏茲別克",
+        "ja": "ウズベキスタン",
+        "ko": "우즈베키스탄",
+        "de": "Usbekistan",
+        "fr": "Ouzbékistan"
       },
       "file": "countries/UZ.json",
       "regionHints": [
@@ -2672,7 +3887,12 @@
       "code": "VU",
       "names": {
         "en": "Vanuatu",
-        "zh-Hans": "瓦努阿图"
+        "zh-Hans": "瓦努阿图",
+        "zh-Hant": "萬那杜",
+        "ja": "バヌアツ",
+        "ko": "바누아투",
+        "de": "Vanuatu",
+        "fr": "Vanuatu"
       },
       "file": "countries/VU.json",
       "regionHints": [
@@ -2683,7 +3903,12 @@
       "code": "VA",
       "names": {
         "en": "Vatican City",
-        "zh-Hans": "梵蒂冈"
+        "zh-Hans": "梵蒂冈",
+        "zh-Hant": "梵蒂岡",
+        "ja": "バチカン市国",
+        "ko": "바티칸 시국",
+        "de": "Vatikanstadt",
+        "fr": "État de la Cité du Vatican"
       },
       "file": "countries/VA.json",
       "regionHints": [
@@ -2694,7 +3919,12 @@
       "code": "VE",
       "names": {
         "en": "Venezuela",
-        "zh-Hans": "委内瑞拉"
+        "zh-Hans": "委内瑞拉",
+        "zh-Hant": "委內瑞拉",
+        "ja": "ベネズエラ",
+        "ko": "베네수엘라",
+        "de": "Venezuela",
+        "fr": "Venezuela"
       },
       "file": "countries/VE.json",
       "regionHints": [
@@ -2705,7 +3935,12 @@
       "code": "VN",
       "names": {
         "en": "Vietnam",
-        "zh-Hans": "越南"
+        "zh-Hans": "越南",
+        "zh-Hant": "越南",
+        "ja": "ベトナム",
+        "ko": "베트남",
+        "de": "Vietnam",
+        "fr": "Viêt Nam"
       },
       "file": "countries/VN.json",
       "regionHints": [
@@ -2716,7 +3951,12 @@
       "code": "WF",
       "names": {
         "en": "Wallis & Futuna",
-        "zh-Hans": "瓦利斯和富图纳"
+        "zh-Hans": "瓦利斯和富图纳",
+        "zh-Hant": "瓦利斯群島和富圖那群島",
+        "ja": "ウォリス・フツナ",
+        "ko": "왈리스-푸투나 제도",
+        "de": "Wallis und Futuna",
+        "fr": "Wallis-et-Futuna"
       },
       "file": "countries/WF.json",
       "regionHints": [
@@ -2727,7 +3967,12 @@
       "code": "EH",
       "names": {
         "en": "Western Sahara",
-        "zh-Hans": "西撒哈拉"
+        "zh-Hans": "西撒哈拉",
+        "zh-Hant": "西撒哈拉",
+        "ja": "西サハラ",
+        "ko": "서사하라",
+        "de": "Westsahara",
+        "fr": "Sahara occidental"
       },
       "file": "countries/EH.json",
       "regionHints": [
@@ -2738,7 +3983,12 @@
       "code": "YE",
       "names": {
         "en": "Yemen",
-        "zh-Hans": "也门"
+        "zh-Hans": "也门",
+        "zh-Hant": "葉門",
+        "ja": "イエメン",
+        "ko": "예멘",
+        "de": "Jemen",
+        "fr": "Yémen"
       },
       "file": "countries/YE.json",
       "regionHints": [
@@ -2749,7 +3999,12 @@
       "code": "ZM",
       "names": {
         "en": "Zambia",
-        "zh-Hans": "赞比亚"
+        "zh-Hans": "赞比亚",
+        "zh-Hant": "尚比亞",
+        "ja": "ザンビア",
+        "ko": "잠비아",
+        "de": "Sambia",
+        "fr": "Zambie"
       },
       "file": "countries/ZM.json",
       "regionHints": [
@@ -2760,7 +4015,12 @@
       "code": "ZW",
       "names": {
         "en": "Zimbabwe",
-        "zh-Hans": "津巴布韦"
+        "zh-Hans": "津巴布韦",
+        "zh-Hant": "辛巴威",
+        "ja": "ジンバブエ",
+        "ko": "짐바브웨",
+        "de": "Simbabwe",
+        "fr": "Zimbabwe"
       },
       "file": "countries/ZW.json",
       "regionHints": [

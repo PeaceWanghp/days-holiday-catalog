@@ -3,7 +3,12 @@
   "code": "PE",
   "names": {
     "en": "Peru",
-    "zh-Hans": "秘鲁"
+    "zh-Hans": "秘鲁",
+    "zh-Hant": "秘魯",
+    "ja": "ペルー",
+    "ko": "페루",
+    "de": "Peru",
+    "fr": "Pérou"
   },
   "sections": []
 }

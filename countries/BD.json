@@ -3,7 +3,12 @@
   "code": "BD",
   "names": {
     "en": "Bangladesh",
-    "zh-Hans": "孟加拉国"
+    "zh-Hans": "孟加拉国",
+    "zh-Hant": "孟加拉",
+    "ja": "バングラデシュ",
+    "ko": "방글라데시",
+    "de": "Bangladesch",
+    "fr": "Bangladesh"
   },
   "sections": []
 }

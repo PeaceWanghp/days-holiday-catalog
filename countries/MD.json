@@ -3,7 +3,12 @@
   "code": "MD",
   "names": {
     "en": "Moldova",
-    "zh-Hans": "摩尔多瓦"
+    "zh-Hans": "摩尔多瓦",
+    "zh-Hant": "摩爾多瓦",
+    "ja": "モルドバ",
+    "ko": "몰도바",
+    "de": "Republik Moldau",
+    "fr": "Moldavie"
   },
   "sections": []
 }

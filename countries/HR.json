@@ -3,7 +3,12 @@
   "code": "HR",
   "names": {
     "en": "Croatia",
-    "zh-Hans": "克罗地亚"
+    "zh-Hans": "克罗地亚",
+    "zh-Hant": "克羅埃西亞",
+    "ja": "クロアチア",
+    "ko": "크로아티아",
+    "de": "Kroatien",
+    "fr": "Croatie"
   },
   "sections": []
 }

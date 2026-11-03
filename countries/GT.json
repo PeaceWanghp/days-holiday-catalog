@@ -3,7 +3,12 @@
   "code": "GT",
   "names": {
     "en": "Guatemala",
-    "zh-Hans": "危地马拉"
+    "zh-Hans": "危地马拉",
+    "zh-Hant": "瓜地馬拉",
+    "ja": "グアテマラ",
+    "ko": "과테말라",
+    "de": "Guatemala",
+    "fr": "Guatemala"
   },
   "sections": []
 }

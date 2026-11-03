@@ -3,7 +3,12 @@
   "code": "TT",
   "names": {
     "en": "Trinidad & Tobago",
-    "zh-Hans": "特立尼达和多巴哥"
+    "zh-Hans": "特立尼达和多巴哥",
+    "zh-Hant": "千里達及托巴哥",
+    "ja": "トリニダード・トバゴ",
+    "ko": "트리니다드 토바고",
+    "de": "Trinidad und Tobago",
+    "fr": "Trinité-et-Tobago"
   },
   "sections": []
 }

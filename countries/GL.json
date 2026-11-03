@@ -3,7 +3,12 @@
   "code": "GL",
   "names": {
     "en": "Greenland",
-    "zh-Hans": "格陵兰"
+    "zh-Hans": "格陵兰",
+    "zh-Hant": "格陵蘭",
+    "ja": "グリーンランド",
+    "ko": "그린란드",
+    "de": "Grönland",
+    "fr": "Groenland"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "SX",
   "names": {
     "en": "Sint Maarten",
-    "zh-Hans": "荷属圣马丁"
+    "zh-Hans": "荷属圣马丁",
+    "zh-Hant": "荷屬聖馬丁",
+    "ja": "シント・マールテン",
+    "ko": "신트마르턴",
+    "de": "Sint Maarten",
+    "fr": "Saint-Martin (partie néerlandaise)"
   },
   "sections": []
 }

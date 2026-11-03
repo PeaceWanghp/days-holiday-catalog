@@ -3,7 +3,12 @@
   "code": "MV",
   "names": {
     "en": "Maldives",
-    "zh-Hans": "马尔代夫"
+    "zh-Hans": "马尔代夫",
+    "zh-Hant": "馬爾地夫",
+    "ja": "モルディブ",
+    "ko": "몰디브",
+    "de": "Malediven",
+    "fr": "Maldives"
   },
   "sections": []
 }

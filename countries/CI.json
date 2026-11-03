@@ -3,7 +3,12 @@
   "code": "CI",
   "names": {
     "en": "Côte d’Ivoire",
-    "zh-Hans": "科特迪瓦"
+    "zh-Hans": "科特迪瓦",
+    "zh-Hant": "象牙海岸",
+    "ja": "コートジボワール",
+    "ko": "코트디부아르",
+    "de": "Côte d’Ivoire",
+    "fr": "Côte d’Ivoire"
   },
   "sections": []
 }

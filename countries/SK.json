@@ -3,7 +3,12 @@
   "code": "SK",
   "names": {
     "en": "Slovakia",
-    "zh-Hans": "斯洛伐克"
+    "zh-Hans": "斯洛伐克",
+    "zh-Hant": "斯洛伐克",
+    "ja": "スロバキア",
+    "ko": "슬로바키아",
+    "de": "Slowakei",
+    "fr": "Slovaquie"
   },
   "sections": []
 }

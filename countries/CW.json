@@ -3,7 +3,12 @@
   "code": "CW",
   "names": {
     "en": "Curaçao",
-    "zh-Hans": "库拉索"
+    "zh-Hans": "库拉索",
+    "zh-Hant": "庫拉索",
+    "ja": "キュラソー",
+    "ko": "퀴라소",
+    "de": "Curaçao",
+    "fr": "Curaçao"
   },
   "sections": []
 }

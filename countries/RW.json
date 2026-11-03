@@ -3,7 +3,12 @@
   "code": "RW",
   "names": {
     "en": "Rwanda",
-    "zh-Hans": "卢旺达"
+    "zh-Hans": "卢旺达",
+    "zh-Hant": "盧安達",
+    "ja": "ルワンダ",
+    "ko": "르완다",
+    "de": "Ruanda",
+    "fr": "Rwanda"
   },
   "sections": []
 }

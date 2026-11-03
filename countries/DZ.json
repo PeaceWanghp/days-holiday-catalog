@@ -3,7 +3,12 @@
   "code": "DZ",
   "names": {
     "en": "Algeria",
-    "zh-Hans": "阿尔及利亚"
+    "zh-Hans": "阿尔及利亚",
+    "zh-Hant": "阿爾及利亞",
+    "ja": "アルジェリア",
+    "ko": "알제리",
+    "de": "Algerien",
+    "fr": "Algérie"
   },
   "sections": []
 }

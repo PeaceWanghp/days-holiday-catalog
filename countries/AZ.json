@@ -3,7 +3,12 @@
   "code": "AZ",
   "names": {
     "en": "Azerbaijan",
-    "zh-Hans": "阿塞拜疆"
+    "zh-Hans": "阿塞拜疆",
+    "zh-Hant": "亞塞拜然",
+    "ja": "アゼルバイジャン",
+    "ko": "아제르바이잔",
+    "de": "Aserbaidschan",
+    "fr": "Azerbaïdjan"
   },
   "sections": []
 }

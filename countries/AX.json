@@ -3,7 +3,12 @@
   "code": "AX",
   "names": {
     "en": "Åland Islands",
-    "zh-Hans": "奥兰群岛"
+    "zh-Hans": "奥兰群岛",
+    "zh-Hant": "奧蘭群島",
+    "ja": "オーランド諸島",
+    "ko": "올란드 제도",
+    "de": "Ålandinseln",
+    "fr": "Îles Åland"
   },
   "sections": []
 }

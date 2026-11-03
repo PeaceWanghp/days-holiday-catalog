@@ -3,7 +3,12 @@
   "code": "UZ",
   "names": {
     "en": "Uzbekistan",
-    "zh-Hans": "乌兹别克斯坦"
+    "zh-Hans": "乌兹别克斯坦",
+    "zh-Hant": "烏茲別克",
+    "ja": "ウズベキスタン",
+    "ko": "우즈베키스탄",
+    "de": "Usbekistan",
+    "fr": "Ouzbékistan"
   },
   "sections": []
 }

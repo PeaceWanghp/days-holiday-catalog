@@ -3,7 +3,12 @@
   "code": "EE",
   "names": {
     "en": "Estonia",
-    "zh-Hans": "爱沙尼亚"
+    "zh-Hans": "爱沙尼亚",
+    "zh-Hant": "愛沙尼亞",
+    "ja": "エストニア",
+    "ko": "에스토니아",
+    "de": "Estland",
+    "fr": "Estonie"
   },
   "sections": []
 }

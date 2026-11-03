@@ -3,7 +3,12 @@
   "code": "BE",
   "names": {
     "en": "Belgium",
-    "zh-Hans": "比利时"
+    "zh-Hans": "比利时",
+    "zh-Hant": "比利時",
+    "ja": "ベルギー",
+    "ko": "벨기에",
+    "de": "Belgien",
+    "fr": "Belgique"
   },
   "sections": []
 }

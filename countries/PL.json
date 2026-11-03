@@ -3,7 +3,12 @@
   "code": "PL",
   "names": {
     "en": "Poland",
-    "zh-Hans": "波兰"
+    "zh-Hans": "波兰",
+    "zh-Hant": "波蘭",
+    "ja": "ポーランド",
+    "ko": "폴란드",
+    "de": "Polen",
+    "fr": "Pologne"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "ER",
   "names": {
     "en": "Eritrea",
-    "zh-Hans": "厄立特里亚"
+    "zh-Hans": "厄立特里亚",
+    "zh-Hant": "厄利垂亞",
+    "ja": "エリトリア",
+    "ko": "에리트리아",
+    "de": "Eritrea",
+    "fr": "Érythrée"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "SI",
   "names": {
     "en": "Slovenia",
-    "zh-Hans": "斯洛文尼亚"
+    "zh-Hans": "斯洛文尼亚",
+    "zh-Hant": "斯洛維尼亞",
+    "ja": "スロベニア",
+    "ko": "슬로베니아",
+    "de": "Slowenien",
+    "fr": "Slovénie"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "AD",
   "names": {
     "en": "Andorra",
-    "zh-Hans": "安道尔"
+    "zh-Hans": "安道尔",
+    "zh-Hant": "安道爾",
+    "ja": "アンドラ",
+    "ko": "안도라",
+    "de": "Andorra",
+    "fr": "Andorre"
   },
   "sections": []
 }

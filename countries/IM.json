@@ -3,7 +3,12 @@
   "code": "IM",
   "names": {
     "en": "Isle of Man",
-    "zh-Hans": "马恩岛"
+    "zh-Hans": "马恩岛",
+    "zh-Hant": "曼島",
+    "ja": "マン島",
+    "ko": "맨섬",
+    "de": "Isle of Man",
+    "fr": "Île de Man"
   },
   "sections": []
 }

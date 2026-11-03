@@ -3,7 +3,12 @@
   "code": "NF",
   "names": {
     "en": "Norfolk Island",
-    "zh-Hans": "诺福克岛"
+    "zh-Hans": "诺福克岛",
+    "zh-Hant": "諾福克島",
+    "ja": "ノーフォーク島",
+    "ko": "노퍽섬",
+    "de": "Norfolkinsel",
+    "fr": "Île Norfolk"
   },
   "sections": []
 }

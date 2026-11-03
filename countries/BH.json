@@ -3,7 +3,12 @@
   "code": "BH",
   "names": {
     "en": "Bahrain",
-    "zh-Hans": "巴林"
+    "zh-Hans": "巴林",
+    "zh-Hant": "巴林",
+    "ja": "バーレーン",
+    "ko": "바레인",
+    "de": "Bahrain",
+    "fr": "Bahreïn"
   },
   "sections": []
 }

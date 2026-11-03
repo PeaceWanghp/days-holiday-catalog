@@ -3,7 +3,12 @@
   "code": "ET",
   "names": {
     "en": "Ethiopia",
-    "zh-Hans": "埃塞俄比亚"
+    "zh-Hans": "埃塞俄比亚",
+    "zh-Hant": "衣索比亞",
+    "ja": "エチオピア",
+    "ko": "에티오피아",
+    "de": "Äthiopien",
+    "fr": "Éthiopie"
   },
   "sections": []
 }

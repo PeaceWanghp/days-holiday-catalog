@@ -3,7 +3,12 @@
   "code": "VN",
   "names": {
     "en": "Vietnam",
-    "zh-Hans": "越南"
+    "zh-Hans": "越南",
+    "zh-Hant": "越南",
+    "ja": "ベトナム",
+    "ko": "베트남",
+    "de": "Vietnam",
+    "fr": "Viêt Nam"
   },
   "sections": []
 }

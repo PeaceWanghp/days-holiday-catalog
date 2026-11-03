@@ -3,7 +3,12 @@
   "code": "EH",
   "names": {
     "en": "Western Sahara",
-    "zh-Hans": "西撒哈拉"
+    "zh-Hans": "西撒哈拉",
+    "zh-Hant": "西撒哈拉",
+    "ja": "西サハラ",
+    "ko": "서사하라",
+    "de": "Westsahara",
+    "fr": "Sahara occidental"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "CO",
   "names": {
     "en": "Colombia",
-    "zh-Hans": "哥伦比亚"
+    "zh-Hans": "哥伦比亚",
+    "zh-Hant": "哥倫比亞",
+    "ja": "コロンビア",
+    "ko": "콜롬비아",
+    "de": "Kolumbien",
+    "fr": "Colombie"
   },
   "sections": []
 }

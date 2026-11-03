@@ -3,7 +3,12 @@
   "code": "LT",
   "names": {
     "en": "Lithuania",
-    "zh-Hans": "立陶宛"
+    "zh-Hans": "立陶宛",
+    "zh-Hant": "立陶宛",
+    "ja": "リトアニア",
+    "ko": "리투아니아",
+    "de": "Litauen",
+    "fr": "Lituanie"
   },
   "sections": []
 }

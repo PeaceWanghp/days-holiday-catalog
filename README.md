@@ -1,6 +1,6 @@
 # Days Holiday Catalog
 
-自建节日数据源（供「提醒日」App 导入）。主语言为 **English**，并提供 **zh-Hans**；后续可继续追加语言键。
+自建节日数据源（供「提醒日」App 导入）。主语言为 **English**，国家名另提供 **zh-Hans**、**zh-Hant**（台湾繁体）、**ja**、**ko**、**de**、**fr**；后续可继续追加语言键。
 
 ## GitHub 仓库怎么放
 
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>
 {
   "schemaVersion": 1,
   "defaultLanguage": "en",
-  "languages": ["en", "zh-Hans"],
+  "languages": ["en", "zh-Hans", "zh-Hant", "ja", "ko", "de", "fr"],
   "countries": [
     {
       "code": "CN",

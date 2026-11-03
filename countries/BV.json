@@ -3,7 +3,12 @@
   "code": "BV",
   "names": {
     "en": "Bouvet Island",
-    "zh-Hans": "布韦岛"
+    "zh-Hans": "布韦岛",
+    "zh-Hant": "布威島",
+    "ja": "ブーベ島",
+    "ko": "부베섬",
+    "de": "Bouvetinsel",
+    "fr": "Île Bouvet"
   },
   "sections": []
 }

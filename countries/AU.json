@@ -3,7 +3,12 @@
   "code": "AU",
   "names": {
     "en": "Australia",
-    "zh-Hans": "澳大利亚"
+    "zh-Hans": "澳大利亚",
+    "zh-Hant": "澳洲",
+    "ja": "オーストラリア",
+    "ko": "오스트레일리아",
+    "de": "Australien",
+    "fr": "Australie"
   },
   "sections": []
 }

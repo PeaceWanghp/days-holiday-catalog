@@ -3,7 +3,12 @@
   "code": "KZ",
   "names": {
     "en": "Kazakhstan",
-    "zh-Hans": "哈萨克斯坦"
+    "zh-Hans": "哈萨克斯坦",
+    "zh-Hant": "哈薩克",
+    "ja": "カザフスタン",
+    "ko": "카자흐스탄",
+    "de": "Kasachstan",
+    "fr": "Kazakhstan"
   },
   "sections": []
 }

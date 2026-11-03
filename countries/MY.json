@@ -3,7 +3,12 @@
   "code": "MY",
   "names": {
     "en": "Malaysia",
-    "zh-Hans": "马来西亚"
+    "zh-Hans": "马来西亚",
+    "zh-Hant": "馬來西亞",
+    "ja": "マレーシア",
+    "ko": "말레이시아",
+    "de": "Malaysia",
+    "fr": "Malaisie"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "ME",
   "names": {
     "en": "Montenegro",
-    "zh-Hans": "黑山"
+    "zh-Hans": "黑山",
+    "zh-Hant": "蒙特內哥羅",
+    "ja": "モンテネグロ",
+    "ko": "몬테네그로",
+    "de": "Montenegro",
+    "fr": "Monténégro"
   },
   "sections": []
 }

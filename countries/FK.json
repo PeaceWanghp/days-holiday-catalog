@@ -3,7 +3,12 @@
   "code": "FK",
   "names": {
     "en": "Falkland Islands",
-    "zh-Hans": "福克兰群岛"
+    "zh-Hans": "福克兰群岛",
+    "zh-Hant": "福克蘭群島",
+    "ja": "フォークランド諸島",
+    "ko": "포클랜드 제도",
+    "de": "Falklandinseln",
+    "fr": "Îles Malouines"
   },
   "sections": []
 }

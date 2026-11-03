@@ -3,7 +3,12 @@
   "code": "CF",
   "names": {
     "en": "Central African Republic",
-    "zh-Hans": "中非共和国"
+    "zh-Hans": "中非共和国",
+    "zh-Hant": "中非共和國",
+    "ja": "中央アフリカ共和国",
+    "ko": "중앙 아프리카 공화국",
+    "de": "Zentralafrikanische Republik",
+    "fr": "République centrafricaine"
   },
   "sections": []
 }

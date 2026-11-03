@@ -3,7 +3,12 @@
   "code": "TH",
   "names": {
     "en": "Thailand",
-    "zh-Hans": "泰国"
+    "zh-Hans": "泰国",
+    "zh-Hant": "泰國",
+    "ja": "タイ",
+    "ko": "태국",
+    "de": "Thailand",
+    "fr": "Thaïlande"
   },
   "sections": []
 }

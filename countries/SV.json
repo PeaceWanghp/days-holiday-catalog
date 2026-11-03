@@ -3,7 +3,12 @@
   "code": "SV",
   "names": {
     "en": "El Salvador",
-    "zh-Hans": "萨尔瓦多"
+    "zh-Hans": "萨尔瓦多",
+    "zh-Hant": "薩爾瓦多",
+    "ja": "エルサルバドル",
+    "ko": "엘살바도르",
+    "de": "El Salvador",
+    "fr": "Salvador"
   },
   "sections": []
 }

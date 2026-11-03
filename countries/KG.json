@@ -3,7 +3,12 @@
   "code": "KG",
   "names": {
     "en": "Kyrgyzstan",
-    "zh-Hans": "吉尔吉斯斯坦"
+    "zh-Hans": "吉尔吉斯斯坦",
+    "zh-Hant": "吉爾吉斯",
+    "ja": "キルギス",
+    "ko": "키르기스스탄",
+    "de": "Kirgisistan",
+    "fr": "Kirghizstan"
   },
   "sections": []
 }

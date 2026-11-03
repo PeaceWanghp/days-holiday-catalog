@@ -3,7 +3,12 @@
   "code": "VG",
   "names": {
     "en": "British Virgin Islands",
-    "zh-Hans": "英属维尔京群岛"
+    "zh-Hans": "英属维尔京群岛",
+    "zh-Hant": "英屬維京群島",
+    "ja": "英領ヴァージン諸島",
+    "ko": "영국령 버진아일랜드",
+    "de": "Britische Jungferninseln",
+    "fr": "Îles Vierges britanniques"
   },
   "sections": []
 }

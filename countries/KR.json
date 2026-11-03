@@ -3,7 +3,12 @@
   "code": "KR",
   "names": {
     "en": "South Korea",
-    "zh-Hans": "韩国"
+    "zh-Hans": "韩国",
+    "zh-Hant": "南韓",
+    "ja": "韓国",
+    "ko": "대한민국",
+    "de": "Südkorea",
+    "fr": "Corée du Sud"
   },
   "sections": []
 }

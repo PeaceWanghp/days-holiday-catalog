@@ -3,7 +3,12 @@
   "code": "NP",
   "names": {
     "en": "Nepal",
-    "zh-Hans": "尼泊尔"
+    "zh-Hans": "尼泊尔",
+    "zh-Hant": "尼泊爾",
+    "ja": "ネパール",
+    "ko": "네팔",
+    "de": "Nepal",
+    "fr": "Népal"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "NE",
   "names": {
     "en": "Niger",
-    "zh-Hans": "尼日尔"
+    "zh-Hans": "尼日尔",
+    "zh-Hant": "尼日",
+    "ja": "ニジェール",
+    "ko": "니제르",
+    "de": "Niger",
+    "fr": "Niger"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "PG",
   "names": {
     "en": "Papua New Guinea",
-    "zh-Hans": "巴布亚新几内亚"
+    "zh-Hans": "巴布亚新几内亚",
+    "zh-Hant": "巴布亞紐幾內亞",
+    "ja": "パプアニューギニア",
+    "ko": "파푸아뉴기니",
+    "de": "Papua-Neuguinea",
+    "fr": "Papouasie-Nouvelle-Guinée"
   },
   "sections": []
 }

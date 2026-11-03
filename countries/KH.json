@@ -3,7 +3,12 @@
   "code": "KH",
   "names": {
     "en": "Cambodia",
-    "zh-Hans": "柬埔寨"
+    "zh-Hans": "柬埔寨",
+    "zh-Hant": "柬埔寨",
+    "ja": "カンボジア",
+    "ko": "캄보디아",
+    "de": "Kambodscha",
+    "fr": "Cambodge"
   },
   "sections": []
 }

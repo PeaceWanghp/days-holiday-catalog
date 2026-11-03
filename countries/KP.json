@@ -3,7 +3,12 @@
   "code": "KP",
   "names": {
     "en": "North Korea",
-    "zh-Hans": "朝鲜"
+    "zh-Hans": "朝鲜",
+    "zh-Hant": "北韓",
+    "ja": "北朝鮮",
+    "ko": "북한",
+    "de": "Nordkorea",
+    "fr": "Corée du Nord"
   },
   "sections": []
 }

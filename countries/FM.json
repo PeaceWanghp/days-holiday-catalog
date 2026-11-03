@@ -3,7 +3,12 @@
   "code": "FM",
   "names": {
     "en": "Micronesia",
-    "zh-Hans": "密克罗尼西亚"
+    "zh-Hans": "密克罗尼西亚",
+    "zh-Hant": "密克羅尼西亞",
+    "ja": "ミクロネシア連邦",
+    "ko": "미크로네시아",
+    "de": "Mikronesien",
+    "fr": "Micronésie"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "CY",
   "names": {
     "en": "Cyprus",
-    "zh-Hans": "塞浦路斯"
+    "zh-Hans": "塞浦路斯",
+    "zh-Hant": "賽普勒斯",
+    "ja": "キプロス",
+    "ko": "키프로스",
+    "de": "Zypern",
+    "fr": "Chypre"
   },
   "sections": []
 }

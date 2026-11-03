@@ -3,7 +3,12 @@
   "code": "GR",
   "names": {
     "en": "Greece",
-    "zh-Hans": "希腊"
+    "zh-Hans": "希腊",
+    "zh-Hant": "希臘",
+    "ja": "ギリシャ",
+    "ko": "그리스",
+    "de": "Griechenland",
+    "fr": "Grèce"
   },
   "sections": []
 }

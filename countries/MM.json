@@ -3,7 +3,12 @@
   "code": "MM",
   "names": {
     "en": "Myanmar (Burma)",
-    "zh-Hans": "缅甸"
+    "zh-Hans": "缅甸",
+    "zh-Hant": "緬甸",
+    "ja": "ミャンマー (ビルマ)",
+    "ko": "미얀마",
+    "de": "Myanmar",
+    "fr": "Myanmar (Birmanie)"
   },
   "sections": []
 }

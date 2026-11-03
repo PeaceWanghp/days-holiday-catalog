@@ -3,7 +3,12 @@
   "code": "LC",
   "names": {
     "en": "St. Lucia",
-    "zh-Hans": "圣卢西亚"
+    "zh-Hans": "圣卢西亚",
+    "zh-Hant": "聖露西亞",
+    "ja": "セントルシア",
+    "ko": "세인트루시아",
+    "de": "St. Lucia",
+    "fr": "Sainte-Lucie"
   },
   "sections": []
 }

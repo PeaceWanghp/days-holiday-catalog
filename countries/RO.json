@@ -3,7 +3,12 @@
   "code": "RO",
   "names": {
     "en": "Romania",
-    "zh-Hans": "罗马尼亚"
+    "zh-Hans": "罗马尼亚",
+    "zh-Hant": "羅馬尼亞",
+    "ja": "ルーマニア",
+    "ko": "루마니아",
+    "de": "Rumänien",
+    "fr": "Roumanie"
   },
   "sections": []
 }

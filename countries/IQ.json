@@ -3,7 +3,12 @@
   "code": "IQ",
   "names": {
     "en": "Iraq",
-    "zh-Hans": "伊拉克"
+    "zh-Hans": "伊拉克",
+    "zh-Hant": "伊拉克",
+    "ja": "イラク",
+    "ko": "이라크",
+    "de": "Irak",
+    "fr": "Irak"
   },
   "sections": []
 }

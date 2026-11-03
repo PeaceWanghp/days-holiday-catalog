@@ -3,7 +3,12 @@
   "code": "IT",
   "names": {
     "en": "Italy",
-    "zh-Hans": "意大利"
+    "zh-Hans": "意大利",
+    "zh-Hant": "義大利",
+    "ja": "イタリア",
+    "ko": "이탈리아",
+    "de": "Italien",
+    "fr": "Italie"
   },
   "sections": []
 }

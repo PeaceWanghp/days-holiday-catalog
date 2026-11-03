@@ -3,7 +3,12 @@
   "code": "GB",
   "names": {
     "en": "United Kingdom",
-    "zh-Hans": "英国"
+    "zh-Hans": "英国",
+    "zh-Hant": "英國",
+    "ja": "イギリス",
+    "ko": "영국",
+    "de": "Vereinigtes Königreich",
+    "fr": "Royaume-Uni"
   },
   "sections": []
 }

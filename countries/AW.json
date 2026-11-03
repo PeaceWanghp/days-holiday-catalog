@@ -3,7 +3,12 @@
   "code": "AW",
   "names": {
     "en": "Aruba",
-    "zh-Hans": "阿鲁巴"
+    "zh-Hans": "阿鲁巴",
+    "zh-Hant": "荷屬阿魯巴",
+    "ja": "アルバ",
+    "ko": "아루바",
+    "de": "Aruba",
+    "fr": "Aruba"
   },
   "sections": []
 }

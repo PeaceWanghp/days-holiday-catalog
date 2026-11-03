@@ -3,7 +3,12 @@
   "code": "NC",
   "names": {
     "en": "New Caledonia",
-    "zh-Hans": "新喀里多尼亚"
+    "zh-Hans": "新喀里多尼亚",
+    "zh-Hant": "新喀里多尼亞",
+    "ja": "ニューカレドニア",
+    "ko": "뉴칼레도니아",
+    "de": "Neukaledonien",
+    "fr": "Nouvelle-Calédonie"
   },
   "sections": []
 }

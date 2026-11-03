@@ -3,7 +3,12 @@
   "code": "FO",
   "names": {
     "en": "Faroe Islands",
-    "zh-Hans": "法罗群岛"
+    "zh-Hans": "法罗群岛",
+    "zh-Hant": "法羅群島",
+    "ja": "フェロー諸島",
+    "ko": "페로 제도",
+    "de": "Färöer",
+    "fr": "Îles Féroé"
   },
   "sections": []
 }

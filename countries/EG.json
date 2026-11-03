@@ -3,7 +3,12 @@
   "code": "EG",
   "names": {
     "en": "Egypt",
-    "zh-Hans": "埃及"
+    "zh-Hans": "埃及",
+    "zh-Hant": "埃及",
+    "ja": "エジプト",
+    "ko": "이집트",
+    "de": "Ägypten",
+    "fr": "Égypte"
   },
   "sections": []
 }

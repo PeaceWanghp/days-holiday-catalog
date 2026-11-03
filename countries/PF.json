@@ -3,7 +3,12 @@
   "code": "PF",
   "names": {
     "en": "French Polynesia",
-    "zh-Hans": "法属波利尼西亚"
+    "zh-Hans": "法属波利尼西亚",
+    "zh-Hant": "法屬玻里尼西亞",
+    "ja": "仏領ポリネシア",
+    "ko": "프랑스령 폴리네시아",
+    "de": "Französisch-Polynesien",
+    "fr": "Polynésie française"
   },
   "sections": []
 }

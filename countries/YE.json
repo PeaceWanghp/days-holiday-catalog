@@ -3,7 +3,12 @@
   "code": "YE",
   "names": {
     "en": "Yemen",
-    "zh-Hans": "也门"
+    "zh-Hans": "也门",
+    "zh-Hant": "葉門",
+    "ja": "イエメン",
+    "ko": "예멘",
+    "de": "Jemen",
+    "fr": "Yémen"
   },
   "sections": []
 }

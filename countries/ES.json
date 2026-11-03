@@ -3,7 +3,12 @@
   "code": "ES",
   "names": {
     "en": "Spain",
-    "zh-Hans": "西班牙"
+    "zh-Hans": "西班牙",
+    "zh-Hant": "西班牙",
+    "ja": "スペイン",
+    "ko": "스페인",
+    "de": "Spanien",
+    "fr": "Espagne"
   },
   "sections": []
 }

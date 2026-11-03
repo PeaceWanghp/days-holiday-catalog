@@ -3,7 +3,12 @@
   "code": "RU",
   "names": {
     "en": "Russia",
-    "zh-Hans": "俄罗斯"
+    "zh-Hans": "俄罗斯",
+    "zh-Hant": "俄羅斯",
+    "ja": "ロシア",
+    "ko": "러시아",
+    "de": "Russland",
+    "fr": "Russie"
   },
   "sections": []
 }

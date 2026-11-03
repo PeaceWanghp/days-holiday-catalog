@@ -3,7 +3,12 @@
   "code": "GI",
   "names": {
     "en": "Gibraltar",
-    "zh-Hans": "直布罗陀"
+    "zh-Hans": "直布罗陀",
+    "zh-Hant": "直布羅陀",
+    "ja": "ジブラルタル",
+    "ko": "지브롤터",
+    "de": "Gibraltar",
+    "fr": "Gibraltar"
   },
   "sections": []
 }

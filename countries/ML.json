@@ -3,7 +3,12 @@
   "code": "ML",
   "names": {
     "en": "Mali",
-    "zh-Hans": "马里"
+    "zh-Hans": "马里",
+    "zh-Hant": "馬利",
+    "ja": "マリ",
+    "ko": "말리",
+    "de": "Mali",
+    "fr": "Mali"
   },
   "sections": []
 }

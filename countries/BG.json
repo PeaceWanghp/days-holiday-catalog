@@ -3,7 +3,12 @@
   "code": "BG",
   "names": {
     "en": "Bulgaria",
-    "zh-Hans": "保加利亚"
+    "zh-Hans": "保加利亚",
+    "zh-Hant": "保加利亞",
+    "ja": "ブルガリア",
+    "ko": "불가리아",
+    "de": "Bulgarien",
+    "fr": "Bulgarie"
   },
   "sections": []
 }

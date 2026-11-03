@@ -3,7 +3,12 @@
   "code": "IR",
   "names": {
     "en": "Iran",
-    "zh-Hans": "伊朗"
+    "zh-Hans": "伊朗",
+    "zh-Hant": "伊朗",
+    "ja": "イラン",
+    "ko": "이란",
+    "de": "Iran",
+    "fr": "Iran"
   },
   "sections": []
 }

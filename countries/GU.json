@@ -3,7 +3,12 @@
   "code": "GU",
   "names": {
     "en": "Guam",
-    "zh-Hans": "关岛"
+    "zh-Hans": "关岛",
+    "zh-Hant": "關島",
+    "ja": "グアム",
+    "ko": "괌",
+    "de": "Guam",
+    "fr": "Guam"
   },
   "sections": []
 }

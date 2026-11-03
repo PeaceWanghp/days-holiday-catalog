@@ -3,7 +3,12 @@
   "code": "BM",
   "names": {
     "en": "Bermuda",
-    "zh-Hans": "百慕大"
+    "zh-Hans": "百慕大",
+    "zh-Hant": "百慕達",
+    "ja": "バミューダ",
+    "ko": "버뮤다",
+    "de": "Bermuda",
+    "fr": "Bermudes"
   },
   "sections": []
 }

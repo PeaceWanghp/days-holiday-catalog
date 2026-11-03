@@ -3,7 +3,12 @@
   "code": "CU",
   "names": {
     "en": "Cuba",
-    "zh-Hans": "古巴"
+    "zh-Hans": "古巴",
+    "zh-Hant": "古巴",
+    "ja": "キューバ",
+    "ko": "쿠바",
+    "de": "Kuba",
+    "fr": "Cuba"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "CL",
   "names": {
     "en": "Chile",
-    "zh-Hans": "智利"
+    "zh-Hans": "智利",
+    "zh-Hant": "智利",
+    "ja": "チリ",
+    "ko": "칠레",
+    "de": "Chile",
+    "fr": "Chili"
   },
   "sections": []
 }

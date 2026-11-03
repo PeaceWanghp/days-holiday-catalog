@@ -3,7 +3,12 @@
   "code": "TV",
   "names": {
     "en": "Tuvalu",
-    "zh-Hans": "图瓦卢"
+    "zh-Hans": "图瓦卢",
+    "zh-Hant": "吐瓦魯",
+    "ja": "ツバル",
+    "ko": "투발루",
+    "de": "Tuvalu",
+    "fr": "Tuvalu"
   },
   "sections": []
 }

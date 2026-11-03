@@ -3,7 +3,12 @@
   "code": "LK",
   "names": {
     "en": "Sri Lanka",
-    "zh-Hans": "斯里兰卡"
+    "zh-Hans": "斯里兰卡",
+    "zh-Hant": "斯里蘭卡",
+    "ja": "スリランカ",
+    "ko": "스리랑카",
+    "de": "Sri Lanka",
+    "fr": "Sri Lanka"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "CR",
   "names": {
     "en": "Costa Rica",
-    "zh-Hans": "哥斯达黎加"
+    "zh-Hans": "哥斯达黎加",
+    "zh-Hant": "哥斯大黎加",
+    "ja": "コスタリカ",
+    "ko": "코스타리카",
+    "de": "Costa Rica",
+    "fr": "Costa Rica"
   },
   "sections": []
 }

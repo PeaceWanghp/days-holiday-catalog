@@ -3,7 +3,12 @@
   "code": "IO",
   "names": {
     "en": "Chagos Archipelago",
-    "zh-Hans": "查戈斯群岛"
+    "zh-Hans": "查戈斯群岛",
+    "zh-Hant": "查哥斯群島",
+    "ja": "チャゴス諸島",
+    "ko": "차고스 제도",
+    "de": "Chagos-Archipel",
+    "fr": "Archipel des Chagos"
   },
   "sections": []
 }

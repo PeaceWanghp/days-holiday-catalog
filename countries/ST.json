@@ -3,7 +3,12 @@
   "code": "ST",
   "names": {
     "en": "São Tomé & Príncipe",
-    "zh-Hans": "圣多美和普林西比"
+    "zh-Hans": "圣多美和普林西比",
+    "zh-Hant": "聖多美普林西比",
+    "ja": "サントメ・プリンシペ",
+    "ko": "상투메 프린시페",
+    "de": "São Tomé und Príncipe",
+    "fr": "Sao Tomé-et-Principe"
   },
   "sections": []
 }

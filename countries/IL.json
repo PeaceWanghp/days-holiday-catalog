@@ -3,7 +3,12 @@
   "code": "IL",
   "names": {
     "en": "Israel",
-    "zh-Hans": "以色列"
+    "zh-Hans": "以色列",
+    "zh-Hant": "以色列",
+    "ja": "イスラエル",
+    "ko": "이스라엘",
+    "de": "Israel",
+    "fr": "Israël"
   },
   "sections": []
 }

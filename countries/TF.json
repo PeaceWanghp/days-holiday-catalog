@@ -3,7 +3,12 @@
   "code": "TF",
   "names": {
     "en": "French Southern Territories",
-    "zh-Hans": "法属南部领地"
+    "zh-Hans": "法属南部领地",
+    "zh-Hant": "法屬南部屬地",
+    "ja": "仏領極南諸島",
+    "ko": "프랑스령 남방 지역",
+    "de": "Französische Süd- und Antarktisgebiete",
+    "fr": "Terres australes françaises"
   },
   "sections": []
 }

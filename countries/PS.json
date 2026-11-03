@@ -3,7 +3,12 @@
   "code": "PS",
   "names": {
     "en": "Palestine",
-    "zh-Hans": "巴勒斯坦"
+    "zh-Hans": "巴勒斯坦",
+    "zh-Hant": "巴勒斯坦",
+    "ja": "パレスチナ",
+    "ko": "팔레스타인",
+    "de": "Palästina",
+    "fr": "Palestine"
   },
   "sections": []
 }

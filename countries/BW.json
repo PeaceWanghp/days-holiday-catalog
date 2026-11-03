@@ -3,7 +3,12 @@
   "code": "BW",
   "names": {
     "en": "Botswana",
-    "zh-Hans": "博茨瓦纳"
+    "zh-Hans": "博茨瓦纳",
+    "zh-Hant": "波札那",
+    "ja": "ボツワナ",
+    "ko": "보츠와나",
+    "de": "Botsuana",
+    "fr": "Botswana"
   },
   "sections": []
 }

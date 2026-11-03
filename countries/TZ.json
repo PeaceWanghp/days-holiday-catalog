@@ -3,7 +3,12 @@
   "code": "TZ",
   "names": {
     "en": "Tanzania",
-    "zh-Hans": "坦桑尼亚"
+    "zh-Hans": "坦桑尼亚",
+    "zh-Hant": "坦尚尼亞",
+    "ja": "タンザニア",
+    "ko": "탄자니아",
+    "de": "Tansania",
+    "fr": "Tanzanie"
   },
   "sections": []
 }

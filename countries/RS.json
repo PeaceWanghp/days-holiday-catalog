@@ -3,7 +3,12 @@
   "code": "RS",
   "names": {
     "en": "Serbia",
-    "zh-Hans": "塞尔维亚"
+    "zh-Hans": "塞尔维亚",
+    "zh-Hant": "塞爾維亞",
+    "ja": "セルビア",
+    "ko": "세르비아",
+    "de": "Serbien",
+    "fr": "Serbie"
   },
   "sections": []
 }

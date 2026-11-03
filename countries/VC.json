@@ -3,7 +3,12 @@
   "code": "VC",
   "names": {
     "en": "St. Vincent & Grenadines",
-    "zh-Hans": "圣文森特和格林纳丁斯"
+    "zh-Hans": "圣文森特和格林纳丁斯",
+    "zh-Hant": "聖文森及格瑞那丁",
+    "ja": "セントビンセント及びグレナディーン諸島",
+    "ko": "세인트빈센트그레나딘",
+    "de": "St. Vincent und die Grenadinen",
+    "fr": "Saint-Vincent-et-les Grenadines"
   },
   "sections": []
 }

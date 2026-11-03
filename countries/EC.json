@@ -3,7 +3,12 @@
   "code": "EC",
   "names": {
     "en": "Ecuador",
-    "zh-Hans": "厄瓜多尔"
+    "zh-Hans": "厄瓜多尔",
+    "zh-Hant": "厄瓜多",
+    "ja": "エクアドル",
+    "ko": "에콰도르",
+    "de": "Ecuador",
+    "fr": "Équateur"
   },
   "sections": []
 }

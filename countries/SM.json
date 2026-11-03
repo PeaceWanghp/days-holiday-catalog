@@ -3,7 +3,12 @@
   "code": "SM",
   "names": {
     "en": "San Marino",
-    "zh-Hans": "圣马力诺"
+    "zh-Hans": "圣马力诺",
+    "zh-Hant": "聖馬利諾",
+    "ja": "サンマリノ",
+    "ko": "산마리노",
+    "de": "San Marino",
+    "fr": "Saint-Marin"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "ZA",
   "names": {
     "en": "South Africa",
-    "zh-Hans": "南非"
+    "zh-Hans": "南非",
+    "zh-Hant": "南非",
+    "ja": "南アフリカ",
+    "ko": "남아프리카",
+    "de": "Südafrika",
+    "fr": "Afrique du Sud"
   },
   "sections": []
 }

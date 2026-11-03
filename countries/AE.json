@@ -3,7 +3,12 @@
   "code": "AE",
   "names": {
     "en": "United Arab Emirates",
-    "zh-Hans": "阿联酋"
+    "zh-Hans": "阿联酋",
+    "zh-Hant": "阿拉伯聯合大公國",
+    "ja": "アラブ首長国連邦",
+    "ko": "아랍에미리트",
+    "de": "Vereinigte Arabische Emirate",
+    "fr": "Émirats arabes unis"
   },
   "sections": []
 }

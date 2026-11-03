@@ -3,7 +3,12 @@
   "code": "KN",
   "names": {
     "en": "St. Kitts & Nevis",
-    "zh-Hans": "圣基茨和尼维斯"
+    "zh-Hans": "圣基茨和尼维斯",
+    "zh-Hant": "聖克里斯多福及尼維斯",
+    "ja": "セントクリストファー・ネーヴィス",
+    "ko": "세인트키츠 네비스",
+    "de": "St. Kitts und Nevis",
+    "fr": "Saint-Christophe-et-Niévès"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "OM",
   "names": {
     "en": "Oman",
-    "zh-Hans": "阿曼"
+    "zh-Hans": "阿曼",
+    "zh-Hant": "阿曼",
+    "ja": "オマーン",
+    "ko": "오만",
+    "de": "Oman",
+    "fr": "Oman"
   },
   "sections": []
 }

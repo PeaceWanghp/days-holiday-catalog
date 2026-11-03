@@ -3,7 +3,12 @@
   "code": "US",
   "names": {
     "en": "United States",
-    "zh-Hans": "美国"
+    "zh-Hans": "美国",
+    "zh-Hant": "美國",
+    "ja": "アメリカ合衆国",
+    "ko": "미국",
+    "de": "Vereinigte Staaten",
+    "fr": "États-Unis"
   },
   "sections": [
     {

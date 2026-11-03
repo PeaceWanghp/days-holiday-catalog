@@ -3,7 +3,12 @@
   "code": "JP",
   "names": {
     "en": "Japan",
-    "zh-Hans": "日本"
+    "zh-Hans": "日本",
+    "zh-Hant": "日本",
+    "ja": "日本",
+    "ko": "일본",
+    "de": "Japan",
+    "fr": "Japon"
   },
   "sections": [
     {

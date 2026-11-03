@@ -3,7 +3,12 @@
   "code": "HT",
   "names": {
     "en": "Haiti",
-    "zh-Hans": "海地"
+    "zh-Hans": "海地",
+    "zh-Hant": "海地",
+    "ja": "ハイチ",
+    "ko": "아이티",
+    "de": "Haiti",
+    "fr": "Haïti"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "NO",
   "names": {
     "en": "Norway",
-    "zh-Hans": "挪威"
+    "zh-Hans": "挪威",
+    "zh-Hant": "挪威",
+    "ja": "ノルウェー",
+    "ko": "노르웨이",
+    "de": "Norwegen",
+    "fr": "Norvège"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "CX",
   "names": {
     "en": "Christmas Island",
-    "zh-Hans": "圣诞岛"
+    "zh-Hans": "圣诞岛",
+    "zh-Hant": "聖誕島",
+    "ja": "クリスマス島",
+    "ko": "크리스마스섬",
+    "de": "Weihnachtsinsel",
+    "fr": "Île Christmas"
   },
   "sections": []
 }

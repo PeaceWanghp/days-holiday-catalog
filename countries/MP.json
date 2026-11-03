@@ -3,7 +3,12 @@
   "code": "MP",
   "names": {
     "en": "Northern Mariana Islands",
-    "zh-Hans": "北马里亚纳群岛"
+    "zh-Hans": "北马里亚纳群岛",
+    "zh-Hant": "北馬利安納群島",
+    "ja": "北マリアナ諸島",
+    "ko": "북마리아나제도",
+    "de": "Nördliche Marianen",
+    "fr": "Îles Mariannes du Nord"
   },
   "sections": []
 }

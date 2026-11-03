@@ -3,7 +3,12 @@
   "code": "LS",
   "names": {
     "en": "Lesotho",
-    "zh-Hans": "莱索托"
+    "zh-Hans": "莱索托",
+    "zh-Hant": "賴索托",
+    "ja": "レソト",
+    "ko": "레소토",
+    "de": "Lesotho",
+    "fr": "Lesotho"
   },
   "sections": []
 }

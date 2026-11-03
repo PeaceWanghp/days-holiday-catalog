@@ -3,7 +3,12 @@
   "code": "SY",
   "names": {
     "en": "Syria",
-    "zh-Hans": "叙利亚"
+    "zh-Hans": "叙利亚",
+    "zh-Hant": "敘利亞",
+    "ja": "シリア",
+    "ko": "시리아",
+    "de": "Syrien",
+    "fr": "Syrie"
   },
   "sections": []
 }

@@ -3,7 +3,12 @@
   "code": "MT",
   "names": {
     "en": "Malta",
-    "zh-Hans": "马耳他"
+    "zh-Hans": "马耳他",
+    "zh-Hant": "馬爾他",
+    "ja": "マルタ",
+    "ko": "몰타",
+    "de": "Malta",
+    "fr": "Malte"
   },
   "sections": []
 }

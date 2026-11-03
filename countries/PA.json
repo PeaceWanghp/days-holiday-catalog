@@ -3,7 +3,12 @@
   "code": "PA",
   "names": {
     "en": "Panama",
-    "zh-Hans": "巴拿马"
+    "zh-Hans": "巴拿马",
+    "zh-Hant": "巴拿馬",
+    "ja": "パナマ",
+    "ko": "파나마",
+    "de": "Panama",
+    "fr": "Panama"
   },
   "sections": []
 }

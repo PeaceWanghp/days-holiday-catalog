@@ -3,7 +3,12 @@
   "code": "CG",
   "names": {
     "en": "Congo - Brazzaville",
-    "zh-Hans": "刚果（布）"
+    "zh-Hans": "刚果（布）",
+    "zh-Hant": "剛果（布拉薩）",
+    "ja": "コンゴ共和国(ブラザビル)",
+    "ko": "콩고-브라자빌",
+    "de": "Kongo-Brazzaville",
+    "fr": "Congo-Brazzaville"
   },
   "sections": []
 }

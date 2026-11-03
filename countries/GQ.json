@@ -3,7 +3,12 @@
   "code": "GQ",
   "names": {
     "en": "Equatorial Guinea",
-    "zh-Hans": "赤道几内亚"
+    "zh-Hans": "赤道几内亚",
+    "zh-Hant": "赤道幾內亞",
+    "ja": "赤道ギニア",
+    "ko": "적도 기니",
+    "de": "Äquatorialguinea",
+    "fr": "Guinée équatoriale"
   },
   "sections": []
 }
