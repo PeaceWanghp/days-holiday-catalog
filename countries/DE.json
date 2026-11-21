@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "code": "DE",
+  "names": {
+    "en": "Germany",
+    "zh-Hans": "德国",
+    "zh-Hant": "德國",
+    "ja": "ドイツ",
+    "ko": "독일",
+    "de": "Deutschland",
+    "fr": "Allemagne"
+  },
+  "sections": [
+    {
+      "id": "festival",
+      "names": {
+        "en": "Holidays",
+        "zh-Hans": "节日",
+        "zh-Hant": "節日",
+        "ja": "祝日",
+        "ko": "공휴일",
+        "de": "Feiertage",
+        "fr": "Jours fériés"
+      },
+      "items": [
+        {
+          "id": "de-new-year",
+          "names": {
+            "en": "New Year's Day",
+            "zh-Hans": "元旦",
+            "zh-Hant": "元旦",
+            "ja": "元日",
+            "ko": "신정",
+            "de": "Neujahr",
+            "fr": "Jour de l'an"
+          },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "de-rose-monday",
+          "names": {
+            "en": "Rose Monday",
+            "zh-Hans": "玫瑰星期一",
+            "zh-Hant": "玫瑰星期一",
+            "ja": "ローズモンターク",
+            "ko": "로젠몬탁",
+            "de": "Rosenmontag",
+            "fr": "Lundi des Roses"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 2,
+            "dayOffset": -48
+          }
+        },
+        {
+          "id": "de-valentines-day",
+          "names": {
+            "en": "Valentine's Day",
+            "zh-Hans": "情人节",
+            "zh-Hant": "情人節",
+            "ja": "バレンタインデー",
+            "ko": "발렌타인데이",
+            "de": "Valentinstag",
+            "fr": "Saint-Valentin"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "day": 14,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "de-good-friday",
+          "names": {
+            "en": "Good Friday",
+            "zh-Hans": "耶稣受难日",
+            "zh-Hant": "耶穌受難日",
+            "ja": "聖金曜日",
+            "ko": "성금요일",
+            "de": "Karfreitag",
+            "fr": "Vendredi saint"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3,
+            "dayOffset": -2
+          }
+        },
+        {
+          "id": "de-easter",
+          "names": {
+            "en": "Easter",
+            "zh-Hans": "复活节",
+            "zh-Hant": "復活節",
+            "ja": "イースター",
+            "ko": "부활절",
+            "de": "Ostern",
+            "fr": "Pâques"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3
+          }
+        },
+        {
+          "id": "de-easter-monday",
+          "names": {
+            "en": "Easter Monday",
+            "zh-Hans": "复活节星期一",
+            "zh-Hant": "復活節星期一",
+            "ja": "イースターマンデー",
+            "ko": "부활절 월요일",
+            "de": "Ostermontag",
+            "fr": "Lundi de Pâques"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3,
+            "dayOffset": 1
+          }
+        },
+        {
+          "id": "de-labour-day",
+          "names": {
+            "en": "Labour Day",
+            "zh-Hans": "劳动节",
+            "zh-Hant": "勞動節",
+            "ja": "メーデー",
+            "ko": "노동절",
+            "de": "Tag der Arbeit",
+            "fr": "Fête du Travail"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "de-ascension",
+          "names": {
+            "en": "Ascension Day",
+            "zh-Hans": "耶稣升天节",
+            "zh-Hant": "耶穌升天節",
+            "ja": "キリストの昇天",
+            "ko": "예수 승천일",
+            "de": "Christi Himmelfahrt",
+            "fr": "Ascension"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 5,
+            "dayOffset": 39
+          }
+        },
+        {
+          "id": "de-mothers-day",
+          "names": {
+            "en": "Mother's Day",
+            "zh-Hans": "母亲节",
+            "zh-Hant": "母親節",
+            "ja": "母の日",
+            "ko": "어머니날",
+            "de": "Muttertag",
+            "fr": "Fête des Mères"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 5,
+            "weekday": "sunday",
+            "nth": 2
+          }
+        },
+        {
+          "id": "de-pentecost",
+          "names": {
+            "en": "Pentecost",
+            "zh-Hans": "圣灵降临节",
+            "zh-Hant": "聖靈降臨節",
+            "ja": "聖霊降臨祭",
+            "ko": "성령강림절",
+            "de": "Pfingsten",
+            "fr": "Pentecôte"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 5,
+            "dayOffset": 49
+          }
+        },
+        {
+          "id": "de-whit-monday",
+          "names": {
+            "en": "Whit Monday",
+            "zh-Hans": "圣灵降临节星期一",
+            "zh-Hant": "聖靈降臨節星期一",
+            "ja": "聖霊降臨祭の月曜日",
+            "ko": "성령강림절 월요일",
+            "de": "Pfingstmontag",
+            "fr": "Lundi de Pentecôte"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 5,
+            "dayOffset": 50
+          }
+        },
+        {
+          "id": "de-unity-day",
+          "names": {
+            "en": "German Unity Day",
+            "zh-Hans": "德国统一日",
+            "zh-Hant": "德國統一日",
+            "ja": "ドイツ統一の日",
+            "ko": "독일 통일의 날",
+            "de": "Tag der Deutschen Einheit",
+            "fr": "Jour de l'Unité allemande"
+          },
+          "calendar": "gregorian",
+          "month": 10,
+          "day": 3,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "de-st-nicholas",
+          "names": {
+            "en": "St. Nicholas Day",
+            "zh-Hans": "圣尼古拉节",
+            "zh-Hant": "聖尼古拉節",
+            "ja": "聖ニコラウスの日",
+            "ko": "성 니콜라우스 축일",
+            "de": "Nikolaustag",
+            "fr": "Saint-Nicolas"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 6,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "de-christmas-eve",
+          "names": {
+            "en": "Christmas Eve",
+            "zh-Hans": "平安夜",
+            "zh-Hant": "平安夜",
+            "ja": "クリスマスイブ",
+            "ko": "크리스마스 이브",
+            "de": "Heiligabend",
+            "fr": "Réveillon de Noël"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 24,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "de-christmas",
+          "names": {
+            "en": "Christmas Day",
+            "zh-Hans": "圣诞节",
+            "zh-Hant": "聖誕節",
+            "ja": "クリスマス",
+            "ko": "크리스마스",
+            "de": "Erster Weihnachtstag",
+            "fr": "Noël"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 25,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "de-second-christmas-day",
+          "names": {
+            "en": "Second Christmas Day",
+            "zh-Hans": "圣诞节次日",
+            "zh-Hant": "聖誕節次日",
+            "ja": "クリスマスの翌日",
+            "ko": "크리스마스 다음 날",
+            "de": "Zweiter Weihnachtstag",
+            "fr": "Deuxième jour de Noël"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 26,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "de-new-years-eve",
+          "names": {
+            "en": "New Year's Eve",
+            "zh-Hans": "跨年夜",
+            "zh-Hant": "跨年夜",
+            "ja": "大晦日",
+            "ko": "새해 전야",
+            "de": "Silvester",
+            "fr": "Réveillon du Nouvel An"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 31,
+          "recurrence": "yearly"
+        }
+      ]
+    }
+  ]
+}

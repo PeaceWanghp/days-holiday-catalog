@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 9,
+  "version": 10,
   "defaultLanguage": "en",
   "languages": [
     "en",
@@ -95,6 +95,23 @@
       "file": "countries/GB.json",
       "regionHints": [
         "GB"
+      ]
+    },
+    {
+      "code": "DE",
+      "hasData": true,
+      "names": {
+        "en": "Germany",
+        "zh-Hans": "德国",
+        "zh-Hant": "德國",
+        "ja": "ドイツ",
+        "ko": "독일",
+        "de": "Deutschland",
+        "fr": "Allemagne"
+      },
+      "file": "countries/DE.json",
+      "regionHints": [
+        "DE"
       ]
     }
   ]
