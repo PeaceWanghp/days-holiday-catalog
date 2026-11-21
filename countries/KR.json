@@ -1,0 +1,336 @@
+{
+  "schemaVersion": 1,
+  "code": "KR",
+  "names": {
+    "en": "South Korea",
+    "zh-Hans": "韩国",
+    "zh-Hant": "韓國",
+    "ja": "韓国",
+    "ko": "한국",
+    "de": "Südkorea",
+    "fr": "Corée du Sud"
+  },
+  "sections": [
+    {
+      "id": "festival",
+      "names": {
+        "en": "Holidays",
+        "zh-Hans": "节日",
+        "zh-Hant": "節日",
+        "ja": "祝日",
+        "ko": "명절",
+        "de": "Feiertage",
+        "fr": "Jours fériés"
+      },
+      "items": [
+        {
+          "id": "kr-seollal",
+          "names": {
+            "en": "Seollal",
+            "zh-Hans": "春节",
+            "zh-Hant": "春節",
+            "ja": "ソルラル",
+            "ko": "설날",
+            "de": "Seollal",
+            "fr": "Seollal"
+          },
+          "calendar": "lunar",
+          "month": 1,
+          "day": 1,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-daeboreum",
+          "names": {
+            "en": "First Full Moon",
+            "zh-Hans": "元宵节",
+            "zh-Hant": "元宵節",
+            "ja": "小正月",
+            "ko": "정월대보름",
+            "de": "Erstes Vollmondfest",
+            "fr": "Fête de la première pleine lune"
+          },
+          "calendar": "lunar",
+          "month": 1,
+          "day": 15,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-buddhas-birthday",
+          "names": {
+            "en": "Buddha's Birthday",
+            "zh-Hans": "佛诞",
+            "zh-Hant": "佛誕",
+            "ja": "仏誕",
+            "ko": "부처님오신날",
+            "de": "Buddhas Geburtstag",
+            "fr": "Anniversaire de Bouddha"
+          },
+          "calendar": "lunar",
+          "month": 4,
+          "day": 8,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-dano",
+          "names": {
+            "en": "Dano",
+            "zh-Hans": "端午",
+            "zh-Hant": "端午",
+            "ja": "端午",
+            "ko": "단오",
+            "de": "Dano",
+            "fr": "Dano"
+          },
+          "calendar": "lunar",
+          "month": 5,
+          "day": 5,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-chuseok",
+          "names": {
+            "en": "Chuseok",
+            "zh-Hans": "秋夕",
+            "zh-Hant": "秋夕",
+            "ja": "秋夕",
+            "ko": "추석",
+            "de": "Chuseok",
+            "fr": "Chuseok"
+          },
+          "calendar": "lunar",
+          "month": 8,
+          "day": 15,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-new-year",
+          "names": {
+            "en": "New Year's Day",
+            "zh-Hans": "元旦",
+            "zh-Hant": "元旦",
+            "ja": "元日",
+            "ko": "신정",
+            "de": "Neujahr",
+            "fr": "Jour de l'an"
+          },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-independence-movement",
+          "names": {
+            "en": "Independence Movement Day",
+            "zh-Hans": "三一节",
+            "zh-Hant": "三一節",
+            "ja": "三・一節",
+            "ko": "삼일절",
+            "de": "Tag der Unabhängigkeitsbewegung",
+            "fr": "Jour du mouvement du 1er mars"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-hansik",
+          "names": {
+            "en": "Hansik",
+            "zh-Hans": "寒食",
+            "zh-Hant": "寒食",
+            "ja": "寒食",
+            "ko": "한식",
+            "de": "Hansik",
+            "fr": "Hansik"
+          },
+          "calendar": "gregorian",
+          "month": 4,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "yearMod100Linear",
+            "month": 4,
+            "factor": 0.2422,
+            "ranges": [
+              { "from": 1901, "to": 1979, "constant": 6.41 },
+              { "from": 1980, "to": 2000, "constant": 6.45 },
+              { "from": 2001, "to": 2099, "constant": 5.72 }
+            ],
+            "exceptions": [
+              { "year": 1956, "day": 6 },
+              { "year": 2000, "day": 5 },
+              { "year": 2096, "day": 5 }
+            ]
+          }
+        },
+        {
+          "id": "kr-labor-day",
+          "names": {
+            "en": "Labor Day",
+            "zh-Hans": "劳动节",
+            "zh-Hant": "勞動節",
+            "ja": "労働者の日",
+            "ko": "근로자의 날",
+            "de": "Tag der Arbeit",
+            "fr": "Fête du Travail"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-childrens-day",
+          "names": {
+            "en": "Children's Day",
+            "zh-Hans": "儿童节",
+            "zh-Hant": "兒童節",
+            "ja": "こどもの日",
+            "ko": "어린이날",
+            "de": "Kindertag",
+            "fr": "Jour des enfants"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "day": 5,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-parents-day",
+          "names": {
+            "en": "Parents' Day",
+            "zh-Hans": "父母节",
+            "zh-Hant": "父母節",
+            "ja": "親の日",
+            "ko": "어버이날",
+            "de": "Elterntag",
+            "fr": "Fête des parents"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "day": 8,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-teachers-day",
+          "names": {
+            "en": "Teachers' Day",
+            "zh-Hans": "教师节",
+            "zh-Hant": "教師節",
+            "ja": "先生の日",
+            "ko": "스승의 날",
+            "de": "Lehrertag",
+            "fr": "Journée des enseignants"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "day": 15,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-memorial-day",
+          "names": {
+            "en": "Memorial Day",
+            "zh-Hans": "显忠日",
+            "zh-Hant": "顯忠日",
+            "ja": "顕忠日",
+            "ko": "현충일",
+            "de": "Gedenktag",
+            "fr": "Jour du souvenir"
+          },
+          "calendar": "gregorian",
+          "month": 6,
+          "day": 6,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-constitution-day",
+          "names": {
+            "en": "Constitution Day",
+            "zh-Hans": "制宪节",
+            "zh-Hant": "制憲節",
+            "ja": "制憲節",
+            "ko": "제헌절",
+            "de": "Verfassungstag",
+            "fr": "Jour de la Constitution"
+          },
+          "calendar": "gregorian",
+          "month": 7,
+          "day": 17,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-liberation-day",
+          "names": {
+            "en": "Liberation Day",
+            "zh-Hans": "光复节",
+            "zh-Hant": "光復節",
+            "ja": "光復節",
+            "ko": "광복절",
+            "de": "Tag der Befreiung",
+            "fr": "Jour de la libération"
+          },
+          "calendar": "gregorian",
+          "month": 8,
+          "day": 15,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-foundation-day",
+          "names": {
+            "en": "National Foundation Day",
+            "zh-Hans": "开天节",
+            "zh-Hant": "開天節",
+            "ja": "開天節",
+            "ko": "개천절",
+            "de": "Nationaler Gründungstag",
+            "fr": "Jour de la fondation nationale"
+          },
+          "calendar": "gregorian",
+          "month": 10,
+          "day": 3,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-hangul-day",
+          "names": {
+            "en": "Hangul Day",
+            "zh-Hans": "韩文日",
+            "zh-Hant": "韓文日",
+            "ja": "ハングルの日",
+            "ko": "한글날",
+            "de": "Hangul-Tag",
+            "fr": "Jour du hangeul"
+          },
+          "calendar": "gregorian",
+          "month": 10,
+          "day": 9,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "kr-christmas",
+          "names": {
+            "en": "Christmas",
+            "zh-Hans": "圣诞节",
+            "zh-Hant": "聖誕節",
+            "ja": "クリスマス",
+            "ko": "성탄절",
+            "de": "Weihnachten",
+            "fr": "Noël"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 25,
+          "recurrence": "yearly"
+        }
+      ]
+    }
+  ]
+}

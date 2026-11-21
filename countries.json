@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 7,
+  "version": 8,
   "defaultLanguage": "en",
   "languages": [
     "en",
@@ -44,6 +44,23 @@
       "file": "countries/JP.json",
       "regionHints": [
         "JP"
+      ]
+    },
+    {
+      "code": "KR",
+      "hasData": true,
+      "names": {
+        "en": "South Korea",
+        "zh-Hans": "韩国",
+        "zh-Hant": "韓國",
+        "ja": "韓国",
+        "ko": "한국",
+        "de": "Südkorea",
+        "fr": "Corée du Sud"
+      },
+      "file": "countries/KR.json",
+      "regionHints": [
+        "KR"
       ]
     },
     {
