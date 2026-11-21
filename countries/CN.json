@@ -24,74 +24,6 @@
       },
       "items": [
         {
-          "id": "cn-laba",
-          "names": {
-            "en": "Laba Festival",
-            "zh-Hans": "腊八节",
-            "zh-Hant": "臘八節",
-            "ja": "臘八節",
-            "ko": "납팔절",
-            "de": "Laba-Fest",
-            "fr": "Fête de Laba"
-          },
-          "calendar": "lunar",
-          "month": 12,
-          "day": 8,
-          "leapMonth": false,
-          "recurrence": "yearly"
-        },
-        {
-          "id": "cn-little-new-year-north",
-          "names": {
-            "en": "Little New Year (North)",
-            "zh-Hans": "北方小年",
-            "zh-Hant": "北方小年",
-            "ja": "北方の小年",
-            "ko": "북방 소한",
-            "de": "Kleines Neujahr (Norden)",
-            "fr": "Petit Nouvel An (nord)"
-          },
-          "calendar": "lunar",
-          "month": 12,
-          "day": 23,
-          "leapMonth": false,
-          "recurrence": "yearly"
-        },
-        {
-          "id": "cn-little-new-year-south",
-          "names": {
-            "en": "Little New Year (South)",
-            "zh-Hans": "南方小年",
-            "zh-Hant": "南方小年",
-            "ja": "南方の小年",
-            "ko": "남방 소한",
-            "de": "Kleines Neujahr (Süden)",
-            "fr": "Petit Nouvel An (sud)"
-          },
-          "calendar": "lunar",
-          "month": 12,
-          "day": 24,
-          "leapMonth": false,
-          "recurrence": "yearly"
-        },
-        {
-          "id": "cn-new-years-eve",
-          "names": {
-            "en": "Chinese New Year's Eve",
-            "zh-Hans": "除夕",
-            "zh-Hant": "除夕",
-            "ja": "除夕",
-            "ko": "제석",
-            "de": "Chinesischer Neujahrsabend",
-            "fr": "Réveillon du Nouvel An chinois"
-          },
-          "calendar": "lunar",
-          "month": 12,
-          "lastDay": true,
-          "leapMonth": false,
-          "recurrence": "yearly"
-        },
-        {
           "id": "cn-spring-festival",
           "names": {
             "en": "Spring Festival",
@@ -192,62 +124,6 @@
           "day": 3,
           "leapMonth": false,
           "recurrence": "yearly"
-        },
-        {
-          "id": "cn-cold-food",
-          "names": {
-            "en": "Cold Food Festival",
-            "zh-Hans": "寒食节",
-            "zh-Hant": "寒食節",
-            "ja": "寒食節",
-            "ko": "한식",
-            "de": "Kaltspeisenfest",
-            "fr": "Fête des Aliments froids"
-          },
-          "calendar": "gregorian",
-          "month": 4,
-          "recurrence": "yearly",
-          "dateRule": {
-            "kind": "yearMod100Linear",
-            "month": 4,
-            "factor": 0.2422,
-            "dayOffset": -1,
-            "ranges": [
-              { "from": 1901, "to": 2000, "constant": 5.59 },
-              { "from": 2001, "to": 2099, "constant": 4.81 }
-            ],
-            "exceptions": [
-              { "year": 2000, "day": 4 }
-            ]
-          }
-        },
-        {
-          "id": "cn-qingming-festival",
-          "names": {
-            "en": "Qingming Festival",
-            "zh-Hans": "清明节",
-            "zh-Hant": "清明節",
-            "ja": "清明節",
-            "ko": "청명절",
-            "de": "Qingming-Fest",
-            "fr": "Fête de Qingming"
-          },
-          "calendar": "gregorian",
-          "month": 4,
-          "day": 5,
-          "recurrence": "yearly",
-          "dateRule": {
-            "kind": "yearMod100Linear",
-            "month": 4,
-            "factor": 0.2422,
-            "ranges": [
-              { "from": 1901, "to": 2000, "constant": 5.59 },
-              { "from": 2001, "to": 2099, "constant": 4.81 }
-            ],
-            "exceptions": [
-              { "year": 2000, "day": 4 }
-            ]
-          }
         },
         {
           "id": "cn-buddha-birthday",
@@ -386,33 +262,72 @@
           "recurrence": "yearly"
         },
         {
-          "id": "cn-dongzhi-festival",
+          "id": "cn-laba",
           "names": {
-            "en": "Dongzhi Festival",
-            "zh-Hans": "冬至",
-            "zh-Hant": "冬至",
-            "ja": "冬至",
-            "ko": "동지",
-            "de": "Dongzhi-Fest",
-            "fr": "Fête de Dongzhi"
+            "en": "Laba Festival",
+            "zh-Hans": "腊八节",
+            "zh-Hant": "臘八節",
+            "ja": "臘八節",
+            "ko": "납팔절",
+            "de": "Laba-Fest",
+            "fr": "Fête de Laba"
           },
-          "calendar": "gregorian",
+          "calendar": "lunar",
           "month": 12,
-          "recurrence": "yearly",
-          "dateRule": {
-            "kind": "yearMod100Linear",
-            "month": 12,
-            "factor": 0.2422,
-            "ranges": [
-              { "from": 1901, "to": 2000, "constant": 22.66 },
-              { "from": 2001, "to": 2099, "constant": 21.93 }
-            ],
-            "exceptions": [
-              { "year": 1918, "day": 22 },
-              { "year": 2000, "day": 21 },
-              { "year": 2021, "day": 21 }
-            ]
-          }
+          "day": 8,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-little-new-year-north",
+          "names": {
+            "en": "Little New Year (North)",
+            "zh-Hans": "北方小年",
+            "zh-Hant": "北方小年",
+            "ja": "北方の小年",
+            "ko": "북방 소한",
+            "de": "Kleines Neujahr (Norden)",
+            "fr": "Petit Nouvel An (nord)"
+          },
+          "calendar": "lunar",
+          "month": 12,
+          "day": 23,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-little-new-year-south",
+          "names": {
+            "en": "Little New Year (South)",
+            "zh-Hans": "南方小年",
+            "zh-Hant": "南方小年",
+            "ja": "南方の小年",
+            "ko": "남방 소한",
+            "de": "Kleines Neujahr (Süden)",
+            "fr": "Petit Nouvel An (sud)"
+          },
+          "calendar": "lunar",
+          "month": 12,
+          "day": 24,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-new-years-eve",
+          "names": {
+            "en": "Chinese New Year's Eve",
+            "zh-Hans": "除夕",
+            "zh-Hant": "除夕",
+            "ja": "除夕",
+            "ko": "제석",
+            "de": "Chinesischer Neujahrsabend",
+            "fr": "Réveillon du Nouvel An chinois"
+          },
+          "calendar": "lunar",
+          "month": 12,
+          "lastDay": true,
+          "leapMonth": false,
+          "recurrence": "yearly"
         },
         {
           "id": "cn-new-year",
@@ -509,6 +424,84 @@
           "month": 3,
           "day": 15,
           "recurrence": "yearly"
+        },
+        {
+          "id": "cn-cold-food",
+          "names": {
+            "en": "Cold Food Festival",
+            "zh-Hans": "寒食节",
+            "zh-Hant": "寒食節",
+            "ja": "寒食節",
+            "ko": "한식",
+            "de": "Kaltspeisenfest",
+            "fr": "Fête des Aliments froids"
+          },
+          "calendar": "gregorian",
+          "month": 4,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "yearMod100Linear",
+            "month": 4,
+            "factor": 0.2422,
+            "dayOffset": -1,
+            "ranges": [
+              {
+                "from": 1901,
+                "to": 2000,
+                "constant": 5.59
+              },
+              {
+                "from": 2001,
+                "to": 2099,
+                "constant": 4.81
+              }
+            ],
+            "exceptions": [
+              {
+                "year": 2000,
+                "day": 4
+              }
+            ]
+          }
+        },
+        {
+          "id": "cn-qingming-festival",
+          "names": {
+            "en": "Qingming Festival",
+            "zh-Hans": "清明节",
+            "zh-Hant": "清明節",
+            "ja": "清明節",
+            "ko": "청명절",
+            "de": "Qingming-Fest",
+            "fr": "Fête de Qingming"
+          },
+          "calendar": "gregorian",
+          "month": 4,
+          "day": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "yearMod100Linear",
+            "month": 4,
+            "factor": 0.2422,
+            "ranges": [
+              {
+                "from": 1901,
+                "to": 2000,
+                "constant": 5.59
+              },
+              {
+                "from": 2001,
+                "to": 2099,
+                "constant": 4.81
+              }
+            ],
+            "exceptions": [
+              {
+                "year": 2000,
+                "day": 4
+              }
+            ]
+          }
         },
         {
           "id": "cn-national-security-day",
@@ -747,8 +740,16 @@
             "month": 9,
             "factor": 0.2422,
             "ranges": [
-              { "from": 1901, "to": 2000, "constant": 23.83 },
-              { "from": 2001, "to": 2099, "constant": 23.04 }
+              {
+                "from": 1901,
+                "to": 2000,
+                "constant": 23.83
+              },
+              {
+                "from": 2001,
+                "to": 2099,
+                "constant": 23.04
+              }
             ]
           }
         },
@@ -831,6 +832,52 @@
           "month": 12,
           "day": 13,
           "recurrence": "yearly"
+        },
+        {
+          "id": "cn-dongzhi-festival",
+          "names": {
+            "en": "Dongzhi Festival",
+            "zh-Hans": "冬至",
+            "zh-Hant": "冬至",
+            "ja": "冬至",
+            "ko": "동지",
+            "de": "Dongzhi-Fest",
+            "fr": "Fête de Dongzhi"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "yearMod100Linear",
+            "month": 12,
+            "factor": 0.2422,
+            "ranges": [
+              {
+                "from": 1901,
+                "to": 2000,
+                "constant": 22.66
+              },
+              {
+                "from": 2001,
+                "to": 2099,
+                "constant": 21.93
+              }
+            ],
+            "exceptions": [
+              {
+                "year": 1918,
+                "day": 22
+              },
+              {
+                "year": 2000,
+                "day": 21
+              },
+              {
+                "year": 2021,
+                "day": 21
+              }
+            ]
+          }
         }
       ]
     }
