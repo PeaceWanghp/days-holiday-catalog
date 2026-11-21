@@ -116,17 +116,21 @@ App **只显示数据里存在的 section**；不同国家 section 数量可以�
 | `leapMonth` | 可选，农历是否闰月，默认 `false` |
 | `recurrence` | `yearly` 或 `none` |
 | `date` | 可选，一次性公历 `YYYY-MM-DD`（`recurrence: none`） |
-| `dateRule` | 可选。按年计算公历日，优先于固定 `month`/`day` |
+| `dateRule` | 可选。公历日期不固定时使用，优先于固定 `month`/`day` |
 
-`dateRule.kind` 为 `yearMod100Linear` 时，设 `Y` 为年份后两位：
+公历不固定的日期只用两种 `dateRule.kind`：
+
+`yearMod100Linear`：设 `Y` 为年份后两位，
 
 ```text
 日 = ⌊Y × factor + constant⌋ − ⌊Y / 4⌋
 ```
 
-`ranges` 按公历年选择 `constant`，`exceptions` 覆盖个别年份。月份用 `dateRule.month`。清明在 1901–2099 年用该式，常数 20 世纪为 5.59、21 世纪为 4.81；2000 年公式会得到 5 日，例外定为 4 月 4 日。
+`ranges` 按公历年选择 `constant`，`exceptions` 替换公式结果，然后再加 `dayOffset`（默认 0）。月份用 `dateRule.month`。清明、冬至、秋分（农民丰收节）都用这条式子，只是常数不同。寒食是清明的前一天，`dayOffset` 为 `-1`，例外仍写清明当天。
 
-农历条目由 App 转成**下一次**公历日再写入提醒日；公历 `yearly` 使用年循环。带 `dateRule` 的条目每年按规则重算。
+`nthWeekday`：该月的第 `nth` 个 `weekday`。`weekday` 取 `sunday` 到 `saturday`，`nth` 为 1–5。母亲节是 5 月第二个星期日，父亲节是 6 月第三个星期日。
+
+农历节日按农历月日显示；除夕用 `lastDay`，表示腊月最后一天。带 `dateRule` 的条目每年按规则重算。
 
 ## 维护建议
 

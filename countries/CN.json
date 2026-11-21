@@ -206,8 +206,20 @@
           },
           "calendar": "gregorian",
           "month": 4,
-          "day": 4,
-          "recurrence": "yearly"
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "yearMod100Linear",
+            "month": 4,
+            "factor": 0.2422,
+            "dayOffset": -1,
+            "ranges": [
+              { "from": 1901, "to": 2000, "constant": 5.59 },
+              { "from": 2001, "to": 2099, "constant": 4.81 }
+            ],
+            "exceptions": [
+              { "year": 2000, "day": 4 }
+            ]
+          }
         },
         {
           "id": "cn-qingming-festival",
@@ -386,8 +398,21 @@
           },
           "calendar": "gregorian",
           "month": 12,
-          "day": 22,
-          "recurrence": "yearly"
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "yearMod100Linear",
+            "month": 12,
+            "factor": 0.2422,
+            "ranges": [
+              { "from": 1901, "to": 2000, "constant": 22.66 },
+              { "from": 2001, "to": 2099, "constant": 21.93 }
+            ],
+            "exceptions": [
+              { "year": 1918, "day": 22 },
+              { "year": 2000, "day": 21 },
+              { "year": 2021, "day": 21 }
+            ]
+          }
         },
         {
           "id": "cn-new-year",
@@ -419,6 +444,22 @@
           "calendar": "gregorian",
           "month": 1,
           "day": 10,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-valentines-day",
+          "names": {
+            "en": "Valentine's Day",
+            "zh-Hans": "情人节",
+            "zh-Hant": "情人節",
+            "ja": "バレンタインデー",
+            "ko": "발렌타인데이",
+            "de": "Valentinstag",
+            "fr": "Saint-Valentin"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "day": 14,
           "recurrence": "yearly"
         },
         {
@@ -534,6 +575,27 @@
           "recurrence": "yearly"
         },
         {
+          "id": "cn-mothers-day",
+          "names": {
+            "en": "Mother's Day",
+            "zh-Hans": "母亲节",
+            "zh-Hant": "母親節",
+            "ja": "母の日",
+            "ko": "어머니날",
+            "de": "Muttertag",
+            "fr": "Fête des Mères"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 5,
+            "weekday": "sunday",
+            "nth": 2
+          }
+        },
+        {
           "id": "cn-nurses-day",
           "names": {
             "en": "Nurses' Day",
@@ -564,6 +626,27 @@
           "month": 6,
           "day": 1,
           "recurrence": "yearly"
+        },
+        {
+          "id": "cn-fathers-day",
+          "names": {
+            "en": "Father's Day",
+            "zh-Hans": "父亲节",
+            "zh-Hant": "父親節",
+            "ja": "父の日",
+            "ko": "아버지날",
+            "de": "Vatertag",
+            "fr": "Fête des Pères"
+          },
+          "calendar": "gregorian",
+          "month": 6,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 6,
+            "weekday": "sunday",
+            "nth": 3
+          }
         },
         {
           "id": "cn-cpc-founding",
@@ -658,8 +741,16 @@
           },
           "calendar": "gregorian",
           "month": 9,
-          "day": 23,
-          "recurrence": "yearly"
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "yearMod100Linear",
+            "month": 9,
+            "factor": 0.2422,
+            "ranges": [
+              { "from": 1901, "to": 2000, "constant": 23.83 },
+              { "from": 2001, "to": 2099, "constant": 23.04 }
+            ]
+          }
         },
         {
           "id": "cn-martyrs-day",
