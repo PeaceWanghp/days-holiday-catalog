@@ -43,11 +43,13 @@ https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>
 ```json
 {
   "schemaVersion": 1,
+  "version": 1,
   "defaultLanguage": "en",
   "languages": ["en", "zh-Hans", "zh-Hant", "ja", "ko", "de", "fr"],
   "countries": [
     {
       "code": "CN",
+      "hasData": true,
       "names": { "en": "China", "zh-Hans": "中国" },
       "file": "countries/CN.json",
       "regionHints": ["CN"]
@@ -56,7 +58,9 @@ https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>
 }
 ```
 
+- `version`：目录内容版本。国家列表或节日数据有实质变化时递增
 - `code`：ISO 3166-1 alpha-2
+- `hasData`：该国文件是否有节日条目。列表里只保留 `true` 的国家
 - `names`：多语言国名；缺键时回退 `en` → 任意已有键
 - `file`：相对仓库根的国家文件路径
 - `regionHints`：用于匹配系统 `Locale.region`（可含 `HK`/`MO` 等）
