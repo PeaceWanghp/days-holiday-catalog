@@ -126,7 +126,7 @@ App **只显示数据里存在的 section**；不同国家 section 数量可以�
 日 = ⌊Y × factor + constant⌋ − ⌊Y / 4⌋
 ```
 
-`ranges` 按公历年选择 `constant`，`exceptions` 替换公式结果，然后再加 `dayOffset`（默认 0）。月份用 `dateRule.month`。清明、冬至、秋分（农民丰收节）都用这条式子，只是常数不同。寒食是清明的前一天，`dayOffset` 为 `-1`，例外仍写清明当天。
+`ranges` 按公历年选择 `constant`，`exceptions` 替换公式结果，然后再加 `dayOffset`（默认 0）。月份用 `dateRule.month`。清明、冬至、秋分、日本春分日和秋分日都用这条式子，只是常数不同。寒食是清明的前一天，`dayOffset` 为 `-1`，例外仍写清明当天。节气在公历闰日之前时设 `beforeLeapDay` 为 true，闰年不把当年 2 月 29 日算进闰年数；日本节分是立春前一天。
 
 `nthWeekday`：该月的第 `nth` 个 `weekday`。`weekday` 取 `sunday` 到 `saturday`，`nth` 为 1–5，`-1` 表示最后一个。母亲节是 5 月第二个星期日，美国阵亡将士纪念日是 5 月最后一个星期一。
 

@@ -12,34 +12,394 @@
   },
   "sections": [
     {
-      "id": "publicHoliday",
+      "id": "festival",
       "names": {
-        "en": "Public Holidays",
-        "zh-Hans": "假日"
+        "en": "Holidays",
+        "zh-Hans": "节日",
+        "zh-Hant": "節日",
+        "ja": "祝日",
+        "ko": "공휴일",
+        "de": "Feiertage",
+        "fr": "Jours fériés"
       },
       "items": [
         {
           "id": "jp-new-year",
-          "names": { "en": "New Year's Day", "zh-Hans": "元日" },
+          "names": {
+            "en": "New Year's Day",
+            "zh-Hans": "元日",
+            "zh-Hant": "元日",
+            "ja": "元日",
+            "ko": "신정",
+            "de": "Neujahr",
+            "fr": "Jour de l'an"
+          },
           "calendar": "gregorian",
           "month": 1,
           "day": 1,
           "recurrence": "yearly"
         },
         {
+          "id": "jp-coming-of-age",
+          "names": {
+            "en": "Coming of Age Day",
+            "zh-Hans": "成人节",
+            "zh-Hant": "成人節",
+            "ja": "成人の日",
+            "ko": "성인의 날",
+            "de": "Tag der Volljährigkeit",
+            "fr": "Jour de la majorité"
+          },
+          "calendar": "gregorian",
+          "month": 1,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 1,
+            "weekday": "monday",
+            "nth": 2
+          }
+        },
+        {
+          "id": "jp-setsubun",
+          "names": {
+            "en": "Setsubun",
+            "zh-Hans": "节分",
+            "zh-Hant": "節分",
+            "ja": "節分",
+            "ko": "세쓰분",
+            "de": "Setsubun",
+            "fr": "Setsubun"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "yearMod100Linear",
+            "month": 2,
+            "factor": 0.2422,
+            "dayOffset": -1,
+            "beforeLeapDay": true,
+            "ranges": [
+              { "from": 1901, "to": 1979, "constant": 4.62 },
+              { "from": 1980, "to": 2000, "constant": 4.66 },
+              { "from": 2001, "to": 2099, "constant": 3.93 }
+            ],
+            "exceptions": [
+              { "year": 1951, "day": 5 },
+              { "year": 2021, "day": 3 }
+            ]
+          }
+        },
+        {
+          "id": "jp-foundation-day",
+          "names": {
+            "en": "National Foundation Day",
+            "zh-Hans": "建国纪念日",
+            "zh-Hant": "建國紀念日",
+            "ja": "建国記念の日",
+            "ko": "건국기념일",
+            "de": "Nationaler Gründungstag",
+            "fr": "Jour de la fondation nationale"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "day": 11,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "jp-emperors-birthday",
+          "names": {
+            "en": "Emperor's Birthday",
+            "zh-Hans": "天皇诞生日",
+            "zh-Hant": "天皇誕生日",
+            "ja": "天皇誕生日",
+            "ko": "천황탄생일",
+            "de": "Geburtstag des Kaisers",
+            "fr": "Anniversaire de l'empereur"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "day": 23,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "jp-hinamatsuri",
+          "names": {
+            "en": "Doll Festival",
+            "zh-Hans": "女儿节",
+            "zh-Hant": "女兒節",
+            "ja": "ひな祭り",
+            "ko": "히나마쓰리",
+            "de": "Puppenfest",
+            "fr": "Fête des poupées"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "day": 3,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "jp-vernal-equinox",
+          "names": {
+            "en": "Vernal Equinox Day",
+            "zh-Hans": "春分日",
+            "zh-Hant": "春分日",
+            "ja": "春分の日",
+            "ko": "춘분의 날",
+            "de": "Tagundnachtgleiche im Frühling",
+            "fr": "Jour de l'équinoxe de printemps"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "yearMod100Linear",
+            "month": 3,
+            "factor": 0.2422,
+            "ranges": [
+              { "from": 1901, "to": 1979, "constant": 21.44 },
+              { "from": 1980, "to": 2000, "constant": 21.45 },
+              { "from": 2001, "to": 2099, "constant": 20.69 }
+            ],
+            "exceptions": [
+              { "year": 2000, "day": 20 }
+            ]
+          }
+        },
+        {
+          "id": "jp-showa-day",
+          "names": {
+            "en": "Showa Day",
+            "zh-Hans": "昭和之日",
+            "zh-Hant": "昭和之日",
+            "ja": "昭和の日",
+            "ko": "쇼와의 날",
+            "de": "Showa-Tag",
+            "fr": "Jour de Showa"
+          },
+          "calendar": "gregorian",
+          "month": 4,
+          "day": 29,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "jp-constitution-day",
+          "names": {
+            "en": "Constitution Memorial Day",
+            "zh-Hans": "宪法纪念日",
+            "zh-Hant": "憲法紀念日",
+            "ja": "憲法記念日",
+            "ko": "헌법기념일",
+            "de": "Verfassungstag",
+            "fr": "Jour de la Constitution"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "day": 3,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "jp-greenery-day",
+          "names": {
+            "en": "Greenery Day",
+            "zh-Hans": "绿之日",
+            "zh-Hant": "綠之日",
+            "ja": "みどりの日",
+            "ko": "녹색의 날",
+            "de": "Tag des Grüns",
+            "fr": "Jour de la verdure"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "day": 4,
+          "recurrence": "yearly"
+        },
+        {
           "id": "jp-childrens-day",
-          "names": { "en": "Children's Day", "zh-Hans": "こどもの日" },
+          "names": {
+            "en": "Children's Day",
+            "zh-Hans": "儿童节",
+            "zh-Hant": "兒童節",
+            "ja": "こどもの日",
+            "ko": "어린이날",
+            "de": "Kindertag",
+            "fr": "Jour des enfants"
+          },
           "calendar": "gregorian",
           "month": 5,
           "day": 5,
           "recurrence": "yearly"
         },
         {
+          "id": "jp-tanabata",
+          "names": {
+            "en": "Tanabata",
+            "zh-Hans": "七夕",
+            "zh-Hant": "七夕",
+            "ja": "七夕",
+            "ko": "타나바타",
+            "de": "Tanabata",
+            "fr": "Tanabata"
+          },
+          "calendar": "gregorian",
+          "month": 7,
+          "day": 7,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "jp-marine-day",
+          "names": {
+            "en": "Marine Day",
+            "zh-Hans": "海之日",
+            "zh-Hant": "海之日",
+            "ja": "海の日",
+            "ko": "바다의 날",
+            "de": "Tag des Meeres",
+            "fr": "Jour de la mer"
+          },
+          "calendar": "gregorian",
+          "month": 7,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 7,
+            "weekday": "monday",
+            "nth": 3
+          }
+        },
+        {
+          "id": "jp-mountain-day",
+          "names": {
+            "en": "Mountain Day",
+            "zh-Hans": "山之日",
+            "zh-Hant": "山之日",
+            "ja": "山の日",
+            "ko": "산의 날",
+            "de": "Tag der Berge",
+            "fr": "Jour de la montagne"
+          },
+          "calendar": "gregorian",
+          "month": 8,
+          "day": 11,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "jp-obon",
+          "names": {
+            "en": "Obon",
+            "zh-Hans": "盂兰盆节",
+            "zh-Hant": "盂蘭盆節",
+            "ja": "お盆",
+            "ko": "오본",
+            "de": "Obon",
+            "fr": "Obon"
+          },
+          "calendar": "gregorian",
+          "month": 8,
+          "day": 15,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "jp-respect-for-aged",
+          "names": {
+            "en": "Respect for the Aged Day",
+            "zh-Hans": "敬老日",
+            "zh-Hant": "敬老日",
+            "ja": "敬老の日",
+            "ko": "경로의 날",
+            "de": "Tag der Alten",
+            "fr": "Jour du respect des aînés"
+          },
+          "calendar": "gregorian",
+          "month": 9,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 9,
+            "weekday": "monday",
+            "nth": 3
+          }
+        },
+        {
+          "id": "jp-autumnal-equinox",
+          "names": {
+            "en": "Autumnal Equinox Day",
+            "zh-Hans": "秋分日",
+            "zh-Hant": "秋分日",
+            "ja": "秋分の日",
+            "ko": "추분의 날",
+            "de": "Tagundnachtgleiche im Herbst",
+            "fr": "Jour de l'équinoxe d'automne"
+          },
+          "calendar": "gregorian",
+          "month": 9,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "yearMod100Linear",
+            "month": 9,
+            "factor": 0.2422,
+            "ranges": [
+              { "from": 1901, "to": 1979, "constant": 23.87 },
+              { "from": 1980, "to": 2000, "constant": 23.75 },
+              { "from": 2001, "to": 2099, "constant": 23.08 }
+            ],
+            "exceptions": [
+              { "year": 1917, "day": 24 }
+            ]
+          }
+        },
+        {
+          "id": "jp-sports-day",
+          "names": {
+            "en": "Sports Day",
+            "zh-Hans": "体育之日",
+            "zh-Hant": "體育之日",
+            "ja": "スポーツの日",
+            "ko": "스포츠의 날",
+            "de": "Tag des Sports",
+            "fr": "Journée du sport"
+          },
+          "calendar": "gregorian",
+          "month": 10,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 10,
+            "weekday": "monday",
+            "nth": 2
+          }
+        },
+        {
           "id": "jp-culture-day",
-          "names": { "en": "Culture Day", "zh-Hans": "文化の日" },
+          "names": {
+            "en": "Culture Day",
+            "zh-Hans": "文化日",
+            "zh-Hant": "文化日",
+            "ja": "文化の日",
+            "ko": "문화의 날",
+            "de": "Tag der Kultur",
+            "fr": "Jour de la culture"
+          },
           "calendar": "gregorian",
           "month": 11,
           "day": 3,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "jp-labor-thanksgiving",
+          "names": {
+            "en": "Labor Thanksgiving Day",
+            "zh-Hans": "勤劳感谢日",
+            "zh-Hant": "勤勞感謝日",
+            "ja": "勤労感謝の日",
+            "ko": "근로감사의 날",
+            "de": "Tag der Arbeit und des Dankes",
+            "fr": "Jour d'action de grâce pour le travail"
+          },
+          "calendar": "gregorian",
+          "month": 11,
+          "day": 23,
           "recurrence": "yearly"
         }
       ]
