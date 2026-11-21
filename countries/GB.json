@@ -1,0 +1,336 @@
+{
+  "schemaVersion": 1,
+  "code": "GB",
+  "names": {
+    "en": "United Kingdom",
+    "zh-Hans": "英国",
+    "zh-Hant": "英國",
+    "ja": "イギリス",
+    "ko": "영국",
+    "de": "Vereinigtes Königreich",
+    "fr": "Royaume-Uni"
+  },
+  "sections": [
+    {
+      "id": "festival",
+      "names": {
+        "en": "Holidays",
+        "zh-Hans": "节日",
+        "zh-Hant": "節日",
+        "ja": "祝日",
+        "ko": "공휴일",
+        "de": "Feiertage",
+        "fr": "Jours fériés"
+      },
+      "items": [
+        {
+          "id": "gb-new-year",
+          "names": {
+            "en": "New Year's Day",
+            "zh-Hans": "元旦",
+            "zh-Hant": "元旦",
+            "ja": "元日",
+            "ko": "신정",
+            "de": "Neujahr",
+            "fr": "Jour de l'an"
+          },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "gb-valentines-day",
+          "names": {
+            "en": "Valentine's Day",
+            "zh-Hans": "情人节",
+            "zh-Hant": "情人節",
+            "ja": "バレンタインデー",
+            "ko": "발렌타인데이",
+            "de": "Valentinstag",
+            "fr": "Saint-Valentin"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "day": 14,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "gb-mothering-sunday",
+          "names": {
+            "en": "Mothering Sunday",
+            "zh-Hans": "母亲节",
+            "zh-Hant": "母親節",
+            "ja": "母の日",
+            "ko": "어머니날",
+            "de": "Muttertag",
+            "fr": "Fête des Mères"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3,
+            "dayOffset": -21
+          }
+        },
+        {
+          "id": "gb-st-patricks-day",
+          "names": {
+            "en": "St. Patrick's Day",
+            "zh-Hans": "圣帕特里克节",
+            "zh-Hant": "聖派翠克節",
+            "ja": "聖パトリックの日",
+            "ko": "성 패트릭의 날",
+            "de": "Patrickstag",
+            "fr": "Fête de la Saint-Patrick"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "day": 17,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "gb-good-friday",
+          "names": {
+            "en": "Good Friday",
+            "zh-Hans": "耶稣受难日",
+            "zh-Hant": "耶穌受難日",
+            "ja": "聖金曜日",
+            "ko": "성금요일",
+            "de": "Karfreitag",
+            "fr": "Vendredi saint"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3,
+            "dayOffset": -2
+          }
+        },
+        {
+          "id": "gb-easter",
+          "names": {
+            "en": "Easter",
+            "zh-Hans": "复活节",
+            "zh-Hant": "復活節",
+            "ja": "イースター",
+            "ko": "부활절",
+            "de": "Ostern",
+            "fr": "Pâques"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3
+          }
+        },
+        {
+          "id": "gb-easter-monday",
+          "names": {
+            "en": "Easter Monday",
+            "zh-Hans": "复活节星期一",
+            "zh-Hant": "復活節星期一",
+            "ja": "イースターマンデー",
+            "ko": "부활절 월요일",
+            "de": "Ostermontag",
+            "fr": "Lundi de Pâques"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3,
+            "dayOffset": 1
+          }
+        },
+        {
+          "id": "gb-early-may",
+          "names": {
+            "en": "Early May Bank Holiday",
+            "zh-Hans": "五月初银行假日",
+            "zh-Hant": "五月初銀行假日",
+            "ja": "5月上旬の銀行休日",
+            "ko": "5월 초 은행 휴일",
+            "de": "Früher Maifeiertag",
+            "fr": "Premier lundi de mai"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 5,
+            "weekday": "monday",
+            "nth": 1
+          }
+        },
+        {
+          "id": "gb-spring-bank",
+          "names": {
+            "en": "Spring Bank Holiday",
+            "zh-Hans": "春季银行假日",
+            "zh-Hant": "春季銀行假日",
+            "ja": "春の銀行休日",
+            "ko": "봄 은행 휴일",
+            "de": "Später Maifeiertag",
+            "fr": "Dernier lundi de mai"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 5,
+            "weekday": "monday",
+            "nth": -1
+          }
+        },
+        {
+          "id": "gb-fathers-day",
+          "names": {
+            "en": "Father's Day",
+            "zh-Hans": "父亲节",
+            "zh-Hant": "父親節",
+            "ja": "父の日",
+            "ko": "아버지날",
+            "de": "Vatertag",
+            "fr": "Fête des Pères"
+          },
+          "calendar": "gregorian",
+          "month": 6,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 6,
+            "weekday": "sunday",
+            "nth": 3
+          }
+        },
+        {
+          "id": "gb-summer-bank",
+          "names": {
+            "en": "Summer Bank Holiday",
+            "zh-Hans": "夏季银行假日",
+            "zh-Hant": "夏季銀行假日",
+            "ja": "夏の銀行休日",
+            "ko": "여름 은행 휴일",
+            "de": "Sommer-Bankfeiertag",
+            "fr": "Dernier lundi d'août"
+          },
+          "calendar": "gregorian",
+          "month": 8,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 8,
+            "weekday": "monday",
+            "nth": -1
+          }
+        },
+        {
+          "id": "gb-halloween",
+          "names": {
+            "en": "Halloween",
+            "zh-Hans": "万圣节",
+            "zh-Hant": "萬聖節",
+            "ja": "ハロウィン",
+            "ko": "할로윈",
+            "de": "Halloween",
+            "fr": "Halloween"
+          },
+          "calendar": "gregorian",
+          "month": 10,
+          "day": 31,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "gb-bonfire-night",
+          "names": {
+            "en": "Bonfire Night",
+            "zh-Hans": "篝火之夜",
+            "zh-Hant": "篝火之夜",
+            "ja": "ボンファイア・ナイト",
+            "ko": "본파이어 나이트",
+            "de": "Bonfire Night",
+            "fr": "Nuit des feux de joie"
+          },
+          "calendar": "gregorian",
+          "month": 11,
+          "day": 5,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "gb-remembrance-day",
+          "names": {
+            "en": "Remembrance Day",
+            "zh-Hans": "国殇纪念日",
+            "zh-Hant": "國殤紀念日",
+            "ja": "リメンブランス・デー",
+            "ko": "영령 기념일",
+            "de": "Remembrance Day",
+            "fr": "Jour du Souvenir"
+          },
+          "calendar": "gregorian",
+          "month": 11,
+          "day": 11,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "gb-christmas",
+          "names": {
+            "en": "Christmas",
+            "zh-Hans": "圣诞节",
+            "zh-Hant": "聖誕節",
+            "ja": "クリスマス",
+            "ko": "크리스마스",
+            "de": "Weihnachten",
+            "fr": "Noël"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 25,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "gb-boxing-day",
+          "names": {
+            "en": "Boxing Day",
+            "zh-Hans": "节礼日",
+            "zh-Hant": "節禮日",
+            "ja": "ボクシング・デー",
+            "ko": "박싱 데이",
+            "de": "Zweiter Weihnachtstag",
+            "fr": "Boxing Day"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 26,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "gb-new-years-eve",
+          "names": {
+            "en": "New Year's Eve",
+            "zh-Hans": "跨年夜",
+            "zh-Hant": "跨年夜",
+            "ja": "大晦日",
+            "ko": "새해 전야",
+            "de": "Silvester",
+            "fr": "Réveillon du Nouvel An"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 31,
+          "recurrence": "yearly"
+        }
+      ]
+    }
+  ]
+}
