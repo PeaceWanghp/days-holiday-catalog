@@ -111,13 +111,22 @@ App **只显示数据里存在的 section**；不同国家 section 数量可以�
 | `id` | 全球唯一稳定 ID（导入去重用） |
 | `names` | 多语言名称；主语言 `en` |
 | `calendar` | `gregorian` 公历 / `lunar` 农历（中国历） |
-| `month` / `day` | 月日；农历按中国农历月日。`lastDay` 为真时可不写 `day` |
+| `month` / `day` | 月日；农历按中国农历月日。`lastDay` 为真时可不写 `day`。有 `dateRule` 时，`day` 只给不认识该规则的客户端做回退 |
 | `lastDay` | 可选。农历该月最后一天（除夕为腊月最后一天，即上一年最后一天） |
 | `leapMonth` | 可选，农历是否闰月，默认 `false` |
 | `recurrence` | `yearly` 或 `none` |
 | `date` | 可选，一次性公历 `YYYY-MM-DD`（`recurrence: none`） |
+| `dateRule` | 可选。按年计算公历日，优先于固定 `month`/`day` |
 
-农历条目由 App 转成**下一次**公历日再写入提醒日；公历 `yearly` 使用年循环。
+`dateRule.kind` 为 `yearMod100Linear` 时，设 `Y` 为年份后两位：
+
+```text
+日 = ⌊Y × factor + constant⌋ − ⌊Y / 4⌋
+```
+
+`ranges` 按公历年选择 `constant`，`exceptions` 覆盖个别年份。月份用 `dateRule.month`。清明在 1901–2099 年用该式，常数 20 世纪为 5.59、21 世纪为 4.81；2000 年公式会得到 5 日，例外定为 4 月 4 日。
+
+农历条目由 App 转成**下一次**公历日再写入提醒日；公历 `yearly` 使用年循环。带 `dateRule` 的条目每年按规则重算。
 
 ## 维护建议
 

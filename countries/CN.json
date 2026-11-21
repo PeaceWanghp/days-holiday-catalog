@@ -223,7 +223,19 @@
           "calendar": "gregorian",
           "month": 4,
           "day": 5,
-          "recurrence": "yearly"
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "yearMod100Linear",
+            "month": 4,
+            "factor": 0.2422,
+            "ranges": [
+              { "from": 1901, "to": 2000, "constant": 5.59 },
+              { "from": 2001, "to": 2099, "constant": 4.81 }
+            ],
+            "exceptions": [
+              { "year": 2000, "day": 4 }
+            ]
+          }
         },
         {
           "id": "cn-buddha-birthday",
