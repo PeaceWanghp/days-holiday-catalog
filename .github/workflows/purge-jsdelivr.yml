@@ -1,0 +1,25 @@
+name: Purge jsDelivr cache
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Purge branch cache
+        run: |
+          set -euo pipefail
+          paths=(countries.json)
+          if compgen -G "countries/*.json" > /dev/null; then
+            for file in countries/*.json; do
+              paths+=("$file")
+            done
+          fi
+          for path in "${paths[@]}"; do
+            echo "purge $path"
+            curl -fsSL "https://purge.jsdelivr.net/gh/PeaceWanghp/days-holiday-catalog@main/${path}"
+            echo
+          done
