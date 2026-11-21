@@ -118,7 +118,7 @@ App **只显示数据里存在的 section**；不同国家 section 数量可以�
 | `date` | 可选，一次性公历 `YYYY-MM-DD`（`recurrence: none`） |
 | `dateRule` | 可选。公历日期不固定时使用，优先于固定 `month`/`day` |
 
-公历不固定的日期只用两种 `dateRule.kind`：
+公历不固定的日期用三种 `dateRule.kind`：
 
 `yearMod100Linear`：设 `Y` 为年份后两位，
 
@@ -128,7 +128,9 @@ App **只显示数据里存在的 section**；不同国家 section 数量可以�
 
 `ranges` 按公历年选择 `constant`，`exceptions` 替换公式结果，然后再加 `dayOffset`（默认 0）。月份用 `dateRule.month`。清明、冬至、秋分（农民丰收节）都用这条式子，只是常数不同。寒食是清明的前一天，`dayOffset` 为 `-1`，例外仍写清明当天。
 
-`nthWeekday`：该月的第 `nth` 个 `weekday`。`weekday` 取 `sunday` 到 `saturday`，`nth` 为 1–5。母亲节是 5 月第二个星期日，父亲节是 6 月第三个星期日。
+`nthWeekday`：该月的第 `nth` 个 `weekday`。`weekday` 取 `sunday` 到 `saturday`，`nth` 为 1–5，`-1` 表示最后一个。母亲节是 5 月第二个星期日，美国阵亡将士纪念日是 5 月最后一个星期一。
+
+`westernEaster`：公历复活节，春分后第一次满月之后的星期日。月份会在 3 月和 4 月之间变化。
 
 农历节日按农历月日显示；除夕用 `lastDay`，表示腊月最后一天。带 `dateRule` 的条目每年按规则重算。
 

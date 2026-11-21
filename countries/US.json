@@ -15,39 +15,322 @@
       "id": "festival",
       "names": {
         "en": "Holidays",
-        "zh-Hans": "节日"
+        "zh-Hans": "节日",
+        "zh-Hant": "節日",
+        "ja": "祝日",
+        "ko": "공휴일",
+        "de": "Feiertage",
+        "fr": "Jours fériés"
       },
       "items": [
         {
           "id": "us-new-year",
-          "names": { "en": "New Year's Day", "zh-Hans": "元旦" },
+          "names": {
+            "en": "New Year's Day",
+            "zh-Hans": "元旦",
+            "zh-Hant": "元旦",
+            "ja": "元日",
+            "ko": "신정",
+            "de": "Neujahr",
+            "fr": "Jour de l'an"
+          },
           "calendar": "gregorian",
           "month": 1,
           "day": 1,
           "recurrence": "yearly"
         },
         {
+          "id": "us-mlk-day",
+          "names": {
+            "en": "Martin Luther King Jr. Day",
+            "zh-Hans": "马丁·路德·金纪念日",
+            "zh-Hant": "馬丁·路德·金紀念日",
+            "ja": "キング牧師記念日",
+            "ko": "마틴 루터 킹 주니어의 날",
+            "de": "Martin-Luther-King-Tag",
+            "fr": "Journée de Martin Luther King"
+          },
+          "calendar": "gregorian",
+          "month": 1,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 1,
+            "weekday": "monday",
+            "nth": 3
+          }
+        },
+        {
+          "id": "us-valentines-day",
+          "names": {
+            "en": "Valentine's Day",
+            "zh-Hans": "情人节",
+            "zh-Hant": "情人節",
+            "ja": "バレンタインデー",
+            "ko": "발렌타인데이",
+            "de": "Valentinstag",
+            "fr": "Saint-Valentin"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "day": 14,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "us-presidents-day",
+          "names": {
+            "en": "Presidents' Day",
+            "zh-Hans": "总统日",
+            "zh-Hant": "總統日",
+            "ja": "大統領の日",
+            "ko": "대통령의 날",
+            "de": "Präsidententag",
+            "fr": "Jour des présidents"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 2,
+            "weekday": "monday",
+            "nth": 3
+          }
+        },
+        {
+          "id": "us-st-patricks-day",
+          "names": {
+            "en": "St. Patrick's Day",
+            "zh-Hans": "圣帕特里克节",
+            "zh-Hant": "聖派翠克節",
+            "ja": "聖パトリックの日",
+            "ko": "성 패트릭의 날",
+            "de": "Patrickstag",
+            "fr": "Fête de la Saint-Patrick"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "day": 17,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "us-easter",
+          "names": {
+            "en": "Easter",
+            "zh-Hans": "复活节",
+            "zh-Hant": "復活節",
+            "ja": "イースター",
+            "ko": "부활절",
+            "de": "Ostern",
+            "fr": "Pâques"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3
+          }
+        },
+        {
+          "id": "us-mothers-day",
+          "names": {
+            "en": "Mother's Day",
+            "zh-Hans": "母亲节",
+            "zh-Hant": "母親節",
+            "ja": "母の日",
+            "ko": "어머니날",
+            "de": "Muttertag",
+            "fr": "Fête des Mères"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 5,
+            "weekday": "sunday",
+            "nth": 2
+          }
+        },
+        {
+          "id": "us-memorial-day",
+          "names": {
+            "en": "Memorial Day",
+            "zh-Hans": "阵亡将士纪念日",
+            "zh-Hant": "陣亡將士紀念日",
+            "ja": "戦没将兵追悼記念日",
+            "ko": "메모리얼 데이",
+            "de": "Memorial Day",
+            "fr": "Jour du souvenir"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 5,
+            "weekday": "monday",
+            "nth": -1
+          }
+        },
+        {
+          "id": "us-fathers-day",
+          "names": {
+            "en": "Father's Day",
+            "zh-Hans": "父亲节",
+            "zh-Hant": "父親節",
+            "ja": "父の日",
+            "ko": "아버지날",
+            "de": "Vatertag",
+            "fr": "Fête des Pères"
+          },
+          "calendar": "gregorian",
+          "month": 6,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 6,
+            "weekday": "sunday",
+            "nth": 3
+          }
+        },
+        {
+          "id": "us-juneteenth",
+          "names": {
+            "en": "Juneteenth",
+            "zh-Hans": "六月节",
+            "zh-Hant": "六月節",
+            "ja": "ジューンティーンス",
+            "ko": "준틴스",
+            "de": "Juneteenth",
+            "fr": "Juneteenth"
+          },
+          "calendar": "gregorian",
+          "month": 6,
+          "day": 19,
+          "recurrence": "yearly"
+        },
+        {
           "id": "us-independence",
-          "names": { "en": "Independence Day", "zh-Hans": "独立日" },
+          "names": {
+            "en": "Independence Day",
+            "zh-Hans": "独立日",
+            "zh-Hant": "獨立日",
+            "ja": "独立記念日",
+            "ko": "독립기념일",
+            "de": "Unabhängigkeitstag",
+            "fr": "Fête de l'Indépendance"
+          },
           "calendar": "gregorian",
           "month": 7,
           "day": 4,
           "recurrence": "yearly"
         },
         {
+          "id": "us-labor-day",
+          "names": {
+            "en": "Labor Day",
+            "zh-Hans": "劳工节",
+            "zh-Hant": "勞工節",
+            "ja": "レイバーデー",
+            "ko": "노동절",
+            "de": "Labor Day",
+            "fr": "Fête du Travail"
+          },
+          "calendar": "gregorian",
+          "month": 9,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 9,
+            "weekday": "monday",
+            "nth": 1
+          }
+        },
+        {
           "id": "us-halloween",
-          "names": { "en": "Halloween", "zh-Hans": "万圣节" },
+          "names": {
+            "en": "Halloween",
+            "zh-Hans": "万圣节",
+            "zh-Hant": "萬聖節",
+            "ja": "ハロウィン",
+            "ko": "할로윈",
+            "de": "Halloween",
+            "fr": "Halloween"
+          },
           "calendar": "gregorian",
           "month": 10,
           "day": 31,
           "recurrence": "yearly"
         },
         {
+          "id": "us-veterans-day",
+          "names": {
+            "en": "Veterans Day",
+            "zh-Hans": "退伍军人节",
+            "zh-Hant": "退伍軍人節",
+            "ja": "退役軍人の日",
+            "ko": "재향군인의 날",
+            "de": "Veterans Day",
+            "fr": "Jour des anciens combattants"
+          },
+          "calendar": "gregorian",
+          "month": 11,
+          "day": 11,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "us-thanksgiving",
+          "names": {
+            "en": "Thanksgiving",
+            "zh-Hans": "感恩节",
+            "zh-Hant": "感恩節",
+            "ja": "感謝祭",
+            "ko": "추수감사절",
+            "de": "Thanksgiving",
+            "fr": "Action de grâce"
+          },
+          "calendar": "gregorian",
+          "month": 11,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 11,
+            "weekday": "thursday",
+            "nth": 4
+          }
+        },
+        {
           "id": "us-christmas",
-          "names": { "en": "Christmas Day", "zh-Hans": "圣诞节" },
+          "names": {
+            "en": "Christmas",
+            "zh-Hans": "圣诞节",
+            "zh-Hant": "聖誕節",
+            "ja": "クリスマス",
+            "ko": "크리스마스",
+            "de": "Weihnachten",
+            "fr": "Noël"
+          },
           "calendar": "gregorian",
           "month": 12,
           "day": 25,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "us-new-years-eve",
+          "names": {
+            "en": "New Year's Eve",
+            "zh-Hans": "跨年夜",
+            "zh-Hant": "跨年夜",
+            "ja": "大晦日",
+            "ko": "새해 전야",
+            "de": "Silvester",
+            "fr": "Réveillon du Nouvel An"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 31,
           "recurrence": "yearly"
         }
       ]
