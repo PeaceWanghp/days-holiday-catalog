@@ -15,20 +15,92 @@
       "id": "festival",
       "names": {
         "en": "Festivals",
-        "zh-Hans": "节日"
+        "zh-Hans": "节日",
+        "zh-Hant": "節日",
+        "ja": "節日",
+        "ko": "명절",
+        "de": "Feste",
+        "fr": "Fêtes"
       },
       "items": [
         {
-          "id": "cn-new-year",
-          "names": { "en": "New Year's Day", "zh-Hans": "元旦" },
+          "id": "cn-laba",
+          "names": {
+            "en": "Laba Festival",
+            "zh-Hans": "腊八节",
+            "zh-Hant": "臘八節",
+            "ja": "臘八節",
+            "ko": "납팔절",
+            "de": "Laba-Fest",
+            "fr": "Fête de Laba"
+          },
+          "calendar": "lunar",
+          "month": 12,
+          "day": 8,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-little-new-year-north",
+          "names": {
+            "en": "Little New Year (North)",
+            "zh-Hans": "北方小年",
+            "zh-Hant": "北方小年",
+            "ja": "北方の小年",
+            "ko": "북방 소한",
+            "de": "Kleines Neujahr (Norden)",
+            "fr": "Petit Nouvel An (nord)"
+          },
+          "calendar": "lunar",
+          "month": 12,
+          "day": 23,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-little-new-year-south",
+          "names": {
+            "en": "Little New Year (South)",
+            "zh-Hans": "南方小年",
+            "zh-Hant": "南方小年",
+            "ja": "南方の小年",
+            "ko": "남방 소한",
+            "de": "Kleines Neujahr (Süden)",
+            "fr": "Petit Nouvel An (sud)"
+          },
+          "calendar": "lunar",
+          "month": 12,
+          "day": 24,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-new-years-eve",
+          "names": {
+            "en": "Chinese New Year's Eve",
+            "zh-Hans": "除夕",
+            "zh-Hant": "除夕",
+            "ja": "除夕",
+            "ko": "제석",
+            "de": "Chinesischer Neujahrsabend",
+            "fr": "Réveillon du Nouvel An chinois"
+          },
           "calendar": "gregorian",
           "month": 1,
-          "day": 1,
+          "day": 28,
           "recurrence": "yearly"
         },
         {
           "id": "cn-spring-festival",
-          "names": { "en": "Spring Festival", "zh-Hans": "春节" },
+          "names": {
+            "en": "Spring Festival",
+            "zh-Hans": "春节",
+            "zh-Hant": "春節",
+            "ja": "春節",
+            "ko": "춘절",
+            "de": "Frühlingsfest",
+            "fr": "Fête du Printemps"
+          },
           "calendar": "lunar",
           "month": 1,
           "day": 1,
@@ -36,24 +108,397 @@
           "recurrence": "yearly"
         },
         {
+          "id": "cn-powu",
+          "names": {
+            "en": "Powu Festival",
+            "zh-Hans": "破五",
+            "zh-Hant": "破五",
+            "ja": "破五",
+            "ko": "파오",
+            "de": "Powu-Fest",
+            "fr": "Fête de Powu"
+          },
+          "calendar": "lunar",
+          "month": 1,
+          "day": 5,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-renri",
+          "names": {
+            "en": "Renri",
+            "zh-Hans": "人日",
+            "zh-Hant": "人日",
+            "ja": "人日",
+            "ko": "인일",
+            "de": "Renri",
+            "fr": "Renri"
+          },
+          "calendar": "lunar",
+          "month": 1,
+          "day": 7,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
           "id": "cn-lantern",
-          "names": { "en": "Lantern Festival", "zh-Hans": "元宵节" },
+          "names": {
+            "en": "Lantern Festival",
+            "zh-Hans": "元宵节",
+            "zh-Hant": "元宵節",
+            "ja": "元宵節",
+            "ko": "원소절",
+            "de": "Laternenfest",
+            "fr": "Fête des Lanternes"
+          },
           "calendar": "lunar",
           "month": 1,
           "day": 15,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-longtaitou",
+          "names": {
+            "en": "Dragon Head-Raising Festival",
+            "zh-Hans": "龙抬头",
+            "zh-Hant": "龍抬頭",
+            "ja": "龍抬頭",
+            "ko": "용태두",
+            "de": "Drachenkopf-Fest",
+            "fr": "Fête de la Tête du dragon"
+          },
+          "calendar": "lunar",
+          "month": 2,
+          "day": 2,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-shangsi",
+          "names": {
+            "en": "Shangsi Festival",
+            "zh-Hans": "上巳节",
+            "zh-Hant": "上巳節",
+            "ja": "上巳節",
+            "ko": "상사절",
+            "de": "Shangsi-Fest",
+            "fr": "Fête de Shangsi"
+          },
+          "calendar": "lunar",
+          "month": 3,
+          "day": 3,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-cold-food",
+          "names": {
+            "en": "Cold Food Festival",
+            "zh-Hans": "寒食节",
+            "zh-Hant": "寒食節",
+            "ja": "寒食節",
+            "ko": "한식",
+            "de": "Kaltspeisenfest",
+            "fr": "Fête des Aliments froids"
+          },
+          "calendar": "gregorian",
+          "month": 4,
+          "day": 4,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-qingming-festival",
+          "names": {
+            "en": "Qingming Festival",
+            "zh-Hans": "清明节",
+            "zh-Hant": "清明節",
+            "ja": "清明節",
+            "ko": "청명절",
+            "de": "Qingming-Fest",
+            "fr": "Fête de Qingming"
+          },
+          "calendar": "gregorian",
+          "month": 4,
+          "day": 5,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-buddha-birthday",
+          "names": {
+            "en": "Buddha's Birthday",
+            "zh-Hans": "浴佛节",
+            "zh-Hant": "浴佛節",
+            "ja": "浴仏節",
+            "ko": "욕불절",
+            "de": "Buddhas Geburtstag",
+            "fr": "Anniversaire de Bouddha"
+          },
+          "calendar": "lunar",
+          "month": 4,
+          "day": 8,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-dragon-boat",
+          "names": {
+            "en": "Dragon Boat Festival",
+            "zh-Hans": "端午节",
+            "zh-Hant": "端午節",
+            "ja": "端午節",
+            "ko": "단오",
+            "de": "Drachenbootfest",
+            "fr": "Fête des Bateaux-dragons"
+          },
+          "calendar": "lunar",
+          "month": 5,
+          "day": 5,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-qixi",
+          "names": {
+            "en": "Qixi Festival",
+            "zh-Hans": "七夕",
+            "zh-Hant": "七夕",
+            "ja": "七夕",
+            "ko": "칠석",
+            "de": "Qixi-Fest",
+            "fr": "Fête de Qixi"
+          },
+          "calendar": "lunar",
+          "month": 7,
+          "day": 7,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-zhongyuan",
+          "names": {
+            "en": "Zhongyuan Festival",
+            "zh-Hans": "中元节",
+            "zh-Hant": "中元節",
+            "ja": "中元節",
+            "ko": "중원절",
+            "de": "Zhongyuan-Fest",
+            "fr": "Fête de Zhongyuan"
+          },
+          "calendar": "lunar",
+          "month": 7,
+          "day": 15,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-mid-autumn",
+          "names": {
+            "en": "Mid-Autumn Festival",
+            "zh-Hans": "中秋节",
+            "zh-Hant": "中秋節",
+            "ja": "中秋節",
+            "ko": "중추절",
+            "de": "Mondfest",
+            "fr": "Fête de la Mi-automne"
+          },
+          "calendar": "lunar",
+          "month": 8,
+          "day": 15,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-double-ninth",
+          "names": {
+            "en": "Double Ninth Festival",
+            "zh-Hans": "重阳节",
+            "zh-Hant": "重陽節",
+            "ja": "重陽節",
+            "ko": "중양절",
+            "de": "Doppelneun-Fest",
+            "fr": "Fête du Double Neuvième"
+          },
+          "calendar": "lunar",
+          "month": 9,
+          "day": 9,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-hanyi",
+          "names": {
+            "en": "Cold Clothing Festival",
+            "zh-Hans": "寒衣节",
+            "zh-Hant": "寒衣節",
+            "ja": "寒衣節",
+            "ko": "한의절",
+            "de": "Kaltkleiderfest",
+            "fr": "Fête des Vêtements d’hiver"
+          },
+          "calendar": "lunar",
+          "month": 10,
+          "day": 1,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-xiayuan",
+          "names": {
+            "en": "Xiayuan Festival",
+            "zh-Hans": "下元节",
+            "zh-Hant": "下元節",
+            "ja": "下元節",
+            "ko": "하원절",
+            "de": "Xiayuan-Fest",
+            "fr": "Fête de Xiayuan"
+          },
+          "calendar": "lunar",
+          "month": 10,
+          "day": 15,
+          "leapMonth": false,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-dongzhi-festival",
+          "names": {
+            "en": "Dongzhi Festival",
+            "zh-Hans": "冬至",
+            "zh-Hant": "冬至",
+            "ja": "冬至",
+            "ko": "동지",
+            "de": "Dongzhi-Fest",
+            "fr": "Fête de Dongzhi"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 22,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-new-year",
+          "names": {
+            "en": "New Year's Day",
+            "zh-Hans": "元旦",
+            "zh-Hant": "元旦",
+            "ja": "元旦",
+            "ko": "양력설",
+            "de": "Neujahr",
+            "fr": "Jour de l’an"
+          },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-police-day",
+          "names": {
+            "en": "Chinese People's Police Day",
+            "zh-Hans": "中国人民警察节",
+            "zh-Hant": "中國人民警察節",
+            "ja": "中国人民警察節",
+            "ko": "중국인민경찰절",
+            "de": "Tag der chinesischen Volkspolizei",
+            "fr": "Journée de la police populaire chinoise"
+          },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 10,
           "recurrence": "yearly"
         },
         {
           "id": "cn-womens-day",
-          "names": { "en": "Women's Day", "zh-Hans": "妇女节" },
+          "names": {
+            "en": "Women's Day",
+            "zh-Hans": "妇女节",
+            "zh-Hant": "婦女節",
+            "ja": "国際女性デー",
+            "ko": "국제 여성의 날",
+            "de": "Internationaler Frauentag",
+            "fr": "Journée internationale des femmes"
+          },
           "calendar": "gregorian",
           "month": 3,
           "day": 8,
           "recurrence": "yearly"
         },
         {
+          "id": "cn-arbor-day",
+          "names": {
+            "en": "Arbor Day",
+            "zh-Hans": "植树节",
+            "zh-Hant": "植樹節",
+            "ja": "植樹節",
+            "ko": "식수절",
+            "de": "Tag des Baumes",
+            "fr": "Journée de l’arbre"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "day": 12,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-consumer-day",
+          "names": {
+            "en": "Consumer Rights Day",
+            "zh-Hans": "消费者权益日",
+            "zh-Hant": "消費者權益日",
+            "ja": "消費者権益デー",
+            "ko": "소비자 권익의 날",
+            "de": "Tag der Verbraucherrechte",
+            "fr": "Journée des droits des consommateurs"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "day": 15,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-national-security-day",
+          "names": {
+            "en": "National Security Education Day",
+            "zh-Hans": "全民国家安全教育日",
+            "zh-Hant": "全民國家安全教育日",
+            "ja": "全民国家安全教育日",
+            "ko": "전민국가안전교육일",
+            "de": "Tag der nationalen Sicherheitserziehung",
+            "fr": "Journée de l’éducation à la sécurité nationale"
+          },
+          "calendar": "gregorian",
+          "month": 4,
+          "day": 15,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-space-day",
+          "names": {
+            "en": "Space Day of China",
+            "zh-Hans": "中国航天日",
+            "zh-Hant": "中國航天日",
+            "ja": "中国航天の日",
+            "ko": "중국 항천일",
+            "de": "Chinesischer Tag der Raumfahrt",
+            "fr": "Journée chinoise de l’espace"
+          },
+          "calendar": "gregorian",
+          "month": 4,
+          "day": 24,
+          "recurrence": "yearly"
+        },
+        {
           "id": "cn-labor-day",
-          "names": { "en": "Labor Day", "zh-Hans": "劳动节" },
+          "names": {
+            "en": "Labor Day",
+            "zh-Hans": "劳动节",
+            "zh-Hant": "勞動節",
+            "ja": "労働節",
+            "ko": "노동절",
+            "de": "Tag der Arbeit",
+            "fr": "Fête du Travail"
+          },
           "calendar": "gregorian",
           "month": 5,
           "day": 1,
@@ -61,103 +506,227 @@
         },
         {
           "id": "cn-youth-day",
-          "names": { "en": "Youth Day", "zh-Hans": "青年节" },
+          "names": {
+            "en": "Youth Day",
+            "zh-Hans": "青年节",
+            "zh-Hant": "青年節",
+            "ja": "青年節",
+            "ko": "청년절",
+            "de": "Tag der Jugend",
+            "fr": "Journée de la jeunesse"
+          },
           "calendar": "gregorian",
           "month": 5,
           "day": 4,
           "recurrence": "yearly"
         },
         {
-          "id": "cn-dragon-boat",
-          "names": { "en": "Dragon Boat Festival", "zh-Hans": "端午节" },
-          "calendar": "lunar",
+          "id": "cn-nurses-day",
+          "names": {
+            "en": "Nurses' Day",
+            "zh-Hans": "护士节",
+            "zh-Hant": "護士節",
+            "ja": "国際看護師の日",
+            "ko": "국제 간호사의 날",
+            "de": "Internationaler Tag der Pflegenden",
+            "fr": "Journée internationale des infirmières"
+          },
+          "calendar": "gregorian",
           "month": 5,
-          "day": 5,
+          "day": 12,
           "recurrence": "yearly"
         },
         {
-          "id": "cn-mid-autumn",
-          "names": { "en": "Mid-Autumn Festival", "zh-Hans": "中秋节" },
-          "calendar": "lunar",
+          "id": "cn-childrens-day",
+          "names": {
+            "en": "Children's Day",
+            "zh-Hans": "儿童节",
+            "zh-Hant": "兒童節",
+            "ja": "児童節",
+            "ko": "어린이날",
+            "de": "Internationaler Kindertag",
+            "fr": "Journée des enfants"
+          },
+          "calendar": "gregorian",
+          "month": 6,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-cpc-founding",
+          "names": {
+            "en": "CPC Founding Day",
+            "zh-Hans": "建党节",
+            "zh-Hant": "建黨節",
+            "ja": "中国共産党創立記念日",
+            "ko": "중국공산당 창당일",
+            "de": "Gründungstag der KPCh",
+            "fr": "Fête de la fondation du PCC"
+          },
+          "calendar": "gregorian",
+          "month": 7,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-army-day",
+          "names": {
+            "en": "Army Day",
+            "zh-Hans": "建军节",
+            "zh-Hant": "建軍節",
+            "ja": "建軍節",
+            "ko": "건군절",
+            "de": "Tag der Armee",
+            "fr": "Fête de l’armée"
+          },
+          "calendar": "gregorian",
           "month": 8,
-          "day": 15,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-doctors-day",
+          "names": {
+            "en": "Chinese Doctors' Day",
+            "zh-Hans": "中国医师节",
+            "zh-Hant": "中國醫師節",
+            "ja": "中国医師の日",
+            "ko": "중국 의사의 날",
+            "de": "Tag der chinesischen Ärzte",
+            "fr": "Journée des médecins chinois"
+          },
+          "calendar": "gregorian",
+          "month": 8,
+          "day": 19,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-victory-day",
+          "names": {
+            "en": "Victory Memorial Day of the War of Resistance",
+            "zh-Hans": "中国人民抗日战争胜利纪念日",
+            "zh-Hant": "中國人民抗日戰爭勝利紀念日",
+            "ja": "中国人民抗日戦争勝利記念日",
+            "ko": "중국인민항일전쟁 승리 기념일",
+            "de": "Gedenktag des Sieges im Widerstandskrieg",
+            "fr": "Journée commémorative de la victoire de la Guerre de résistance"
+          },
+          "calendar": "gregorian",
+          "month": 9,
+          "day": 3,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-teachers-day",
+          "names": {
+            "en": "Teachers' Day",
+            "zh-Hans": "教师节",
+            "zh-Hant": "教師節",
+            "ja": "教師の日",
+            "ko": "스승의 날",
+            "de": "Lehrertag",
+            "fr": "Journée des enseignants"
+          },
+          "calendar": "gregorian",
+          "month": 9,
+          "day": 10,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-harvest",
+          "names": {
+            "en": "Chinese Farmers' Harvest Festival",
+            "zh-Hans": "中国农民丰收节",
+            "zh-Hant": "中國農民豐收節",
+            "ja": "中国農民豊収節",
+            "ko": "중국 농민 풍수절",
+            "de": "Chinesisches Erntefest der Bauern",
+            "fr": "Fête des récoltes des agriculteurs chinois"
+          },
+          "calendar": "gregorian",
+          "month": 9,
+          "day": 23,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "cn-martyrs-day",
+          "names": {
+            "en": "Martyrs' Day",
+            "zh-Hans": "烈士纪念日",
+            "zh-Hant": "烈士紀念日",
+            "ja": "烈士記念日",
+            "ko": "열사 기념일",
+            "de": "Gedenktag der Märtyrer",
+            "fr": "Journée commémorative des martyrs"
+          },
+          "calendar": "gregorian",
+          "month": 9,
+          "day": 30,
           "recurrence": "yearly"
         },
         {
           "id": "cn-national-day",
-          "names": { "en": "National Day", "zh-Hans": "国庆节" },
+          "names": {
+            "en": "National Day",
+            "zh-Hans": "国庆节",
+            "zh-Hant": "國慶節",
+            "ja": "国慶節",
+            "ko": "국경절",
+            "de": "Nationalfeiertag",
+            "fr": "Fête nationale"
+          },
           "calendar": "gregorian",
           "month": 10,
           "day": 1,
           "recurrence": "yearly"
-        }
-      ]
-    },
-    {
-      "id": "solarTerm",
-      "names": {
-        "en": "Solar Terms",
-        "zh-Hans": "节气"
-      },
-      "items": [
-        {
-          "id": "cn-jingzhe",
-          "names": { "en": "Awakening of Insects", "zh-Hans": "惊蛰" },
-          "calendar": "gregorian",
-          "month": 3,
-          "day": 6,
-          "recurrence": "yearly",
-          "datesByYear": {
-            "2025": "03-05",
-            "2026": "03-06",
-            "2027": "03-06"
-          }
         },
         {
-          "id": "cn-chunfen",
-          "names": { "en": "Spring Equinox", "zh-Hans": "春分" },
+          "id": "cn-journalists-day",
+          "names": {
+            "en": "Journalists' Day",
+            "zh-Hans": "记者节",
+            "zh-Hant": "記者節",
+            "ja": "記者節",
+            "ko": "기자절",
+            "de": "Tag der Journalisten",
+            "fr": "Journée des journalistes"
+          },
           "calendar": "gregorian",
-          "month": 3,
-          "day": 21,
-          "recurrence": "yearly",
-          "datesByYear": {
-            "2025": "03-20",
-            "2026": "03-21",
-            "2027": "03-21"
-          }
+          "month": 11,
+          "day": 8,
+          "recurrence": "yearly"
         },
         {
-          "id": "cn-qingming",
-          "names": { "en": "Qingming", "zh-Hans": "清明" },
+          "id": "cn-constitution-day",
+          "names": {
+            "en": "National Constitution Day",
+            "zh-Hans": "国家宪法日",
+            "zh-Hant": "國家憲法日",
+            "ja": "国家憲法の日",
+            "ko": "국가 헌법의 날",
+            "de": "Tag der Verfassung",
+            "fr": "Journée de la Constitution"
+          },
           "calendar": "gregorian",
-          "month": 4,
-          "day": 5,
-          "recurrence": "yearly",
-          "datesByYear": {
-            "2025": "04-04",
-            "2026": "04-05",
-            "2027": "04-05"
-          }
-        }
-      ]
-    },
-    {
-      "id": "publicHoliday",
-      "names": {
-        "en": "Public Holidays",
-        "zh-Hans": "假日"
-      },
-      "items": [
+          "month": 12,
+          "day": 4,
+          "recurrence": "yearly"
+        },
         {
-          "id": "cn-holiday-2026-national-break-start",
-          "names": { "en": "National Day Holiday (start)", "zh-Hans": "国庆假期（开始）" },
+          "id": "cn-nanjing-memorial",
+          "names": {
+            "en": "National Memorial Day for the Victims of the Nanjing Massacre",
+            "zh-Hans": "南京大屠杀死难者国家公祭日",
+            "zh-Hant": "南京大屠殺死難者國家公祭日",
+            "ja": "南京大虐殺犠牲者国家公祭日",
+            "ko": "난징대학살 희생자 국가공제일",
+            "de": "Nationaler Gedenktag für die Opfer des Nanjing-Massakers",
+            "fr": "Journée nationale de commémoration des victimes du massacre de Nanjing"
+          },
           "calendar": "gregorian",
-          "recurrence": "none",
-          "date": "2026-10-01",
-          "notes": {
-            "en": "Example one-off public holiday entry.",
-            "zh-Hans": "一次性假日示例，可按国务院安排逐年维护。"
-          }
+          "month": 12,
+          "day": 13,
+          "recurrence": "yearly"
         }
       ]
     }

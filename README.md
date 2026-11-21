@@ -110,9 +110,7 @@ App **只显示数据里存在的 section**；不同国家 section 数量可以�
 | `month` / `day` | 月日；农历按中国农历月日 |
 | `leapMonth` | 可选，农历是否闰月，默认 `false` |
 | `recurrence` | `yearly` 或 `none` |
-| `datesByYear` | 可选，`{"2026":"04-05"}`，节气等逐年公历日；有则优先 |
 | `date` | 可选，一次性公历 `YYYY-MM-DD`（`recurrence: none`） |
-| `notes` | 可选多语言备注 |
 
 农历条目由 App 转成**下一次**公历日再写入提醒日；公历 `yearly` 使用年循环。
 
@@ -120,4 +118,3 @@ App **只显示数据里存在的 section**；不同国家 section 数量可以�
 
 - 先改 JSON → 本地用 App 拉 raw 或 bundle 校验 → 再 push。
 - 改 `schemaVersion` 仅在破坏兼容时递增。
-- 中国节气优先维护近若干年的 `datesByYear`。
