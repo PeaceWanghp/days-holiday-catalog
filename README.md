@@ -111,7 +111,8 @@ App **只显示数据里存在的 section**；不同国家 section 数量可以�
 | `id` | 全球唯一稳定 ID（导入去重用） |
 | `names` | 多语言名称；主语言 `en` |
 | `calendar` | `gregorian` 公历 / `lunar` 农历（中国历） |
-| `month` / `day` | 月日；农历按中国农历月日 |
+| `month` / `day` | 月日；农历按中国农历月日。`lastDay` 为真时可不写 `day` |
+| `lastDay` | 可选。农历该月最后一天（除夕为腊月最后一天，即上一年最后一天） |
 | `leapMonth` | 可选，农历是否闰月，默认 `false` |
 | `recurrence` | `yearly` 或 `none` |
 | `date` | 可选，一次性公历 `YYYY-MM-DD`（`recurrence: none`） |

@@ -85,9 +85,10 @@
             "de": "Chinesischer Neujahrsabend",
             "fr": "Réveillon du Nouvel An chinois"
           },
-          "calendar": "gregorian",
-          "month": 1,
-          "day": 28,
+          "calendar": "lunar",
+          "month": 12,
+          "lastDay": true,
+          "leapMonth": false,
           "recurrence": "yearly"
         },
         {
