@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "code": "AU",
+  "names": {
+    "en": "Australia",
+    "zh-Hans": "澳大利亚",
+    "zh-Hant": "澳大利亞",
+    "ja": "オーストラリア",
+    "ko": "호주",
+    "de": "Australien",
+    "fr": "Australie"
+  },
+  "sections": [
+    {
+      "id": "festival",
+      "names": {
+        "en": "Holidays",
+        "zh-Hans": "节日",
+        "zh-Hant": "節日",
+        "ja": "祝日",
+        "ko": "공휴일",
+        "de": "Feiertage",
+        "fr": "Jours fériés"
+      },
+      "items": [
+        {
+          "id": "au-new-year",
+          "names": {
+            "en": "New Year's Day",
+            "zh-Hans": "元旦",
+            "zh-Hant": "元旦",
+            "ja": "元日",
+            "ko": "신정",
+            "de": "Neujahr",
+            "fr": "Jour de l'an"
+          },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "au-australia-day",
+          "names": {
+            "en": "Australia Day",
+            "zh-Hans": "澳大利亚日",
+            "zh-Hant": "澳大利亞日",
+            "ja": "オーストラリアの日",
+            "ko": "호주의 날",
+            "de": "Australien-Tag",
+            "fr": "Journée de l'Australie"
+          },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 26,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "au-valentines-day",
+          "names": {
+            "en": "Valentine's Day",
+            "zh-Hans": "情人节",
+            "zh-Hant": "情人節",
+            "ja": "バレンタインデー",
+            "ko": "발렌타인데이",
+            "de": "Valentinstag",
+            "fr": "Saint-Valentin"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "day": 14,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "au-good-friday",
+          "names": {
+            "en": "Good Friday",
+            "zh-Hans": "耶稣受难日",
+            "zh-Hant": "耶穌受難日",
+            "ja": "聖金曜日",
+            "ko": "성금요일",
+            "de": "Karfreitag",
+            "fr": "Vendredi saint"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3,
+            "dayOffset": -2
+          }
+        },
+        {
+          "id": "au-easter-saturday",
+          "names": {
+            "en": "Easter Saturday",
+            "zh-Hans": "复活节星期六",
+            "zh-Hant": "復活節星期六",
+            "ja": "イースターサタデー",
+            "ko": "부활절 토요일",
+            "de": "Karsamstag",
+            "fr": "Samedi saint"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3,
+            "dayOffset": -1
+          }
+        },
+        {
+          "id": "au-easter",
+          "names": {
+            "en": "Easter",
+            "zh-Hans": "复活节",
+            "zh-Hant": "復活節",
+            "ja": "イースター",
+            "ko": "부활절",
+            "de": "Ostern",
+            "fr": "Pâques"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3
+          }
+        },
+        {
+          "id": "au-easter-monday",
+          "names": {
+            "en": "Easter Monday",
+            "zh-Hans": "复活节星期一",
+            "zh-Hant": "復活節星期一",
+            "ja": "イースターマンデー",
+            "ko": "부활절 월요일",
+            "de": "Ostermontag",
+            "fr": "Lundi de Pâques"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3,
+            "dayOffset": 1
+          }
+        },
+        {
+          "id": "au-anzac-day",
+          "names": {
+            "en": "Anzac Day",
+            "zh-Hans": "澳新军团日",
+            "zh-Hant": "澳紐軍團日",
+            "ja": "アンザック・デー",
+            "ko": "앤잭 데이",
+            "de": "Anzac-Tag",
+            "fr": "Journée de l'Anzac"
+          },
+          "calendar": "gregorian",
+          "month": 4,
+          "day": 25,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "au-mothers-day",
+          "names": {
+            "en": "Mother's Day",
+            "zh-Hans": "母亲节",
+            "zh-Hant": "母親節",
+            "ja": "母の日",
+            "ko": "어머니날",
+            "de": "Muttertag",
+            "fr": "Fête des Mères"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 5,
+            "weekday": "sunday",
+            "nth": 2
+          }
+        },
+        {
+          "id": "au-kings-birthday",
+          "names": {
+            "en": "King's Birthday",
+            "zh-Hans": "国王诞辰",
+            "zh-Hant": "國王誕辰",
+            "ja": "国王誕生日",
+            "ko": "국왕 탄생일",
+            "de": "Geburtstag des Königs",
+            "fr": "Anniversaire du roi"
+          },
+          "calendar": "gregorian",
+          "month": 6,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 6,
+            "weekday": "monday",
+            "nth": 2
+          }
+        },
+        {
+          "id": "au-fathers-day",
+          "names": {
+            "en": "Father's Day",
+            "zh-Hans": "父亲节",
+            "zh-Hant": "父親節",
+            "ja": "父の日",
+            "ko": "아버지날",
+            "de": "Vatertag",
+            "fr": "Fête des Pères"
+          },
+          "calendar": "gregorian",
+          "month": 9,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 9,
+            "weekday": "sunday",
+            "nth": 1
+          }
+        },
+        {
+          "id": "au-melbourne-cup",
+          "names": {
+            "en": "Melbourne Cup",
+            "zh-Hans": "墨尔本杯",
+            "zh-Hant": "墨爾本盃",
+            "ja": "メルボルンカップ",
+            "ko": "멜버른컵",
+            "de": "Melbourne Cup",
+            "fr": "Coupe de Melbourne"
+          },
+          "calendar": "gregorian",
+          "month": 11,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 11,
+            "weekday": "tuesday",
+            "nth": 1
+          }
+        },
+        {
+          "id": "au-christmas",
+          "names": {
+            "en": "Christmas",
+            "zh-Hans": "圣诞节",
+            "zh-Hant": "聖誕節",
+            "ja": "クリスマス",
+            "ko": "크리스마스",
+            "de": "Weihnachten",
+            "fr": "Noël"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 25,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "au-boxing-day",
+          "names": {
+            "en": "Boxing Day",
+            "zh-Hans": "节礼日",
+            "zh-Hant": "節禮日",
+            "ja": "ボクシング・デー",
+            "ko": "박싱 데이",
+            "de": "Zweiter Weihnachtstag",
+            "fr": "Lendemain de Noël"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 26,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "au-new-years-eve",
+          "names": {
+            "en": "New Year's Eve",
+            "zh-Hans": "跨年夜",
+            "zh-Hant": "跨年夜",
+            "ja": "大晦日",
+            "ko": "새해 전야",
+            "de": "Silvester",
+            "fr": "Réveillon du Nouvel An"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 31,
+          "recurrence": "yearly"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 12,
+  "version": 13,
   "defaultLanguage": "en",
   "languages": [
     "en",
@@ -146,6 +146,23 @@
       "file": "countries/FR.json",
       "regionHints": [
         "FR"
+      ]
+    },
+    {
+      "code": "AU",
+      "hasData": true,
+      "names": {
+        "en": "Australia",
+        "zh-Hans": "澳大利亚",
+        "zh-Hant": "澳大利亞",
+        "ja": "オーストラリア",
+        "ko": "호주",
+        "de": "Australien",
+        "fr": "Australie"
+      },
+      "file": "countries/AU.json",
+      "regionHints": [
+        "AU"
       ]
     }
   ]
