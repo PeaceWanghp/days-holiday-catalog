@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "code": "FR",
+  "names": {
+    "en": "France",
+    "zh-Hans": "法国",
+    "zh-Hant": "法國",
+    "ja": "フランス",
+    "ko": "프랑스",
+    "de": "Frankreich",
+    "fr": "France"
+  },
+  "sections": [
+    {
+      "id": "festival",
+      "names": {
+        "en": "Holidays",
+        "zh-Hans": "节日",
+        "zh-Hant": "節日",
+        "ja": "祝日",
+        "ko": "공휴일",
+        "de": "Feiertage",
+        "fr": "Jours fériés"
+      },
+      "items": [
+        {
+          "id": "fr-new-year",
+          "names": {
+            "en": "New Year's Day",
+            "zh-Hans": "元旦",
+            "zh-Hant": "元旦",
+            "ja": "元日",
+            "ko": "신정",
+            "de": "Neujahr",
+            "fr": "Jour de l'an"
+          },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "fr-epiphany",
+          "names": {
+            "en": "Epiphany",
+            "zh-Hans": "主显节",
+            "zh-Hant": "主顯節",
+            "ja": "公現祭",
+            "ko": "주현절",
+            "de": "Erscheinung des Herrn",
+            "fr": "Épiphanie"
+          },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 6,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "fr-valentines-day",
+          "names": {
+            "en": "Valentine's Day",
+            "zh-Hans": "情人节",
+            "zh-Hant": "情人節",
+            "ja": "バレンタインデー",
+            "ko": "발렌타인데이",
+            "de": "Valentinstag",
+            "fr": "Saint-Valentin"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "day": 14,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "fr-easter",
+          "names": {
+            "en": "Easter",
+            "zh-Hans": "复活节",
+            "zh-Hant": "復活節",
+            "ja": "イースター",
+            "ko": "부활절",
+            "de": "Ostern",
+            "fr": "Pâques"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3
+          }
+        },
+        {
+          "id": "fr-easter-monday",
+          "names": {
+            "en": "Easter Monday",
+            "zh-Hans": "复活节星期一",
+            "zh-Hant": "復活節星期一",
+            "ja": "イースターマンデー",
+            "ko": "부활절 월요일",
+            "de": "Ostermontag",
+            "fr": "Lundi de Pâques"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3,
+            "dayOffset": 1
+          }
+        },
+        {
+          "id": "fr-labour-day",
+          "names": {
+            "en": "Labour Day",
+            "zh-Hans": "劳动节",
+            "zh-Hant": "勞動節",
+            "ja": "メーデー",
+            "ko": "노동절",
+            "de": "Tag der Arbeit",
+            "fr": "Fête du Travail"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "fr-ascension",
+          "names": {
+            "en": "Ascension Day",
+            "zh-Hans": "耶稣升天节",
+            "zh-Hant": "耶穌升天節",
+            "ja": "キリストの昇天",
+            "ko": "예수 승천일",
+            "de": "Christi Himmelfahrt",
+            "fr": "Ascension"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 5,
+            "dayOffset": 39
+          }
+        },
+        {
+          "id": "fr-victory-day",
+          "names": {
+            "en": "Victory in Europe Day",
+            "zh-Hans": "欧战胜利日",
+            "zh-Hant": "歐戰勝利日",
+            "ja": "ヨーロッパ戦勝記念日",
+            "ko": "유럽 전승 기념일",
+            "de": "Tag des Sieges",
+            "fr": "Victoire 1945"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "day": 8,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "fr-pentecost",
+          "names": {
+            "en": "Pentecost",
+            "zh-Hans": "圣灵降临节",
+            "zh-Hant": "聖靈降臨節",
+            "ja": "聖霊降臨祭",
+            "ko": "성령강림절",
+            "de": "Pfingsten",
+            "fr": "Pentecôte"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 5,
+            "dayOffset": 49
+          }
+        },
+        {
+          "id": "fr-whit-monday",
+          "names": {
+            "en": "Whit Monday",
+            "zh-Hans": "圣灵降临节星期一",
+            "zh-Hant": "聖靈降臨節星期一",
+            "ja": "聖霊降臨祭の月曜日",
+            "ko": "성령강림절 월요일",
+            "de": "Pfingstmontag",
+            "fr": "Lundi de Pentecôte"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 5,
+            "dayOffset": 50
+          }
+        },
+        {
+          "id": "fr-mothers-day",
+          "names": {
+            "en": "Mother's Day",
+            "zh-Hans": "母亲节",
+            "zh-Hant": "母親節",
+            "ja": "母の日",
+            "ko": "어머니날",
+            "de": "Muttertag",
+            "fr": "Fête des Mères"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 5,
+            "weekday": "sunday",
+            "nth": -1,
+            "avoidEasterOffset": 49,
+            "avoidShift": 7
+          }
+        },
+        {
+          "id": "fr-fathers-day",
+          "names": {
+            "en": "Father's Day",
+            "zh-Hans": "父亲节",
+            "zh-Hant": "父親節",
+            "ja": "父の日",
+            "ko": "아버지날",
+            "de": "Vatertag",
+            "fr": "Fête des Pères"
+          },
+          "calendar": "gregorian",
+          "month": 6,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 6,
+            "weekday": "sunday",
+            "nth": 3
+          }
+        },
+        {
+          "id": "fr-music-day",
+          "names": {
+            "en": "Music Day",
+            "zh-Hans": "音乐节",
+            "zh-Hant": "音樂節",
+            "ja": "音楽の日",
+            "ko": "음악의 날",
+            "de": "Tag der Musik",
+            "fr": "Fête de la musique"
+          },
+          "calendar": "gregorian",
+          "month": 6,
+          "day": 21,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "fr-bastille-day",
+          "names": {
+            "en": "Bastille Day",
+            "zh-Hans": "巴士底日",
+            "zh-Hant": "巴士底日",
+            "ja": "パリ祭",
+            "ko": "바스티유의 날",
+            "de": "Französischer Nationalfeiertag",
+            "fr": "Fête nationale"
+          },
+          "calendar": "gregorian",
+          "month": 7,
+          "day": 14,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "fr-assumption",
+          "names": {
+            "en": "Assumption Day",
+            "zh-Hans": "圣母升天节",
+            "zh-Hant": "聖母升天節",
+            "ja": "聖母被昇天",
+            "ko": "성모 승천 대축일",
+            "de": "Mariä Himmelfahrt",
+            "fr": "Assomption"
+          },
+          "calendar": "gregorian",
+          "month": 8,
+          "day": 15,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "fr-all-saints",
+          "names": {
+            "en": "All Saints' Day",
+            "zh-Hans": "诸圣节",
+            "zh-Hant": "諸聖節",
+            "ja": "万聖節",
+            "ko": "모든 성인 대축일",
+            "de": "Allerheiligen",
+            "fr": "Toussaint"
+          },
+          "calendar": "gregorian",
+          "month": 11,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "fr-armistice",
+          "names": {
+            "en": "Armistice Day",
+            "zh-Hans": "停战日",
+            "zh-Hant": "停戰日",
+            "ja": "休戦記念日",
+            "ko": "휴전 기념일",
+            "de": "Waffenstillstandstag",
+            "fr": "Armistice 1918"
+          },
+          "calendar": "gregorian",
+          "month": 11,
+          "day": 11,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "fr-christmas-eve",
+          "names": {
+            "en": "Christmas Eve",
+            "zh-Hans": "平安夜",
+            "zh-Hant": "平安夜",
+            "ja": "クリスマスイブ",
+            "ko": "크리스마스 이브",
+            "de": "Heiligabend",
+            "fr": "Réveillon de Noël"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 24,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "fr-christmas",
+          "names": {
+            "en": "Christmas",
+            "zh-Hans": "圣诞节",
+            "zh-Hant": "聖誕節",
+            "ja": "クリスマス",
+            "ko": "크리스마스",
+            "de": "Weihnachten",
+            "fr": "Noël"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 25,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "fr-new-years-eve",
+          "names": {
+            "en": "New Year's Eve",
+            "zh-Hans": "跨年夜",
+            "zh-Hant": "跨年夜",
+            "ja": "大晦日",
+            "ko": "새해 전야",
+            "de": "Silvester",
+            "fr": "Saint-Sylvestre"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 31,
+          "recurrence": "yearly"
+        }
+      ]
+    }
+  ]
+}

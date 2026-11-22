@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 11,
+  "version": 12,
   "defaultLanguage": "en",
   "languages": [
     "en",
@@ -129,6 +129,23 @@
       "file": "countries/CA.json",
       "regionHints": [
         "CA"
+      ]
+    },
+    {
+      "code": "FR",
+      "hasData": true,
+      "names": {
+        "en": "France",
+        "zh-Hans": "法国",
+        "zh-Hant": "法國",
+        "ja": "フランス",
+        "ko": "프랑스",
+        "de": "Frankreich",
+        "fr": "France"
+      },
+      "file": "countries/FR.json",
+      "regionHints": [
+        "FR"
       ]
     }
   ]
