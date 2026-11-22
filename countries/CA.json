@@ -1,0 +1,379 @@
+{
+  "schemaVersion": 1,
+  "code": "CA",
+  "names": {
+    "en": "Canada",
+    "zh-Hans": "加拿大",
+    "zh-Hant": "加拿大",
+    "ja": "カナダ",
+    "ko": "캐나다",
+    "de": "Kanada",
+    "fr": "Canada"
+  },
+  "sections": [
+    {
+      "id": "festival",
+      "names": {
+        "en": "Holidays",
+        "zh-Hans": "节日",
+        "zh-Hant": "節日",
+        "ja": "祝日",
+        "ko": "공휴일",
+        "de": "Feiertage",
+        "fr": "Jours fériés"
+      },
+      "items": [
+        {
+          "id": "ca-new-year",
+          "names": {
+            "en": "New Year's Day",
+            "zh-Hans": "元旦",
+            "zh-Hant": "元旦",
+            "ja": "元日",
+            "ko": "신정",
+            "de": "Neujahr",
+            "fr": "Jour de l'an"
+          },
+          "calendar": "gregorian",
+          "month": 1,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "ca-valentines-day",
+          "names": {
+            "en": "Valentine's Day",
+            "zh-Hans": "情人节",
+            "zh-Hant": "情人節",
+            "ja": "バレンタインデー",
+            "ko": "발렌타인데이",
+            "de": "Valentinstag",
+            "fr": "Saint-Valentin"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "day": 14,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "ca-family-day",
+          "names": {
+            "en": "Family Day",
+            "zh-Hans": "家庭日",
+            "zh-Hant": "家庭日",
+            "ja": "ファミリーデー",
+            "ko": "가족의 날",
+            "de": "Familientag",
+            "fr": "Fête de la famille"
+          },
+          "calendar": "gregorian",
+          "month": 2,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 2,
+            "weekday": "monday",
+            "nth": 3
+          }
+        },
+        {
+          "id": "ca-good-friday",
+          "names": {
+            "en": "Good Friday",
+            "zh-Hans": "耶稣受难日",
+            "zh-Hant": "耶穌受難日",
+            "ja": "聖金曜日",
+            "ko": "성금요일",
+            "de": "Karfreitag",
+            "fr": "Vendredi saint"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3,
+            "dayOffset": -2
+          }
+        },
+        {
+          "id": "ca-easter",
+          "names": {
+            "en": "Easter",
+            "zh-Hans": "复活节",
+            "zh-Hant": "復活節",
+            "ja": "イースター",
+            "ko": "부활절",
+            "de": "Ostern",
+            "fr": "Pâques"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3
+          }
+        },
+        {
+          "id": "ca-easter-monday",
+          "names": {
+            "en": "Easter Monday",
+            "zh-Hans": "复活节星期一",
+            "zh-Hant": "復活節星期一",
+            "ja": "イースターマンデー",
+            "ko": "부활절 월요일",
+            "de": "Ostermontag",
+            "fr": "Lundi de Pâques"
+          },
+          "calendar": "gregorian",
+          "month": 3,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "westernEaster",
+            "month": 3,
+            "dayOffset": 1
+          }
+        },
+        {
+          "id": "ca-mothers-day",
+          "names": {
+            "en": "Mother's Day",
+            "zh-Hans": "母亲节",
+            "zh-Hant": "母親節",
+            "ja": "母の日",
+            "ko": "어머니날",
+            "de": "Muttertag",
+            "fr": "Fête des Mères"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 5,
+            "weekday": "sunday",
+            "nth": 2
+          }
+        },
+        {
+          "id": "ca-victoria-day",
+          "names": {
+            "en": "Victoria Day",
+            "zh-Hans": "维多利亚日",
+            "zh-Hant": "維多利亞日",
+            "ja": "ビクトリア・デー",
+            "ko": "빅토리아 데이",
+            "de": "Victoria Day",
+            "fr": "Fête de la Reine"
+          },
+          "calendar": "gregorian",
+          "month": 5,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "weekdayBefore",
+            "month": 5,
+            "day": 25,
+            "weekday": "monday"
+          }
+        },
+        {
+          "id": "ca-fathers-day",
+          "names": {
+            "en": "Father's Day",
+            "zh-Hans": "父亲节",
+            "zh-Hant": "父親節",
+            "ja": "父の日",
+            "ko": "아버지날",
+            "de": "Vatertag",
+            "fr": "Fête des Pères"
+          },
+          "calendar": "gregorian",
+          "month": 6,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 6,
+            "weekday": "sunday",
+            "nth": 3
+          }
+        },
+        {
+          "id": "ca-canada-day",
+          "names": {
+            "en": "Canada Day",
+            "zh-Hans": "加拿大日",
+            "zh-Hant": "加拿大日",
+            "ja": "カナダの日",
+            "ko": "캐나다의 날",
+            "de": "Kanada-Tag",
+            "fr": "Fête du Canada"
+          },
+          "calendar": "gregorian",
+          "month": 7,
+          "day": 1,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "ca-civic-holiday",
+          "names": {
+            "en": "Civic Holiday",
+            "zh-Hans": "公民日",
+            "zh-Hant": "公民日",
+            "ja": "市民休日",
+            "ko": "시민 휴일",
+            "de": "Bürgerfeiertag",
+            "fr": "Congé civique"
+          },
+          "calendar": "gregorian",
+          "month": 8,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 8,
+            "weekday": "monday",
+            "nth": 1
+          }
+        },
+        {
+          "id": "ca-labour-day",
+          "names": {
+            "en": "Labour Day",
+            "zh-Hans": "劳工节",
+            "zh-Hant": "勞工節",
+            "ja": "レイバーデー",
+            "ko": "노동절",
+            "de": "Labor Day",
+            "fr": "Fête du Travail"
+          },
+          "calendar": "gregorian",
+          "month": 9,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 9,
+            "weekday": "monday",
+            "nth": 1
+          }
+        },
+        {
+          "id": "ca-truth-and-reconciliation",
+          "names": {
+            "en": "National Day for Truth and Reconciliation",
+            "zh-Hans": "真相与和解日",
+            "zh-Hant": "真相與和解日",
+            "ja": "真実と和解の日",
+            "ko": "진실과 화해의 날",
+            "de": "Tag der Wahrheit und Versöhnung",
+            "fr": "Journée nationale de la vérité et de la réconciliation"
+          },
+          "calendar": "gregorian",
+          "month": 9,
+          "day": 30,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "ca-thanksgiving",
+          "names": {
+            "en": "Thanksgiving",
+            "zh-Hans": "感恩节",
+            "zh-Hant": "感恩節",
+            "ja": "感謝祭",
+            "ko": "추수감사절",
+            "de": "Thanksgiving",
+            "fr": "Action de grâce"
+          },
+          "calendar": "gregorian",
+          "month": 10,
+          "recurrence": "yearly",
+          "dateRule": {
+            "kind": "nthWeekday",
+            "month": 10,
+            "weekday": "monday",
+            "nth": 2
+          }
+        },
+        {
+          "id": "ca-halloween",
+          "names": {
+            "en": "Halloween",
+            "zh-Hans": "万圣节",
+            "zh-Hant": "萬聖節",
+            "ja": "ハロウィン",
+            "ko": "할로윈",
+            "de": "Halloween",
+            "fr": "Halloween"
+          },
+          "calendar": "gregorian",
+          "month": 10,
+          "day": 31,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "ca-remembrance-day",
+          "names": {
+            "en": "Remembrance Day",
+            "zh-Hans": "国殇纪念日",
+            "zh-Hant": "國殤紀念日",
+            "ja": "リメンブランス・デー",
+            "ko": "영령 기념일",
+            "de": "Remembrance Day",
+            "fr": "Jour du Souvenir"
+          },
+          "calendar": "gregorian",
+          "month": 11,
+          "day": 11,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "ca-christmas",
+          "names": {
+            "en": "Christmas",
+            "zh-Hans": "圣诞节",
+            "zh-Hant": "聖誕節",
+            "ja": "クリスマス",
+            "ko": "크리스마스",
+            "de": "Weihnachten",
+            "fr": "Noël"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 25,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "ca-boxing-day",
+          "names": {
+            "en": "Boxing Day",
+            "zh-Hans": "节礼日",
+            "zh-Hant": "節禮日",
+            "ja": "ボクシング・デー",
+            "ko": "박싱 데이",
+            "de": "Zweiter Weihnachtstag",
+            "fr": "Lendemain de Noël"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 26,
+          "recurrence": "yearly"
+        },
+        {
+          "id": "ca-new-years-eve",
+          "names": {
+            "en": "New Year's Eve",
+            "zh-Hans": "跨年夜",
+            "zh-Hant": "跨年夜",
+            "ja": "大晦日",
+            "ko": "새해 전야",
+            "de": "Silvester",
+            "fr": "Réveillon du Nouvel An"
+          },
+          "calendar": "gregorian",
+          "month": 12,
+          "day": 31,
+          "recurrence": "yearly"
+        }
+      ]
+    }
+  ]
+}

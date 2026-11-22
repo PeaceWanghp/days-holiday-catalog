@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 10,
+  "version": 11,
   "defaultLanguage": "en",
   "languages": [
     "en",
@@ -112,6 +112,23 @@
       "file": "countries/DE.json",
       "regionHints": [
         "DE"
+      ]
+    },
+    {
+      "code": "CA",
+      "hasData": true,
+      "names": {
+        "en": "Canada",
+        "zh-Hans": "加拿大",
+        "zh-Hant": "加拿大",
+        "ja": "カナダ",
+        "ko": "캐나다",
+        "de": "Kanada",
+        "fr": "Canada"
+      },
+      "file": "countries/CA.json",
+      "regionHints": [
+        "CA"
       ]
     }
   ]
